@@ -4,7 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ADEK Schools Map - UAE</title>
+    <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Leaflet Omnivore for KML support -->
+    <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; height: 100vh; overflow: hidden; display: flex; }
@@ -43,6 +50,7 @@
         .legend-item { display: flex; align-items: center; margin: 8px 0; font-size: 13px; color: #495057; }
         .legend-color { width: 18px; height: 18px; border-radius: 50%; margin-right: 10px; border: 2px solid #495057; }
         .color-private { background-color: #3388ff; border-color: #2266dd; }
+        .color-public { background-color: #22aa44; border-color: #118833; }
         .color-charter { background-color: #ff8833; border-color: #dd6611; }
         
         /* Map */
@@ -79,6 +87,11 @@
                     <option value="none">No Boundaries</option>
                     <option value="emirates">UAE Emirates (7)</option>
                     <option value="municipalities">All Municipalities & Regions (195)</option>
+                    <option value="dubai-communities">Dubai Communities (KML)</option>
+                    <option value="dubai-sectors">Dubai Sectors (KML)</option>
+                    <option value="abudhabi-communities">Abu Dhabi Communities</option>
+                    <option value="abudhabi-districts">Abu Dhabi Districts</option>
+                    <option value="abudhabi-municipalities">Abu Dhabi Municipalities (3)</option>
                 </select>
             </div>
             
@@ -86,6 +99,14 @@
                 <label for="region-filter">Filter by Region</label>
                 <select id="region-filter">
                     <option value="all">All Regions</option>
+                </select>
+            </div>
+            
+            <div class="boundary-selector">
+                <label for="map-language">Map Language</label>
+                <select id="map-language">
+                    <option value="english">English</option>
+                    <option value="arabic">Arabic (العربية)</option>
                 </select>
             </div>
             
@@ -109,6 +130,10 @@
                 <span class="stat-value" id="private-count" style="color: #3388ff;">0</span>
             </div>
             <div class="stat-item">
+                <span class="stat-label">Public Schools</span>
+                <span class="stat-value" id="public-count" style="color: #22aa44;">0</span>
+            </div>
+            <div class="stat-item">
                 <span class="stat-label">Charter Schools</span>
                 <span class="stat-value" id="charter-count" style="color: #ff8833;">0</span>
             </div>
@@ -123,6 +148,10 @@
             <div class="legend-item">
                 <div class="legend-color color-private"></div>
                 <span>Private Schools</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color color-public"></div>
+                <span>Public Schools</span>
             </div>
             <div class="legend-item">
                 <div class="legend-color color-charter"></div>

@@ -24,6 +24,13 @@ Thumbs.db
 *.bak
 *.log
 
+# Data folders
+abudhabi_data/
+boundaries/
+scripts/
+docs/
+
 # Don't ignore the actual data files we need
 !schools-data.js
-!boundaries/*.geojson
+!Geographies/*.geojson
+!Geographies/*.kml

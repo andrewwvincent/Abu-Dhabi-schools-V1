@@ -1,11 +1,21 @@
 // Initialize map centered on UAE
 const map = L.map('map').setView([24.0, 54.0], 7);
 
-// Add OpenStreetMap tiles
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors',
-    maxZoom: 19
-}).addTo(map);
+// Define tile layers for different languages
+const tileLayers = {
+    english: L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap contributors © CARTO',
+        subdomains: 'abcd',
+        maxZoom: 20
+    }),
+    arabic: L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors',
+        maxZoom: 19
+    })
+};
+
+// Add default English tile layer
+let currentTileLayer = tileLayers.english.addTo(map);
 
 // Custom icons for school types
 const privateIcon = L.icon({
@@ -26,6 +36,15 @@ const charterIcon = L.icon({
     shadowSize: [41, 41]
 });
 
+const publicIcon = L.icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+});
+
 // Layer groups
 let schoolMarkers = L.layerGroup().addTo(map);
 let boundaryLayer = null;
@@ -39,6 +58,7 @@ let allMarkers = [];
 // Statistics
 let privateCount = 0;
 let charterCount = 0;
+let publicCount = 0;
 
 // Add school markers
 function addSchoolMarkers(schools = schoolsData) {
@@ -46,17 +66,37 @@ function addSchoolMarkers(schools = schoolsData) {
     allMarkers = [];
     privateCount = 0;
     charterCount = 0;
+    publicCount = 0;
 
     schools.forEach(school => {
-        const icon = school.school_type === 'Private' ? privateIcon : charterIcon;
-        if (school.school_type === 'Private') privateCount++;
-        else charterCount++;
+        let icon;
+        if (school.school_type === 'Private') {
+            icon = privateIcon;
+            privateCount++;
+        } else if (school.school_type === 'Public') {
+            icon = publicIcon;
+            publicCount++;
+        } else {
+            icon = charterIcon;
+            charterCount++;
+        }
+
+        // Format tuition fee
+        let tuitionDisplay = 'N/A';
+        if (school.tuition_fee !== undefined && school.tuition_fee !== null) {
+            if (school.tuition_fee === 0) {
+                tuitionDisplay = 'Free';
+            } else {
+                tuitionDisplay = `AED ${school.tuition_fee.toLocaleString()}`;
+            }
+        }
 
         const popupContent = `
             <div class="info-panel">
                 <h3>${school.name}</h3>
                 <div class="field"><span class="label">Type:</span> <span class="value">${school.school_type}</span></div>
                 <div class="field"><span class="label">Curriculum:</span> <span class="value">${school.curriculum_type}</span></div>
+                <div class="field"><span class="label">Avg. Tuition:</span> <span class="value">${tuitionDisplay}</span></div>
                 <div class="field"><span class="label">Address:</span> <span class="value">${school.address}</span></div>
                 <div class="field"><span class="label">Coordinates:</span> <span class="value">${school.lat.toFixed(6)}, ${school.lon.toFixed(6)}</span></div>
             </div>
@@ -77,6 +117,7 @@ function addSchoolMarkers(schools = schoolsData) {
 function updateStatistics() {
     document.getElementById('total-schools').textContent = schoolsData.length;
     document.getElementById('private-count').textContent = privateCount;
+    document.getElementById('public-count').textContent = publicCount;
     document.getElementById('charter-count').textContent = charterCount;
 }
 
@@ -103,17 +144,31 @@ async function loadBoundaries(type) {
     }
 
     const boundaryFiles = {
-        'emirates': 'boundaries/uae_adm1_gadm.geojson',
-        'municipalities': 'boundaries/uae_adm2_gadm.geojson'
+        'emirates': { file: 'Geographies/uae_adm1_gadm.geojson', type: 'geojson' },
+        'municipalities': { file: 'Geographies/uae_adm2_gadm.geojson', type: 'geojson' },
+        'dubai-communities': { file: 'Geographies/Community.kml', type: 'kml', dataType: 'polygon' },
+        'dubai-sectors': { file: 'Geographies/Sectors.kml', type: 'kml', dataType: 'polygon' },
+        'abudhabi-communities': { file: 'Geographies/abudhabi_Community_layer12.geojson', type: 'geojson' },
+        'abudhabi-districts': { file: 'Geographies/abudhabi_District_layer13.geojson', type: 'geojson' },
+        'abudhabi-municipalities': { file: 'Geographies/abudhabi_Municipality_layer14.geojson', type: 'geojson' }
     };
 
-    const file = boundaryFiles[type];
-    if (!file) return;
+    const boundaryConfig = boundaryFiles[type];
+    if (!boundaryConfig) return;
 
     try {
-        const response = await fetch(file);
-        const data = await response.json();
-        currentBoundaryData = data;
+        let data;
+        
+        if (boundaryConfig.type === 'kml') {
+            // Load KML file using Leaflet Omnivore
+            await loadKMLBoundaries(boundaryConfig.file, type, boundaryConfig.dataType);
+            return;
+        } else {
+            // Load GeoJSON file
+            const response = await fetch(boundaryConfig.file);
+            data = await response.json();
+            currentBoundaryData = data;
+        }
 
         // Style for boundaries
         const boundaryStyle = {
@@ -135,21 +190,54 @@ async function loadBoundaries(type) {
             style: boundaryStyle,
             onEachFeature: (feature, layer) => {
                 const props = feature.properties;
-                // Support both geoBoundaries and GADM formats
-                const regionName = props.shapeName || props.NAME_2 || props.NAME_1 || 'Unknown';
-                const emirate = props.NAME_1 || props.shapeName || '';
-                const regionType = props.TYPE_2 || props.shapeType || 'Region';
+                
+                // Support multiple formats: GADM, geoBoundaries, and Abu Dhabi ArcGIS
+                let regionName, arabicName, emirate, regionType, additionalInfo;
+                
+                // Abu Dhabi Municipality
+                if (props.NAMEENGLISH && type === 'abudhabi-municipalities') {
+                    regionName = props.NAMEENGLISH;
+                    arabicName = props.NAMEARABIC;
+                    emirate = 'Abu Dhabi';
+                    regionType = 'Municipality';
+                }
+                // Abu Dhabi District
+                else if (props.NAMEENGLISH && type === 'abudhabi-districts') {
+                    regionName = props.NAMEENGLISH;
+                    arabicName = props.NAMEARABIC;
+                    emirate = 'Abu Dhabi';
+                    regionType = 'District';
+                    additionalInfo = `District ID: ${props.DISTRICTID}`;
+                }
+                // Abu Dhabi Community
+                else if (props.COMMUNITYNAMEENG && type === 'abudhabi-communities') {
+                    regionName = props.COMMUNITYNAMEENG;
+                    emirate = 'Abu Dhabi';
+                    regionType = 'Community';
+                    additionalInfo = `Community ID: ${props.COMMUNITYID}, District ID: ${props.DISTRICTID}`;
+                }
+                // GADM or geoBoundaries format
+                else {
+                    regionName = props.shapeName || props.NAME_2 || props.NAME_1 || 'Unknown';
+                    emirate = props.NAME_1 || props.shapeName || '';
+                    regionType = props.TYPE_2 || props.shapeType || 'Region';
+                    arabicName = props.NL_NAME_2 || props.NL_NAME_1;
+                }
                 
                 // Popup content with English and Arabic
                 let popupContent = `<div style="font-size: 14px;"><strong>${regionName}</strong>`;
-                if (props.NL_NAME_2 || props.NL_NAME_1) {
-                    popupContent += ` <span style="color: #888; font-size: 12px;">(${props.NL_NAME_2 || props.NL_NAME_1 || ''})</span>`;
+                if (arabicName) {
+                    popupContent += ` <span style="color: #888; font-size: 12px;">(${arabicName})</span>`;
                 }
                 popupContent += `<br>`;
                 if (emirate && emirate !== regionName) {
                     popupContent += `<strong>Emirate:</strong> ${emirate}<br>`;
                 }
-                popupContent += `<strong>Type:</strong> ${regionType}</div>`;
+                popupContent += `<strong>Type:</strong> ${regionType}`;
+                if (additionalInfo) {
+                    popupContent += `<br><span style="font-size: 11px; color: #666;">${additionalInfo}</span>`;
+                }
+                popupContent += `</div>`;
                 
                 layer.bindPopup(popupContent);
 
@@ -199,8 +287,38 @@ function populateRegionFilter(data) {
     
     data.features.forEach(feature => {
         const props = feature.properties;
-        const regionName = props.shapeName || props.NAME_2 || props.NAME_1 || 'Unknown';
-        const emirate = props.NAME_1 || props.shapeName || 'Other';
+        let regionName, emirate;
+        
+        // Abu Dhabi Municipality
+        if (props.NAMEENGLISH && props.OBJECTID && !props.DISTRICTID) {
+            regionName = props.NAMEENGLISH;
+            emirate = 'Abu Dhabi';
+        }
+        // Abu Dhabi District
+        else if (props.NAMEENGLISH && props.DISTRICTID && !props.COMMUNITYID) {
+            regionName = props.NAMEENGLISH;
+            emirate = 'Abu Dhabi';
+        }
+        // Abu Dhabi Community
+        else if (props.COMMUNITYNAMEENG) {
+            regionName = props.COMMUNITYNAMEENG;
+            emirate = 'Abu Dhabi';
+        }
+        // Dubai Sectors (KML)
+        else if (props.SEC_NUM) {
+            regionName = `Sector ${props.SEC_NUM}`;
+            emirate = 'Dubai';
+        }
+        // Dubai Communities (KML)
+        else if (props.CNAME_E || props.name) {
+            regionName = props.CNAME_E || props.name;
+            emirate = 'Dubai';
+        }
+        // GADM/geoBoundaries format
+        else {
+            regionName = props.shapeName || props.NAME_2 || props.NAME_1 || 'Unknown';
+            emirate = props.NAME_1 || props.shapeName || 'Unknown';
+        }
         
         if (!regionsByEmirate[emirate]) {
             regionsByEmirate[emirate] = [];
@@ -237,7 +355,29 @@ function filterSchoolsByRegion(regionName) {
     // Find the selected region feature
     const regionFeature = currentBoundaryData.features.find(f => {
         const props = f.properties;
-        const name = props.shapeName || props.NAME_2 || props.NAME_1;
+        let name;
+        
+        // Abu Dhabi layers
+        if (props.NAMEENGLISH && !props.COMMUNITYID) {
+            name = props.NAMEENGLISH;
+        }
+        // Abu Dhabi Community
+        else if (props.COMMUNITYNAMEENG) {
+            name = props.COMMUNITYNAMEENG;
+        }
+        // Dubai Sectors (KML)
+        else if (props.SEC_NUM) {
+            name = `Sector ${props.SEC_NUM}`;
+        }
+        // Dubai Communities (KML)
+        else if (props.CNAME_E || props.name) {
+            name = props.CNAME_E || props.name;
+        }
+        // GADM/geoBoundaries format
+        else {
+            name = props.shapeName || props.NAME_2 || props.NAME_1;
+        }
+        
         return name === regionName;
     });
 
@@ -275,10 +415,141 @@ function hideRegionInfo() {
     document.getElementById('region-info').classList.remove('show');
 }
 
+// Load KML boundaries
+async function loadKMLBoundaries(kmlFile, type, dataType) {
+    try {
+        const isPointData = dataType === 'point';
+        
+        // Use Leaflet Omnivore to load KML
+        const kmlLayer = omnivore.kml(kmlFile, null, L.geoJSON(null, {
+            style: function(feature) {
+                // Different styles for different types
+                if (type === 'dubai-sectors') {
+                    return {
+                        weight: 2,
+                        color: '#e74c3c',
+                        fillOpacity: 0.1,
+                        fillColor: '#e74c3c'
+                    };
+                } else {
+                    return {
+                        weight: 2,
+                        color: '#667eea',
+                        fillOpacity: 0.15
+                    };
+                }
+            },
+            pointToLayer: function(feature, latlng) {
+                // For point data (entrances), use circle markers
+                if (isPointData) {
+                    return L.circleMarker(latlng, {
+                        radius: 3,
+                        fillColor: '#3498db',
+                        color: '#2980b9',
+                        weight: 1,
+                        opacity: 0.8,
+                        fillOpacity: 0.6
+                    });
+                }
+            },
+            onEachFeature: (feature, layer) => {
+                const props = feature.properties;
+                let popupContent = '<div style="font-size: 14px;">';
+                
+                // Handle different KML types
+                if (type === 'dubai-communities') {
+                    const communityName = props.CNAME_E || props.name || 'Unknown';
+                    const communityNameAr = props.CNAME_A || '';
+                    const communityNum = props.COMM_NUM || '';
+                    
+                    popupContent += `<strong>${communityName}</strong>`;
+                    if (communityNameAr) {
+                        popupContent += ` <span style="color: #888; font-size: 12px;">(${communityNameAr})</span>`;
+                    }
+                    popupContent += `<br>`;
+                    if (communityNum) {
+                        popupContent += `<strong>Community #:</strong> ${communityNum}<br>`;
+                    }
+                    popupContent += `<strong>Type:</strong> Dubai Community`;
+                    
+                } else if (type === 'dubai-sectors') {
+                    const sectorNum = props.SEC_NUM || props.name || 'Unknown';
+                    popupContent += `<strong>Sector ${sectorNum}</strong><br>`;
+                    popupContent += `<strong>Type:</strong> Dubai Sector`;
+                    
+                } else if (type === 'dubai-entrances') {
+                    const makani = props.MAKANI || 'N/A';
+                    const communityName = props.COMM_NAM_1 || '';
+                    const entranceId = props.ENTERANCEID || '';
+                    
+                    popupContent += `<strong>Building Entrance</strong><br>`;
+                    if (makani !== 'N/A') {
+                        popupContent += `<strong>Makani:</strong> ${makani}<br>`;
+                    }
+                    if (communityName) {
+                        popupContent += `<strong>Community:</strong> ${communityName}<br>`;
+                    }
+                    if (entranceId) {
+                        popupContent += `<strong>ID:</strong> ${entranceId}`;
+                    }
+                }
+                
+                popupContent += '</div>';
+                layer.bindPopup(popupContent);
+                
+                // Hover effects (only for polygons)
+                if (!isPointData && layer.setStyle) {
+                    layer.on({
+                        mouseover: (e) => {
+                            e.target.setStyle({ weight: 4, fillOpacity: 0.3 });
+                        },
+                        mouseout: (e) => {
+                            const baseStyle = type === 'dubai-sectors' ? 
+                                { weight: 2, fillOpacity: 0.1 } : 
+                                { weight: 2, fillOpacity: 0.15 };
+                            e.target.setStyle(baseStyle);
+                        },
+                        click: (e) => {
+                            if (e.target.getBounds) {
+                                map.fitBounds(e.target.getBounds());
+                            }
+                        }
+                    });
+                }
+            }
+        }));
+        
+        kmlLayer.on('ready', function() {
+            boundaryLayer = kmlLayer;
+            
+            // Only fit bounds for polygon data
+            if (!isPointData) {
+                map.fitBounds(kmlLayer.getBounds());
+            }
+            
+            // Convert to GeoJSON for filtering
+            currentBoundaryData = kmlLayer.toGeoJSON();
+            
+            // Only show filter for polygon data
+            if (!isPointData) {
+                populateRegionFilter(currentBoundaryData);
+            } else {
+                document.getElementById('region-filter-container').style.display = 'none';
+            }
+        });
+        
+        kmlLayer.addTo(map);
+        
+    } catch (error) {
+        console.error('Error loading KML boundaries:', error);
+        alert('Failed to load KML boundary data');
+    }
+}
+
 // Load Emirates boundaries as background layer
 async function loadEmiratesBoundaries() {
     try {
-        const response = await fetch('boundaries/uae_adm1_gadm.geojson');
+        const response = await fetch('Geographies/uae_adm1_gadm.geojson');
         const data = await response.json();
         
         // Style for Emirates boundaries (thicker black borders)
@@ -320,6 +591,21 @@ function toggleSchoolPins() {
     }
 }
 
+// Switch map language
+function switchMapLanguage(language) {
+    // Remove current tile layer
+    if (currentTileLayer) {
+        map.removeLayer(currentTileLayer);
+    }
+    
+    // Add new tile layer
+    currentTileLayer = tileLayers[language];
+    currentTileLayer.addTo(map);
+    
+    // Ensure tile layer is at the back
+    currentTileLayer.bringToBack();
+}
+
 // Reset map view
 function resetView() {
     map.setView([24.0, 54.0], 7);
@@ -340,6 +626,10 @@ document.getElementById('region-filter').addEventListener('change', (e) => {
 document.getElementById('toggle-schools').addEventListener('click', toggleSchoolPins);
 
 document.getElementById('reset-view').addEventListener('click', resetView);
+
+document.getElementById('map-language').addEventListener('change', (e) => {
+    switchMapLanguage(e.target.value);
+});
 
 // Initialize
 addSchoolMarkers(schoolsData);
