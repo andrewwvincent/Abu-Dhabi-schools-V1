@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "name": "UAE_Emirates",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Abu Dhabi",
+        "ADM1_AR": "أبو ظبي",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 67340.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.5,
+              22.5
+            ],
+            [
+              56.0,
+              22.5
+            ],
+            [
+              56.0,
+              25.0
+            ],
+            [
+              54.5,
+              25.0
+            ],
+            [
+              51.5,
+              24.0
+            ],
+            [
+              51.5,
+              22.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Dubai",
+        "ADM1_AR": "دبي",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 4114.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.9,
+              24.8
+            ],
+            [
+              55.6,
+              24.8
+            ],
+            [
+              55.6,
+              25.4
+            ],
+            [
+              54.9,
+              25.4
+            ],
+            [
+              54.9,
+              24.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Sharjah",
+        "ADM1_AR": "الشارقة",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 2590.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.3,
+              25.0
+            ],
+            [
+              56.0,
+              25.0
+            ],
+            [
+              56.0,
+              25.6
+            ],
+            [
+              55.3,
+              25.6
+            ],
+            [
+              55.3,
+              25.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Ajman",
+        "ADM1_AR": "عجمان",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 259.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.4,
+              25.3
+            ],
+            [
+              55.6,
+              25.3
+            ],
+            [
+              55.6,
+              25.5
+            ],
+            [
+              55.4,
+              25.5
+            ],
+            [
+              55.4,
+              25.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Umm Al Quwain",
+        "ADM1_AR": "أم القيوين",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 777.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.5,
+              25.4
+            ],
+            [
+              55.8,
+              25.4
+            ],
+            [
+              55.8,
+              25.7
+            ],
+            [
+              55.5,
+              25.7
+            ],
+            [
+              55.5,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Ras Al Khaimah",
+        "ADM1_AR": "رأس الخيمة",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 2486.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.7,
+              25.5
+            ],
+            [
+              56.2,
+              25.5
+            ],
+            [
+              56.2,
+              26.0
+            ],
+            [
+              55.7,
+              26.0
+            ],
+            [
+              55.7,
+              25.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM1_EN": "Fujairah",
+        "ADM1_AR": "الفجيرة",
+        "ADM0_EN": "United Arab Emirates",
+        "Shape_Area": 1580.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.2,
+              25.0
+            ],
+            [
+              56.5,
+              25.0
+            ],
+            [
+              56.5,
+              25.7
+            ],
+            [
+              56.2,
+              25.7
+            ],
+            [
+              56.2,
+              25.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "name": "Abu_Dhabi_Regions",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM2_EN": "Abu Dhabi City",
+        "ADM1_EN": "Abu Dhabi",
+        "type": "Municipality"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.0,
+              24.0
+            ],
+            [
+              55.0,
+              24.0
+            ],
+            [
+              55.0,
+              25.0
+            ],
+            [
+              54.0,
+              25.0
+            ],
+            [
+              54.0,
+              24.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM2_EN": "Al Ain",
+        "ADM1_EN": "Abu Dhabi",
+        "type": "Municipality"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.0,
+              23.5
+            ],
+            [
+              56.0,
+              23.5
+            ],
+            [
+              56.0,
+              24.5
+            ],
+            [
+              55.0,
+              24.5
+            ],
+            [
+              55.0,
+              23.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADM2_EN": "Al Dhafra",
+        "ADM1_EN": "Abu Dhabi",
+        "type": "Municipality"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.5,
+              22.5
+            ],
+            [
+              54.0,
+              22.5
+            ],
+            [
+              54.0,
+              24.5
+            ],
+            [
+              51.5,
+              24.0
+            ],
+            [
+              51.5,
+              22.5
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
