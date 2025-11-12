@@ -7552,7 +7552,7 @@ const schoolsData = [
     "emirate": "Abu Dhabi"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Adab Iranian Private School for Boys",
     "school_type": "Private",
     "curriculum_type": "Iranian - International Baccalaureate",
     "address": "N/A",
@@ -7570,7 +7570,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Adab Iranian Private School for Girls",
     "school_type": "Private",
     "curriculum_type": "Iranian",
     "address": "N/A",
@@ -7588,7 +7588,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Arqm Private School",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7606,7 +7606,7 @@ const schoolsData = [
     "year_established": "1990"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Basateen Private Nursery",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7624,7 +7624,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Basateen Private Nursery - Hatta Branch",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7642,7 +7642,7 @@ const schoolsData = [
     "year_established": "2004"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Diyafah High School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -7660,7 +7660,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Eman Educational EST",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7678,7 +7678,7 @@ const schoolsData = [
     "year_established": "1973"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Ghaf Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -7696,7 +7696,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Ittihad Private School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7714,7 +7714,7 @@ const schoolsData = [
     "year_established": "1975"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Ittihad Private School (Br)",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7732,7 +7732,7 @@ const schoolsData = [
     "year_established": "1998"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Maaref Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7750,7 +7750,7 @@ const schoolsData = [
     "year_established": "1987"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Mawakeb School Al Barsha L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7768,7 +7768,7 @@ const schoolsData = [
     "year_established": "1998"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Mawakeb School Al Garhoud L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7786,7 +7786,7 @@ const schoolsData = [
     "year_established": "1995"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Mawakeb School Al Khawaneej L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7804,7 +7804,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Nibras International Private School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7822,7 +7822,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Rashid Al Saleh Private School",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7840,7 +7840,7 @@ const schoolsData = [
     "year_established": "1983"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Sadiq Islamic English School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -7858,7 +7858,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Salam Community School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -7876,7 +7876,7 @@ const schoolsData = [
     "year_established": "2019"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Salam Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -7894,7 +7894,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "Al Shurooq Private School",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -7912,7 +7912,7 @@ const schoolsData = [
     "year_established": "1986"
   },
   {
-    "name": "Unknown School",
+    "name": "Ambassador International Academy L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -7930,7 +7930,7 @@ const schoolsData = [
     "year_established": "2019"
   },
   {
-    "name": "Unknown School",
+    "name": "Ambassador School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -7948,7 +7948,7 @@ const schoolsData = [
     "year_established": "2010"
   },
   {
-    "name": "Unknown School",
+    "name": "American Academy for Girls",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7966,7 +7966,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "American International School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -7984,7 +7984,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "American School Dubai",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8002,7 +8002,7 @@ const schoolsData = [
     "year_established": "1973"
   },
   {
-    "name": "Unknown School",
+    "name": "American School of Creative Science L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8020,7 +8020,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Amity English School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8038,7 +8038,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "Amity School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8056,7 +8056,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Apple International School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8074,7 +8074,7 @@ const schoolsData = [
     "year_established": "1994"
   },
   {
-    "name": "Unknown School",
+    "name": "Arab Unity School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8092,7 +8092,7 @@ const schoolsData = [
     "year_established": "1975"
   },
   {
-    "name": "Unknown School",
+    "name": "Arcadia British School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8110,7 +8110,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Arcadia Global School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8128,7 +8128,7 @@ const schoolsData = [
     "year_established": "2023"
   },
   {
-    "name": "Unknown School",
+    "name": "Australian International School - Dubai L.L.C",
     "school_type": "Private",
     "curriculum_type": "Australian",
     "address": "N/A",
@@ -8146,7 +8146,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "BC Academy International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8164,7 +8164,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "Bilingual French International School L.L.C-FZ",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -8182,7 +8182,7 @@ const schoolsData = [
     "year_established": "2012"
   },
   {
-    "name": "Unknown School",
+    "name": "Bloom World Academy L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -8200,7 +8200,7 @@ const schoolsData = [
     "year_established": "2022"
   },
   {
-    "name": "Unknown School",
+    "name": "Bright Learners Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8218,7 +8218,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "Bright Riders School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8236,7 +8236,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Brighton College Dubai L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8254,7 +8254,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Buds Public School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8272,7 +8272,7 @@ const schoolsData = [
     "year_established": "1986"
   },
   {
-    "name": "Unknown School",
+    "name": "Cambridge International School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8290,7 +8290,7 @@ const schoolsData = [
     "year_established": "2004"
   },
   {
-    "name": "Unknown School",
+    "name": "Capital School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8308,7 +8308,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Cedar School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8326,7 +8326,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "Chinese School Dubai",
     "school_type": "Private",
     "curriculum_type": "Chinese",
     "address": "N/A",
@@ -8344,7 +8344,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "Citizens School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8362,7 +8362,7 @@ const schoolsData = [
     "year_established": "2022"
   },
   {
-    "name": "Unknown School",
+    "name": "Clarion School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8380,7 +8380,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Collegiate International School",
     "school_type": "Private",
     "curriculum_type": "American - International Baccalaureate",
     "address": "N/A",
@@ -8398,7 +8398,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "Credence High School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8416,7 +8416,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Crescent English School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8434,7 +8434,7 @@ const schoolsData = [
     "year_established": "1984"
   },
   {
-    "name": "Unknown School",
+    "name": "Dar Al Marefa Private School",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -8452,7 +8452,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Deira International School",
     "school_type": "Private",
     "curriculum_type": "UK - UK/IB",
     "address": "N/A",
@@ -8470,7 +8470,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Deira Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8488,7 +8488,7 @@ const schoolsData = [
     "year_established": "2009"
   },
   {
-    "name": "Unknown School",
+    "name": "Delhi Private School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8506,7 +8506,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "DEWA Academy",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education/BTEC",
     "address": "N/A",
@@ -8524,7 +8524,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Dewvale School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8542,7 +8542,7 @@ const schoolsData = [
     "year_established": "2023"
   },
   {
-    "name": "Unknown School",
+    "name": "Dhruv Global school",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -8560,7 +8560,7 @@ const schoolsData = [
     "year_established": "2023"
   },
   {
-    "name": "Unknown School",
+    "name": "Dove Green Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8578,7 +8578,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai British School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8596,7 +8596,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai British School Jumeira",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8614,7 +8614,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai British School Jumeirah Park",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8632,7 +8632,7 @@ const schoolsData = [
     "year_established": "2015"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Carmel School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8650,7 +8650,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai College",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8668,7 +8668,7 @@ const schoolsData = [
     "year_established": "1978"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai English Speaking College",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8686,7 +8686,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai English Speaking School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8704,7 +8704,7 @@ const schoolsData = [
     "year_established": "1973"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Gem Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8722,7 +8722,7 @@ const schoolsData = [
     "year_established": "1983"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Heights Academy",
     "school_type": "Private",
     "curriculum_type": "UK - UK/IB",
     "address": "N/A",
@@ -8740,7 +8740,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai International Academy Albarsha",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -8758,7 +8758,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai International Academy L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -8776,7 +8776,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai International Private School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8794,7 +8794,7 @@ const schoolsData = [
     "year_established": "1985"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai International Private School - Br",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8812,7 +8812,7 @@ const schoolsData = [
     "year_established": "1999"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Modern Education School",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education - American",
     "address": "N/A",
@@ -8830,7 +8830,7 @@ const schoolsData = [
     "year_established": "1996"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai National School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8848,7 +8848,7 @@ const schoolsData = [
     "year_established": "1988"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai National School (Branch)",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8866,7 +8866,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Scholars Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8884,7 +8884,7 @@ const schoolsData = [
     "year_established": "1994"
   },
   {
-    "name": "Unknown School",
+    "name": "DUBAI SCHOOLS CORPORATION AL KHAWANEEJ L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8902,7 +8902,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Schools Corporation L.L.C Albarsha",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8920,7 +8920,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "Dubai Schools Corporation Nad AlShiba L.L.C.",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8938,7 +8938,7 @@ const schoolsData = [
     "year_established": "2022"
   },
   {
-    "name": "Unknown School",
+    "name": "Dunecrest American School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -8956,7 +8956,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Durham School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -8974,7 +8974,7 @@ const schoolsData = [
     "year_established": "2022"
   },
   {
-    "name": "Unknown School",
+    "name": "Dwight School L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -8992,7 +8992,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Elite English School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9010,7 +9010,7 @@ const schoolsData = [
     "year_established": "1993"
   },
   {
-    "name": "Unknown School",
+    "name": "Emirates International Private School (BR)",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate (13Y)",
     "address": "N/A",
@@ -9028,7 +9028,7 @@ const schoolsData = [
     "year_established": "2006"
   },
   {
-    "name": "Unknown School",
+    "name": "Emirates International Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -9046,7 +9046,7 @@ const schoolsData = [
     "year_established": "1991"
   },
   {
-    "name": "Unknown School",
+    "name": "Emirates National Schools - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -9064,7 +9064,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "English Language Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9082,7 +9082,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "Fairgreen International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -9100,7 +9100,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Al Khaleej International School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9118,7 +9118,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Albarsha National School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9136,7 +9136,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Dubai American Academy - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9154,7 +9154,7 @@ const schoolsData = [
     "year_established": "1997"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS First Point School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9172,7 +9172,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Founders School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9190,7 +9190,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Founders School DS DWC-LLC",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9208,7 +9208,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Founders School Mizhar",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9226,7 +9226,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS International School Al Khail L.L.C",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -9244,7 +9244,7 @@ const schoolsData = [
     "year_established": "2013"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Jumeira Primary School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9262,7 +9262,7 @@ const schoolsData = [
     "year_established": "1994"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Legacy School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9280,7 +9280,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Metropole School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9298,7 +9298,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Metropole School, Al Waha",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9316,7 +9316,7 @@ const schoolsData = [
     "year_established": "2023"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Modern Academy",
     "school_type": "Private",
     "curriculum_type": "Indian/IB",
     "address": "N/A",
@@ -9334,7 +9334,7 @@ const schoolsData = [
     "year_established": "1986"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS New Millennium School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian - UK",
     "address": "N/A",
@@ -9352,7 +9352,7 @@ const schoolsData = [
     "year_established": "2013"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Our Own English High School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9370,7 +9370,7 @@ const schoolsData = [
     "year_established": "1972"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Our Own Indian School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9388,7 +9388,7 @@ const schoolsData = [
     "year_established": "1991"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Royal Dubai School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9406,7 +9406,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Wellington Academy Al Khail L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9424,7 +9424,7 @@ const schoolsData = [
     "year_established": "2013"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Wellington Academy -Fze",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -9442,7 +9442,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Wellington International School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -9460,7 +9460,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS Winchester School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9478,7 +9478,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "GEMS World Academy",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -9496,7 +9496,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "German International School Dubai",
     "school_type": "Private",
     "curriculum_type": "German",
     "address": "N/A",
@@ -9514,7 +9514,7 @@ const schoolsData = [
     "year_established": "2004"
   },
   {
-    "name": "Unknown School",
+    "name": "Glendale International School LLC",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9532,7 +9532,7 @@ const schoolsData = [
     "year_established": "2023"
   },
   {
-    "name": "Unknown School",
+    "name": "Global Indian International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9550,7 +9550,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Grammar School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9568,7 +9568,7 @@ const schoolsData = [
     "year_established": "1974"
   },
   {
-    "name": "Unknown School",
+    "name": "Greenfield International School",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -9586,7 +9586,7 @@ const schoolsData = [
     "year_established": "2007"
   },
   {
-    "name": "Unknown School",
+    "name": "Greenwood International School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9604,7 +9604,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "Gulf Indian High School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9622,7 +9622,7 @@ const schoolsData = [
     "year_established": "1979"
   },
   {
-    "name": "Unknown School",
+    "name": "Gulf Model School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -9640,7 +9640,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "H.H.Shaikh Rashid Al Maktoum Pakistani School",
     "school_type": "Private",
     "curriculum_type": "Pakistani",
     "address": "N/A",
@@ -9658,7 +9658,7 @@ const schoolsData = [
     "year_established": "1995"
   },
   {
-    "name": "Unknown School",
+    "name": "Hampton Heights International School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9676,7 +9676,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "Hartland International School - FZ",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -9694,7 +9694,7 @@ const schoolsData = [
     "year_established": "2015"
   },
   {
-    "name": "Unknown School",
+    "name": "Himayah Kindergarten for Education - Karama",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -9712,7 +9712,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Himayah School For Education Boys - Diera (Abu Hail)",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -9730,7 +9730,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Himayah School For Education Girls - Al Karama",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -9748,7 +9748,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Horizon International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9766,7 +9766,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Horizons English School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9784,7 +9784,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "Icademy Middle East Fz.Llc",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9802,7 +9802,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Ignite School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9820,7 +9820,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "International Academic School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -9838,7 +9838,7 @@ const schoolsData = [
     "year_established": "2006"
   },
   {
-    "name": "Unknown School",
+    "name": "International School of Creative Science Nad Alshiba L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9856,7 +9856,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Iranian Khadije Kobra School",
     "school_type": "Private",
     "curriculum_type": "Iranian",
     "address": "N/A",
@@ -9874,7 +9874,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Iranian Salman Farsi Boys School",
     "school_type": "Private",
     "curriculum_type": "Iranian",
     "address": "N/A",
@@ -9892,7 +9892,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Iranian Towheed Boys School",
     "school_type": "Private",
     "curriculum_type": "Iranian - International Baccalaureate",
     "address": "N/A",
@@ -9910,7 +9910,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Iranian Towheed Girls School",
     "school_type": "Private",
     "curriculum_type": "Iranian",
     "address": "N/A",
@@ -9928,7 +9928,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Islamic School for Training & Education",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -9946,7 +9946,7 @@ const schoolsData = [
     "year_established": "1982"
   },
   {
-    "name": "Unknown School",
+    "name": "Japanese School",
     "school_type": "Private",
     "curriculum_type": "Japanese",
     "address": "N/A",
@@ -9964,7 +9964,7 @@ const schoolsData = [
     "year_established": "1980"
   },
   {
-    "name": "Unknown School",
+    "name": "JEBEL ALI SCHOOL (BR OF TAALEEM MANAGEMENT L L C)",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -9982,7 +9982,7 @@ const schoolsData = [
     "year_established": "1978"
   },
   {
-    "name": "Unknown School",
+    "name": "JSS International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10000,7 +10000,7 @@ const schoolsData = [
     "year_established": "2010"
   },
   {
-    "name": "Unknown School",
+    "name": "JSS Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10018,7 +10018,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "Jumeira Baccalaureate School",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -10036,7 +10036,7 @@ const schoolsData = [
     "year_established": "2010"
   },
   {
-    "name": "Unknown School",
+    "name": "Jumeirah College",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10054,7 +10054,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Jumeirah English Speaking School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10072,7 +10072,7 @@ const schoolsData = [
     "year_established": "1976"
   },
   {
-    "name": "Unknown School",
+    "name": "Jumeirah English Speaking School (Br)",
     "school_type": "Private",
     "curriculum_type": "UK - International Baccalaureate",
     "address": "N/A",
@@ -10090,7 +10090,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Kent College L.L.C - FZ",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10108,7 +10108,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Kings School Al Barsha L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10126,7 +10126,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Kings School Dubai L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10144,7 +10144,7 @@ const schoolsData = [
     "year_established": "2004"
   },
   {
-    "name": "Unknown School",
+    "name": "Kings School Nad Al Sheba L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10162,7 +10162,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Little Flower English School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10180,7 +10180,7 @@ const schoolsData = [
     "year_established": "1984"
   },
   {
-    "name": "Unknown School",
+    "name": "Lycee Francais International",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -10198,7 +10198,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Lycee Francais International Georges Pompidou School (Dubai Branch)",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -10216,7 +10216,7 @@ const schoolsData = [
     "year_established": "1998"
   },
   {
-    "name": "Unknown School",
+    "name": "Lycee Francais International Georges Pompidou School Oud Metha",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -10234,7 +10234,7 @@ const schoolsData = [
     "year_established": "1998"
   },
   {
-    "name": "Unknown School",
+    "name": "Lycee Francais Jean Mermoz L.L.C",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -10252,7 +10252,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Lycee Libanais Francophone Prive Meydan L.L.C - FZ",
     "school_type": "Private",
     "curriculum_type": "French",
     "address": "N/A",
@@ -10270,7 +10270,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "M S B Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10288,7 +10288,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "Mirdif American School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10306,7 +10306,7 @@ const schoolsData = [
     "year_established": "1995"
   },
   {
-    "name": "Unknown School",
+    "name": "Modern Skills School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10324,7 +10324,7 @@ const schoolsData = [
     "year_established": "2006"
   },
   {
-    "name": "Unknown School",
+    "name": "National Charity School Primary",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -10342,7 +10342,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "New Academy School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10360,7 +10360,7 @@ const schoolsData = [
     "year_established": "1990"
   },
   {
-    "name": "Unknown School",
+    "name": "New Dawn Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10378,7 +10378,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "New Indian Model School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10396,7 +10396,7 @@ const schoolsData = [
     "year_established": "1980"
   },
   {
-    "name": "Unknown School",
+    "name": "Newlands School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10414,7 +10414,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Next Generation School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10432,7 +10432,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Nord Anglia International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK - UK/IB",
     "address": "N/A",
@@ -10450,7 +10450,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "North American International School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10468,7 +10468,7 @@ const schoolsData = [
     "year_established": "2007"
   },
   {
-    "name": "Unknown School",
+    "name": "North London Collegiate School Middle East L.L.C - FZ",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -10486,7 +10486,7 @@ const schoolsData = [
     "year_established": "2017"
   },
   {
-    "name": "Unknown School",
+    "name": "Oak Tree Primary School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10504,7 +10504,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Our Own High School - Dubai Branch",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10522,7 +10522,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Oxford School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10540,7 +10540,7 @@ const schoolsData = [
     "year_established": "1988"
   },
   {
-    "name": "Unknown School",
+    "name": "Pace Modern British School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10558,7 +10558,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "Pakistan Educational Academy",
     "school_type": "Private",
     "curriculum_type": "Pakistani",
     "address": "N/A",
@@ -10576,7 +10576,7 @@ const schoolsData = [
     "year_established": "1983"
   },
   {
-    "name": "Unknown School",
+    "name": "Pearl Wisdom School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10594,7 +10594,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "Philadelphia Private School",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10612,7 +10612,7 @@ const schoolsData = [
     "year_established": "2006"
   },
   {
-    "name": "Unknown School",
+    "name": "Primus Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10630,7 +10630,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Pristine Private School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10648,7 +10648,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "Queen International School",
     "school_type": "Private",
     "curriculum_type": "UK (12 Y - Grades)",
     "address": "N/A",
@@ -10666,7 +10666,7 @@ const schoolsData = [
     "year_established": "1998"
   },
   {
-    "name": "Unknown School",
+    "name": "Raffles International School L.L.C (Umm Suqeim South Br)",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10684,7 +10684,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Raffles World Academy",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -10702,7 +10702,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Ranches Primary School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10720,7 +10720,7 @@ const schoolsData = [
     "year_established": "2015"
   },
   {
-    "name": "Unknown School",
+    "name": "Rashid and Latifa Schools",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10738,7 +10738,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "Regent International Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10756,7 +10756,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "Renaissance School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10774,7 +10774,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Repton Al Barsha Fz-Llc",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10792,7 +10792,7 @@ const schoolsData = [
     "year_established": "2013"
   },
   {
-    "name": "Unknown School",
+    "name": "Repton School",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -10810,7 +10810,7 @@ const schoolsData = [
     "year_established": "2007"
   },
   {
-    "name": "Unknown School",
+    "name": "Royal Grammar School Guildford L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10828,7 +10828,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "Russian International School",
     "school_type": "Private",
     "curriculum_type": "Russian",
     "address": "N/A",
@@ -10846,7 +10846,7 @@ const schoolsData = [
     "year_established": "2006"
   },
   {
-    "name": "Unknown School",
+    "name": "Sabari Indian School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -10864,7 +10864,7 @@ const schoolsData = [
     "year_established": "2013"
   },
   {
-    "name": "Unknown School",
+    "name": "Safa British School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10882,7 +10882,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Safa Community School",
     "school_type": "Private",
     "curriculum_type": "UK/IB",
     "address": "N/A",
@@ -10900,7 +10900,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "Sharjah American International Private school",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -10918,7 +10918,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Sheikh Rashid Bin Saeed Islamic Institute",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -10936,7 +10936,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "Smart Vision School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10954,7 +10954,7 @@ const schoolsData = [
     "year_established": "2014"
   },
   {
-    "name": "Unknown School",
+    "name": "South View School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -10972,7 +10972,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "Springdales School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian - UK",
     "address": "N/A",
@@ -10990,7 +10990,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "Springfield International School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11008,7 +11008,7 @@ const schoolsData = [
     "year_established": "2024"
   },
   {
-    "name": "Unknown School",
+    "name": "ST. Mary Catholic High School - Dubai",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11026,7 +11026,7 @@ const schoolsData = [
     "year_established": "1968"
   },
   {
-    "name": "Unknown School",
+    "name": "ST. Mary Catholic High School - Dubai Muhaisnah Branch",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11044,7 +11044,7 @@ const schoolsData = [
     "year_established": "2015"
   },
   {
-    "name": "Unknown School",
+    "name": "Star International School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11062,7 +11062,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "Star International School (Branch)",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11080,7 +11080,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "Sunmarke School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11098,7 +11098,7 @@ const schoolsData = [
     "year_established": "2016"
   },
   {
-    "name": "Unknown School",
+    "name": "Swiss International FZ-LLC",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -11116,7 +11116,7 @@ const schoolsData = [
     "year_established": "2015"
   },
   {
-    "name": "Unknown School",
+    "name": "The Apple International Community School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11134,7 +11134,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "The Aquila School",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11152,7 +11152,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "The Arbor School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11170,7 +11170,7 @@ const schoolsData = [
     "year_established": "2018"
   },
   {
-    "name": "Unknown School",
+    "name": "The Central School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11188,7 +11188,7 @@ const schoolsData = [
     "year_established": "1981"
   },
   {
-    "name": "Unknown School",
+    "name": "The City School International Private",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11206,7 +11206,7 @@ const schoolsData = [
     "year_established": "1989"
   },
   {
-    "name": "Unknown School",
+    "name": "The English College Dubai L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11224,7 +11224,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "The Indian Academy",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11242,7 +11242,7 @@ const schoolsData = [
     "year_established": "2012"
   },
   {
-    "name": "Unknown School",
+    "name": "The Indian High School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11260,7 +11260,7 @@ const schoolsData = [
     "year_established": "1972"
   },
   {
-    "name": "Unknown School",
+    "name": "The Indian High School-Branch",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11278,7 +11278,7 @@ const schoolsData = [
     "year_established": "1988"
   },
   {
-    "name": "Unknown School",
+    "name": "The Indian International School (Dso Branch)",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11296,7 +11296,7 @@ const schoolsData = [
     "year_established": "2011"
   },
   {
-    "name": "Unknown School",
+    "name": "The International School of Choueifat",
     "school_type": "Private",
     "curriculum_type": "SABIS (UK/US)",
     "address": "N/A",
@@ -11314,7 +11314,7 @@ const schoolsData = [
     "year_established": "1994"
   },
   {
-    "name": "Unknown School",
+    "name": "The International School of Choueifat (Branch)",
     "school_type": "Private",
     "curriculum_type": "SABIS (UK/US)",
     "address": "N/A",
@@ -11332,7 +11332,7 @@ const schoolsData = [
     "year_established": "2012"
   },
   {
-    "name": "Unknown School",
+    "name": "The Millenium School",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
@@ -11350,7 +11350,7 @@ const schoolsData = [
     "year_established": "2000"
   },
   {
-    "name": "Unknown School",
+    "name": "The National Charity School for Boys",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -11368,7 +11368,7 @@ const schoolsData = [
     "year_established": "2021"
   },
   {
-    "name": "Unknown School",
+    "name": "The National Charity School For Girls",
     "school_type": "Private",
     "curriculum_type": "Ministry of Education",
     "address": "N/A",
@@ -11386,7 +11386,7 @@ const schoolsData = [
     "year_established": "1984"
   },
   {
-    "name": "Unknown School",
+    "name": "The Philippine School",
     "school_type": "Private",
     "curriculum_type": "Philippine",
     "address": "N/A",
@@ -11404,7 +11404,7 @@ const schoolsData = [
     "year_established": "2008"
   },
   {
-    "name": "Unknown School",
+    "name": "The School of Reseach Science US High School L.L.C",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -11422,7 +11422,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "The School of Research Science L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11440,7 +11440,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "The Sheffield Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11458,7 +11458,7 @@ const schoolsData = [
     "year_established": "2004"
   },
   {
-    "name": "Unknown School",
+    "name": "The Westminster School - DUBAI BRANCH",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11476,7 +11476,7 @@ const schoolsData = [
     "year_established": "1988"
   },
   {
-    "name": "Unknown School",
+    "name": "The Winchester School - DUBAI BRANCH",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11494,7 +11494,7 @@ const schoolsData = [
     "year_established": "2003"
   },
   {
-    "name": "Unknown School",
+    "name": "United International Private School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Philippine",
     "address": "N/A",
@@ -11512,7 +11512,7 @@ const schoolsData = [
     "year_established": "1992"
   },
   {
-    "name": "Unknown School",
+    "name": "Universal American School - Branch",
     "school_type": "Private",
     "curriculum_type": "US/IB",
     "address": "N/A",
@@ -11530,7 +11530,7 @@ const schoolsData = [
     "year_established": "2005"
   },
   {
-    "name": "Unknown School",
+    "name": "Uptown International School",
     "school_type": "Private",
     "curriculum_type": "International Baccalaureate",
     "address": "N/A",
@@ -11548,7 +11548,7 @@ const schoolsData = [
     "year_established": "2012"
   },
   {
-    "name": "Unknown School",
+    "name": "Vernus International Primary School - FZCO",
     "school_type": "Private",
     "curriculum_type": "American",
     "address": "N/A",
@@ -11566,7 +11566,7 @@ const schoolsData = [
     "year_established": "2020"
   },
   {
-    "name": "Unknown School",
+    "name": "Victory Heights Primary School L.L.C",
     "school_type": "Private",
     "curriculum_type": "UK",
     "address": "N/A",
@@ -11584,7 +11584,7 @@ const schoolsData = [
     "year_established": "2012"
   },
   {
-    "name": "Unknown School",
+    "name": "Woodlem Park School L.L.C",
     "school_type": "Private",
     "curriculum_type": "Indian",
     "address": "N/A",
