@@ -91,14 +91,38 @@ function addSchoolMarkers(schools = schoolsData) {
             }
         }
 
+        // Format enrollment
+        let enrollmentDisplay = 'N/A';
+        if (school.enrollment !== undefined && school.enrollment !== null) {
+            enrollmentDisplay = school.enrollment.toLocaleString();
+        }
+
+        // Build popup fields dynamically
+        let popupFields = `
+            <div class="field"><span class="label">Type:</span> <span class="value">${school.school_type}</span></div>
+            <div class="field"><span class="label">Curriculum:</span> <span class="value">${school.curriculum_type}</span></div>
+            <div class="field"><span class="label">Avg. Tuition:</span> <span class="value">${tuitionDisplay}</span></div>
+        `;
+
+        // Add enrollment if available
+        if (school.enrollment !== undefined && school.enrollment !== null) {
+            popupFields += `<div class="field"><span class="label">Enrollment:</span> <span class="value">${enrollmentDisplay}</span></div>`;
+        }
+
+        // Add emirate
+        if (school.emirate) {
+            popupFields += `<div class="field"><span class="label">Emirate:</span> <span class="value">${school.emirate}</span></div>`;
+        }
+
+        popupFields += `
+            <div class="field"><span class="label">Address:</span> <span class="value">${school.address}</span></div>
+            <div class="field"><span class="label">Coordinates:</span> <span class="value">${school.lat.toFixed(6)}, ${school.lon.toFixed(6)}</span></div>
+        `;
+
         const popupContent = `
             <div class="info-panel">
                 <h3>${school.name}</h3>
-                <div class="field"><span class="label">Type:</span> <span class="value">${school.school_type}</span></div>
-                <div class="field"><span class="label">Curriculum:</span> <span class="value">${school.curriculum_type}</span></div>
-                <div class="field"><span class="label">Avg. Tuition:</span> <span class="value">${tuitionDisplay}</span></div>
-                <div class="field"><span class="label">Address:</span> <span class="value">${school.address}</span></div>
-                <div class="field"><span class="label">Coordinates:</span> <span class="value">${school.lat.toFixed(6)}, ${school.lon.toFixed(6)}</span></div>
+                ${popupFields}
             </div>
         `;
 

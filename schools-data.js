@@ -7,11 +7,13 @@ const schoolsData = [
     "lat": 24.3183379,
     "lon": 54.5604945626077,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ain Al Fayedha",
@@ -21,11 +23,13 @@ const schoolsData = [
     "lat": 24.09037669,
     "lon": 55.6947025650101,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ahd School",
@@ -35,11 +39,13 @@ const schoolsData = [
     "lat": 24.29919233,
     "lon": 54.6463327478312,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Azm School",
@@ -49,11 +55,13 @@ const schoolsData = [
     "lat": 24.45756037,
     "lon": 54.7390658189999,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bayan School",
@@ -63,11 +71,13 @@ const schoolsData = [
     "lat": 24.28723479,
     "lon": 54.6485751483675,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bayraq School",
@@ -77,11 +87,13 @@ const schoolsData = [
     "lat": 24.0698494,
     "lon": 55.8573302539448,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Danah School",
@@ -91,11 +103,13 @@ const schoolsData = [
     "lat": 24.30506444,
     "lon": 54.5920045650151,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhaher",
@@ -105,11 +119,13 @@ const schoolsData = [
     "lat": 24.0718964,
     "lon": 55.8675280713845,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Forsan Kg",
@@ -119,11 +135,13 @@ const schoolsData = [
     "lat": 24.35317901,
     "lon": 54.7499207920069,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ghad School",
@@ -133,11 +151,13 @@ const schoolsData = [
     "lat": 24.31657706,
     "lon": 54.5359312938502,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ghadeer Kg",
@@ -147,11 +167,13 @@ const schoolsData = [
     "lat": 24.16161745,
     "lon": 55.6655149803513,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ghaf School",
@@ -161,11 +183,13 @@ const schoolsData = [
     "lat": 25.03021882,
     "lon": 55.1140905938666,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Hosoon School",
@@ -175,11 +199,13 @@ const schoolsData = [
     "lat": 24.0492565,
     "lon": 55.8433765993767,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Janaen School",
@@ -189,11 +215,13 @@ const schoolsData = [
     "lat": 24.16012518,
     "lon": 55.6641133956908,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Majd School",
@@ -203,11 +231,13 @@ const schoolsData = [
     "lat": 24.46056039,
     "lon": 54.7214143920093,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mushrif Kg",
@@ -217,11 +247,13 @@ const schoolsData = [
     "lat": 24.4388779,
     "lon": 54.4034529552109,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mutanabi",
@@ -231,11 +263,13 @@ const schoolsData = [
     "lat": 24.48833363,
     "lon": 54.3827642782946,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahdha School",
@@ -245,11 +279,13 @@ const schoolsData = [
     "lat": 24.45926665,
     "lon": 54.3871142890077,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Narjes School",
@@ -259,11 +295,13 @@ const schoolsData = [
     "lat": 24.08889141,
     "lon": 55.7029735026875,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nayfa Kg",
@@ -273,11 +311,13 @@ const schoolsData = [
     "lat": 24.44647028,
     "lon": 54.7133303036602,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qeyam School",
@@ -287,11 +327,13 @@ const schoolsData = [
     "lat": 24.32652473,
     "lon": 54.8069526119554,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qurm School",
@@ -301,11 +343,13 @@ const schoolsData = [
     "lat": 24.37554739,
     "lon": 54.5370768809424,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rayaheen School",
@@ -315,11 +359,13 @@ const schoolsData = [
     "lat": 24.13210856,
     "lon": 55.7357111858785,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rayana School",
@@ -329,11 +375,13 @@ const schoolsData = [
     "lat": 24.43014864,
     "lon": 54.7351219769555,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Reef School",
@@ -343,11 +391,13 @@ const schoolsData = [
     "lat": 24.56590269,
     "lon": 54.7228272497202,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Riyadh",
@@ -357,11 +407,13 @@ const schoolsData = [
     "lat": 24.33171,
     "lon": 54.7315778625853,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Salam School",
@@ -371,11 +423,13 @@ const schoolsData = [
     "lat": 24.44720592,
     "lon": 54.7067705719149,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Wafaa Kg",
@@ -385,11 +439,13 @@ const schoolsData = [
     "lat": 24.34840021,
     "lon": 54.6328086361811,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Walaa Kg",
@@ -399,11 +455,13 @@ const schoolsData = [
     "lat": 24.34840021,
     "lon": 54.6328086361811,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Watan School",
@@ -413,11 +471,13 @@ const schoolsData = [
     "lat": 24.37166165,
     "lon": 54.6401289650164,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Jebal Hafeet School",
@@ -427,11 +487,13 @@ const schoolsData = [
     "lat": 24.08458591,
     "lon": 55.7374546705426,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Jern Yafoor",
@@ -441,11 +503,13 @@ const schoolsData = [
     "lat": 24.29956264,
     "lon": 54.6207561563805,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Maryam Bint Omran School",
@@ -455,11 +519,13 @@ const schoolsData = [
     "lat": 24.28606402,
     "lon": 54.6494720650146,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mubarak Bin Mohammed School",
@@ -469,11 +535,13 @@ const schoolsData = [
     "lat": 24.45825536,
     "lon": 54.3550249908414,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Seer Bani Yas School",
@@ -483,11 +551,13 @@ const schoolsData = [
     "lat": 24.33022469,
     "lon": 54.5322510184108,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "",
     "region": "",
     "district": "",
     "phone": "",
-    "email": ""
+    "email": "",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tafawwoq Boys School - Al Ain",
@@ -497,11 +567,13 @@ const schoolsData = [
     "lat": 24.30162691000004,
     "lon": 55.79391349000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "506299217",
-    "email": "Ahmed.Almarashda@ese.gov.ae"
+    "email": "Ahmed.Almarashda@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hili School",
@@ -511,11 +583,13 @@ const schoolsData = [
     "lat": 24.286200950000023,
     "lon": 55.77186560000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "506991149",
-    "email": "Alfarra.Aldhaheri@ese.gov.ae"
+    "email": "Alfarra.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Naeem Girls School",
@@ -525,11 +599,13 @@ const schoolsData = [
     "lat": 24.23358503000003,
     "lon": 55.55015449000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "504540656",
-    "email": "Azza-Sm.Alkaabi@ese.gov.ae"
+    "email": "Azza-Sm.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mohammed Bin Khaled School",
@@ -539,11 +615,13 @@ const schoolsData = [
     "lat": 24.207589220000045,
     "lon": 55.72760187000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "503330052",
-    "email": "Fatima.Neyadi@ese.gov.ae"
+    "email": "Fatima.Neyadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Soroor Kindergarten",
@@ -553,11 +631,13 @@ const schoolsData = [
     "lat": 24.314617550000037,
     "lon": 54.64510689000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "506030000",
-    "email": "Nabeeha.Aljunaibi@ese.gov.ae"
+    "email": "Nabeeha.Aljunaibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Somou School",
@@ -567,11 +647,13 @@ const schoolsData = [
     "lat": 24.099809380000067,
     "lon": 55.90924622000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "UM GHAFAH",
     "phone": "506634495",
-    "email": "Kareema.Alremeithi@ese.gov.ae"
+    "email": "Kareema.Alremeithi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rahbah School",
@@ -581,11 +663,13 @@ const schoolsData = [
     "lat": 24.62672838000003,
     "lon": 54.70993899000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "503633855",
-    "email": "Sumaia.Alkatheeri@ese.gov.ae"
+    "email": "Sumaia.Alkatheeri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ataa School",
@@ -595,11 +679,13 @@ const schoolsData = [
     "lat": 23.998240300000077,
     "lon": 55.57343984000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL DHAHRAH",
     "phone": "507431223",
-    "email": "Amna-Am.Alshamisi@ese.gov.ae"
+    "email": "Amna-Am.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahyaniyyah School",
@@ -609,11 +695,13 @@ const schoolsData = [
     "lat": 24.218322620000038,
     "lon": 55.757211150000046,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL JAHILI",
     "phone": "504451010",
-    "email": "Amna.Alsaadi@ese.gov.ae"
+    "email": "Amna.Alsaadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khaznah Boys School",
@@ -623,11 +711,13 @@ const schoolsData = [
     "lat": 24.167483180000033,
     "lon": 55.11609793000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL KHAZNAH",
     "phone": "503320889",
-    "email": "Sharef.Bouloushi@ese.gov.ae"
+    "email": "Sharef.Bouloushi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falahiyya School",
@@ -637,11 +727,13 @@ const schoolsData = [
     "lat": 24.642361280000046,
     "lon": 54.729994340000076,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "504424907",
-    "email": "Omar.Albatati@ese.gov.ae"
+    "email": "Omar.Albatati@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Salamat Boys School",
@@ -651,11 +743,13 @@ const schoolsData = [
     "lat": 24.21069348000003,
     "lon": 55.59602447000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL SALAMAT",
     "phone": "507111712",
-    "email": "ahmed.alhabsi@ese.gov.ae"
+    "email": "ahmed.alhabsi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khaled Bin Al Waleed Boys School",
@@ -665,11 +759,13 @@ const schoolsData = [
     "lat": 24.192370780000033,
     "lon": 55.791739850000056,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL SAROUJ",
     "phone": "506456474",
-    "email": "Ali.Masi@ese.gov.ae"
+    "email": "Ali.Masi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Sadarah Boys School",
@@ -679,11 +775,13 @@ const schoolsData = [
     "lat": 24.231523680000066,
     "lon": 55.68334557000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "506670702",
-    "email": "Humaid.Alhosani@ese.gov.ae"
+    "email": "Humaid.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Reefaa School",
@@ -693,11 +791,13 @@ const schoolsData = [
     "lat": 24.24848903000003,
     "lon": 55.557034920000035,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "503846717",
-    "email": "Wafa.Salmeen@ese.gov.ae"
+    "email": "Wafa.Salmeen@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Amal Kindergarten",
@@ -707,11 +807,13 @@ const schoolsData = [
     "lat": 24.52463671000004,
     "lon": 54.68441031000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAHAMAH",
     "phone": "504487227",
-    "email": "Sheikhah.Shamsi@ese.gov.ae"
+    "email": "Sheikhah.Shamsi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Nahel School",
@@ -721,11 +823,13 @@ const schoolsData = [
     "lat": 24.519604170000036,
     "lon": 55.53740090000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "NAHIL",
     "phone": "503391111",
-    "email": "Shamma-Ma.Alketbi@ese.gov.ae"
+    "email": "Shamma-Ma.Alketbi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Samha Girls School",
@@ -735,11 +839,13 @@ const schoolsData = [
     "lat": 24.681819760000053,
     "lon": 54.77699313000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "501213699",
-    "email": "Klaithem.Alsalaqi@ese.gov.ae"
+    "email": "Klaithem.Alsalaqi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rahbah Cycle1 School",
@@ -749,11 +855,13 @@ const schoolsData = [
     "lat": 24.595519050000064,
     "lon": 54.70038213000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL RAHBAH",
     "phone": "507125457",
-    "email": "Salwa.Aljenaibi@ese.gov.ae"
+    "email": "Salwa.Aljenaibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Borooj School",
@@ -763,11 +871,13 @@ const schoolsData = [
     "lat": 23.880003620000025,
     "lon": 55.39422760000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "BU KIRAYYAH",
     "phone": "505351000",
-    "email": "Fareed.Alwahide@ese.gov.ae"
+    "email": "Fareed.Alwahide@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Joori School",
@@ -777,11 +887,13 @@ const schoolsData = [
     "lat": 24.605446180000058,
     "lon": 55.76847374000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL HIYAR",
     "phone": "506666768",
-    "email": "Aysha-Rh.Alnuaimi@ese.gov.ae"
+    "email": "Aysha-Rh.Alnuaimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhannah School Boys",
@@ -791,11 +903,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "503157891",
-    "email": "Ali.Hassan@ese.gov.ae"
+    "email": "Ali.Hassan@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maali Girls School",
@@ -805,11 +919,13 @@ const schoolsData = [
     "lat": 24.18893182000005,
     "lon": 55.73987811000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "554699981",
-    "email": "Aisha.Nouaimi@ese.gov.ae"
+    "email": "Aisha.Nouaimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ramah Boys School",
@@ -819,11 +935,13 @@ const schoolsData = [
     "lat": 24.205760420000047,
     "lon": 55.339046600000074,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "RIMAH",
     "phone": "504481035",
-    "email": "Adel.Alameri@ese.gov.ae"
+    "email": "Adel.Alameri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Yas School",
@@ -833,11 +951,13 @@ const schoolsData = [
     "lat": 24.504676690000053,
     "lon": 54.590791470000056,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "YAS ISLAND",
     "phone": "503223993",
-    "email": "Fatima-Hi.Alhosani@ese.gov.ae"
+    "email": "Fatima-Hi.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhannah School Girls",
@@ -847,11 +967,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "507114115",
-    "email": "Amina.Almulla@ese.gov.ae"
+    "email": "Amina.Almulla@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ethaar Kindergarten",
@@ -861,11 +983,13 @@ const schoolsData = [
     "lat": 24.359717750000073,
     "lon": 54.65467802000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "506112550",
-    "email": "Noura-As.Alhammadi@ese.gov.ae"
+    "email": "Noura-As.Alhammadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Baynouna School  Boys",
@@ -875,11 +999,13 @@ const schoolsData = [
     "lat": 23.82818647000005,
     "lon": 52.81884903000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "GHAYATHI",
     "phone": "506681405",
-    "email": "Sabha.Almazrooei@ese.gov.ae"
+    "email": "Sabha.Almazrooei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khalifa Bin Zayed Al Awal",
@@ -889,11 +1015,13 @@ const schoolsData = [
     "lat": 24.459556330000055,
     "lon": 54.382949600000074,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "523253163",
-    "email": "sara.benammar@kbza.sch.ae"
+    "email": "sara.benammar@kbza.sch.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ghayathi New School ",
@@ -903,11 +1031,13 @@ const schoolsData = [
     "lat": 23.89600444000007,
     "lon": 52.803150360000075,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "GHAYATHI",
     "phone": "506158933",
-    "email": "Moza.SAlmansoori@ese.gov.ae"
+    "email": "Moza.SAlmansoori@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Yasat Kindergarten",
@@ -917,11 +1047,13 @@ const schoolsData = [
     "lat": 24.554291790000036,
     "lon": 54.684070090000034,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "508003811",
-    "email": "Maryam.Alawadhi@ese.gov.ae"
+    "email": "Maryam.Alawadhi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Omamah Bint Al Harith School Girls",
@@ -931,11 +1063,13 @@ const schoolsData = [
     "lat": 24.267098300000043,
     "lon": 54.69609792000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL NAHDAH",
     "phone": "559437868",
-    "email": "Liesel.Nel@ese.gov.ae"
+    "email": "Liesel.Nel@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khalifa City School",
@@ -945,11 +1079,13 @@ const schoolsData = [
     "lat": 24.41120231000008,
     "lon": 54.58812038000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "501288860",
-    "email": "Alreem.Almenhali@ese.gov.ae"
+    "email": "Alreem.Almenhali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Sedeirah Boys School",
@@ -959,11 +1095,13 @@ const schoolsData = [
     "lat": 24.520016140000052,
     "lon": 54.66246122000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "567331126",
-    "email": "Salem.Hosani@ese.gov.ae"
+    "email": "Salem.Hosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bin Ham Boys School",
@@ -973,11 +1111,13 @@ const schoolsData = [
     "lat": 23.638711320000027,
     "lon": 55.54567030000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL WIQAN",
     "phone": "502575566",
-    "email": "Abdulrahman.Alnasibi@ese.gov.ae"
+    "email": "Abdulrahman.Alnasibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Maryam Bint Sultan Girls School",
@@ -987,11 +1127,13 @@ const schoolsData = [
     "lat": 24.258212230000026,
     "lon": 55.70608074000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "507605355",
-    "email": "Mariam-Tk.Aldhaheri@ese.gov.ae"
+    "email": "Mariam-Tk.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bateen Kindergarten",
@@ -1001,11 +1143,13 @@ const schoolsData = [
     "lat": 24.202940970000043,
     "lon": 55.63126906000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL BATEEN",
     "phone": "507609510",
-    "email": "Shamma-Ha.Aldhaheri@ese.gov.ae"
+    "email": "Shamma-Ha.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Moktashif Al Saghir Kindergarten",
@@ -1015,11 +1159,13 @@ const schoolsData = [
     "lat": 24.65051943000003,
     "lon": 54.73769577000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "507529596",
-    "email": "Aziza.Ali@ese.gov.ae"
+    "email": "Aziza.Ali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nakheel Kindergarten",
@@ -1029,11 +1175,13 @@ const schoolsData = [
     "lat": 24.19350645000003,
     "lon": 55.79322274000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SAROUJ",
     "phone": "503347775",
-    "email": "Maitha.Alnyadi@ese.gov.ae"
+    "email": "Maitha.Alnyadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mbazzarah Al Khadra Girls School",
@@ -1043,11 +1191,13 @@ const schoolsData = [
     "lat": 24.07131491000007,
     "lon": 55.73966777000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "MBAZZARAH AL KHADRA",
     "phone": "506434943",
-    "email": "Aziza.Alazizi@ese.gov.ae"
+    "email": "Aziza.Alazizi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ebtehal Kindergarten",
@@ -1057,11 +1207,13 @@ const schoolsData = [
     "lat": 24.590648870000052,
     "lon": 54.69825762000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL RAHBAH",
     "phone": "505635634",
-    "email": "Khadeeja-Ma.Alshehhi@ese.gov.ae"
+    "email": "Khadeeja-Ma.Alshehhi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Taleaa School",
@@ -1071,11 +1223,13 @@ const schoolsData = [
     "lat": 24.203802610000025,
     "lon": 55.33221356000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "RIMAH",
     "phone": "503314849",
-    "email": "Safeya.Alkatheeri@ese.gov.ae"
+    "email": "Safeya.Alkatheeri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Madinat Al Riyad School ",
@@ -1085,11 +1239,13 @@ const schoolsData = [
     "lat": 24.34122866000007,
     "lon": 54.79006089000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MADINAT AL RIYAD",
     "phone": "529723213",
-    "email": "Maha.Almessabi@ese.gov.ae"
+    "email": "Maha.Almessabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Awael Kindergarten",
@@ -1099,11 +1255,13 @@ const schoolsData = [
     "lat": 24.250150360000077,
     "lon": 55.55850238000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "501368887",
-    "email": "Saleha.Alharthi@ese.gov.ae"
+    "email": "Saleha.Alharthi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shawamekh School Girls",
@@ -1113,11 +1271,13 @@ const schoolsData = [
     "lat": 24.329179750000037,
     "lon": 54.645121360000076,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "505368765",
-    "email": "Asma.Alharithi@ese.gov.ae"
+    "email": "Asma.Alharithi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Asalah School",
@@ -1127,11 +1287,13 @@ const schoolsData = [
     "lat": 24.406723790000058,
     "lon": 54.73202488000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "508443323",
-    "email": "Zainab.Alhosani@ese.gov.ae"
+    "email": "Zainab.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Darwish Bin Karam Boys Chool",
@@ -1141,11 +1303,13 @@ const schoolsData = [
     "lat": 24.406328830000064,
     "lon": 54.50298809000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "RABDAN",
     "phone": "503423666",
-    "email": "Mohammed.Housani@ese.gov.ae"
+    "email": "Mohammed.Housani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ahmed Bin Zayed School",
@@ -1155,11 +1319,13 @@ const schoolsData = [
     "lat": 24.147058180000045,
     "lon": 55.69027521000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "563120808",
-    "email": "Fawzeya.Alblooshi@ese.gov.ae"
+    "email": "Fawzeya.Alblooshi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bonat Al Ghad Kindergarten",
@@ -1169,11 +1335,13 @@ const schoolsData = [
     "lat": 24.398546150000072,
     "lon": 54.74223447000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "505800722",
-    "email": "Hamda.Qamzi@ese.gov.ae"
+    "email": "Hamda.Qamzi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tomooh School",
@@ -1183,11 +1351,13 @@ const schoolsData = [
     "lat": 24.213492340000073,
     "lon": 55.63685331000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL BATEEN",
     "phone": "506194600",
-    "email": "Noura.Aldhahri@ese.gov.ae"
+    "email": "Noura.Aldhahri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ali Bin Abi Taleb Boys School",
@@ -1197,11 +1367,13 @@ const schoolsData = [
     "lat": 24.33931332000003,
     "lon": 55.80199661000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL FOU'AH",
     "phone": "504544473",
-    "email": "Mahmood.Bulshawareb@ese.gov.ae"
+    "email": "Mahmood.Bulshawareb@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Morjan Kindergarten",
@@ -1211,11 +1383,13 @@ const schoolsData = [
     "lat": 24.674974690000056,
     "lon": 54.759224680000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "588661450",
-    "email": "Amal.Albraiki@ese.gov.ae"
+    "email": "Amal.Albraiki@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khleef Kindergarten",
@@ -1225,11 +1399,13 @@ const schoolsData = [
     "lat": 24.312581350000073,
     "lon": 55.80094458000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "507935051",
-    "email": "Mona.Algaithi@ese.gov.ae"
+    "email": "Mona.Algaithi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Shamma Bint Mohammad School",
@@ -1239,11 +1415,13 @@ const schoolsData = [
     "lat": 24.238011380000046,
     "lon": 55.71498525000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "501358000",
-    "email": "Hend.Alkaabi@ese.gov.ae"
+    "email": "Hend.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed City Girls School ",
@@ -1253,11 +1431,13 @@ const schoolsData = [
     "lat": 24.378821320000043,
     "lon": 54.61694740000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "ZAYED CITY",
     "phone": "528428462",
-    "email": "Samyah.Aldhaheri@ese.gov.ae"
+    "email": "Samyah.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Aaliya School",
@@ -1267,11 +1447,13 @@ const schoolsData = [
     "lat": 24.19601374000007,
     "lon": 55.53330304000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "504935559",
-    "email": "Alia.Almeqbali@ese.gov.ae"
+    "email": "Alia.Almeqbali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Muzoon Kindergarten",
@@ -1281,11 +1463,13 @@ const schoolsData = [
     "lat": 24.465865910000048,
     "lon": 54.377363710000054,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "506126264",
-    "email": "Noura.Alalawi@ese.gov.ae"
+    "email": "Noura.Alalawi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed City School ",
@@ -1295,11 +1479,13 @@ const schoolsData = [
     "lat": 24.39327387000003,
     "lon": 54.62256786000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "ZAYED CITY",
     "phone": "506228826",
-    "email": "Salama-Ka.Alnuaimi@ese.gov.ae"
+    "email": "Salama-Ka.Alnuaimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ain Girls School",
@@ -1309,11 +1495,13 @@ const schoolsData = [
     "lat": 24.28863647000003,
     "lon": 55.76594133000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "501122853",
-    "email": "Aisha-Ab.Aldarmaki@ese.gov.ae"
+    "email": "Aisha-Ab.Aldarmaki@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Adl Boys School",
@@ -1323,11 +1511,13 @@ const schoolsData = [
     "lat": 24.22841133000003,
     "lon": 55.55627677000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "504488554",
-    "email": "Mohammed-Ja.Sultan@ese.gov.ae"
+    "email": "Mohammed-Ja.Sultan@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maha School Girls",
@@ -1337,11 +1527,13 @@ const schoolsData = [
     "lat": 24.422569570000064,
     "lon": 54.741663850000066,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL FALAH",
     "phone": "25588611",
-    "email": "Thekrayat.Alhamdan@ese.gov.ae"
+    "email": "Thekrayat.Alhamdan@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed City Boys School ",
@@ -1351,11 +1543,13 @@ const schoolsData = [
     "lat": 24.35918403000005,
     "lon": 54.611319610000066,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "ZAYED CITY",
     "phone": "508023323",
-    "email": "Hanan-Aa.Aljunaibi@ese.gov.ae"
+    "email": "Hanan-Aa.Aljunaibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Resalah School",
@@ -1365,11 +1559,13 @@ const schoolsData = [
     "lat": 24.71633516000003,
     "lon": 55.61693717000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL FAQA'",
     "phone": "506633991",
-    "email": "Alia-D.Alkaabi@ese.gov.ae"
+    "email": "Alia-D.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nebras Boys School",
@@ -1379,11 +1575,13 @@ const schoolsData = [
     "lat": 24.212696090000065,
     "lon": 55.58773445000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL SALAMAT",
     "phone": "508317793",
-    "email": "Mohammed.Alnaqbi@ese.gov.ae"
+    "email": "Mohammed.Alnaqbi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Al Fadhel Bint Al Hareth Girls School",
@@ -1393,11 +1591,13 @@ const schoolsData = [
     "lat": 24.233945190000043,
     "lon": 55.55195106000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "503307866",
-    "email": "Salma.Alobidy@ese.gov.ae"
+    "email": "Salma.Alobidy@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Ghafa Kindergarten",
@@ -1407,11 +1607,13 @@ const schoolsData = [
     "lat": 24.099505960000045,
     "lon": 55.90753262000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "UM GHAFAH",
     "phone": "501192223",
-    "email": "Mariam.Alkuwaiti@ese.gov.ae"
+    "email": "Mariam.Alkuwaiti@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hamdan Bin Zayed School",
@@ -1421,11 +1623,13 @@ const schoolsData = [
     "lat": 24.43127184000008,
     "lon": 54.39541874000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "504945223",
-    "email": "fatma.albastaki@ese.gov.ae"
+    "email": "fatma.albastaki@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qoua C2 Boys School",
@@ -1435,11 +1639,13 @@ const schoolsData = [
     "lat": 23.410822980000034,
     "lon": 55.42587492000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL QOU'",
     "phone": "501624661",
-    "email": "Nafla.Alderei@ese.gov.ae"
+    "email": "Nafla.Alderei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Reyada School Girls",
@@ -1449,11 +1655,13 @@ const schoolsData = [
     "lat": 24.38932914000003,
     "lon": 54.68953625000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "501332545",
-    "email": "Shawqeya.Alhosani@ese.gov.ae"
+    "email": "Shawqeya.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi School Boys",
@@ -1463,11 +1671,13 @@ const schoolsData = [
     "lat": 24.479549440000028,
     "lon": 54.37616752000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "507118899",
-    "email": "Abdelazeez.Suliman@ese.gov.ae"
+    "email": "Abdelazeez.Suliman@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Kolthoom Girls School",
@@ -1477,11 +1687,13 @@ const schoolsData = [
     "lat": 24.186398540000027,
     "lon": 55.62175062000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "563050039",
-    "email": "Rahima.Alblooshi@ese.gov.ae"
+    "email": "Rahima.Alblooshi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hamooda Bin Ali School",
@@ -1491,11 +1703,13 @@ const schoolsData = [
     "lat": 24.374153410000076,
     "lon": 54.66265764000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "505961722",
-    "email": "Ayesha.Alali@ese.gov.ae"
+    "email": "Ayesha.Alali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Marfaa School Boys",
@@ -1505,11 +1719,13 @@ const schoolsData = [
     "lat": 24.079714980000062,
     "lon": 53.47856691000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "504441747",
-    "email": "Yousuf.Alhammadi@ese.gov.ae"
+    "email": "Yousuf.Alhammadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bedaa Al Mutawa School  ",
@@ -1519,11 +1735,13 @@ const schoolsData = [
     "lat": 23.782379070000047,
     "lon": 52.57594693000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "BAD' AL MUTAW'AH",
     "phone": "504411206",
-    "email": "Alroome.Almansoori@ese.gov.ae"
+    "email": "Alroome.Almansoori@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bedaa Boys School",
@@ -1533,11 +1751,13 @@ const schoolsData = [
     "lat": 24.51022517000007,
     "lon": 55.48973632000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "NAHIL",
     "phone": "557271199",
-    "email": "Ali.Binzayed@ese.gov.ae"
+    "email": "Ali.Binzayed@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maqam Kindergarten",
@@ -1547,11 +1767,13 @@ const schoolsData = [
     "lat": 24.18289616000004,
     "lon": 55.61374643000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "504711716",
-    "email": "Fatima-Ms.Alghaithi@ese.gov.ae"
+    "email": "Fatima-Ms.Alghaithi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nokhba School",
@@ -1561,11 +1783,13 @@ const schoolsData = [
     "lat": 24.079714980000062,
     "lon": 53.47856691000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "562246164",
-    "email": "Sheridan.Fisher@ese.gov.ae"
+    "email": "Sheridan.Fisher@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ghazali School",
@@ -1575,11 +1799,13 @@ const schoolsData = [
     "lat": 24.457858400000077,
     "lon": 54.34011323000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "505812101",
-    "email": "Qadreya.Alali@ese.gov.ae"
+    "email": "Qadreya.Alali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhaher Girls School",
@@ -1589,11 +1815,13 @@ const schoolsData = [
     "lat": 24.075892080000074,
     "lon": 55.84127078000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL DHAHIR",
     "phone": "505639927",
-    "email": "Hamda-Aa.Alneyadi@ese.gov.ae"
+    "email": "Hamda-Aa.Alneyadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Sawsan Kindergarten",
@@ -1603,11 +1831,13 @@ const schoolsData = [
     "lat": 24.20483770000004,
     "lon": 55.58890160000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SALAMAT",
     "phone": "551244442",
-    "email": "Alyazia.Alghafli@ese.gov.ae"
+    "email": "Alyazia.Alghafli@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Al Emarat  School Girls",
@@ -1617,11 +1847,13 @@ const schoolsData = [
     "lat": 24.409024420000037,
     "lon": 54.73167203000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "506129987",
-    "email": "Afra.Almarbouei@ese.gov.ae"
+    "email": "Afra.Almarbouei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Zayediyyah Girls School",
@@ -1631,11 +1863,13 @@ const schoolsData = [
     "lat": 24.14038750000003,
     "lon": 55.70373779000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "507893444",
-    "email": "Noura-Ra.Alnuaimi@ese.gov.ae"
+    "email": "Noura-Ra.Alnuaimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ibn Sina School",
@@ -1645,11 +1879,13 @@ const schoolsData = [
     "lat": 24.521507980000024,
     "lon": 54.68856329000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAHAMAH",
     "phone": "551021174",
-    "email": "Priti.Sindhu@ese.gov.ae"
+    "email": "Priti.Sindhu@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed Al Thani Boys School",
@@ -1659,11 +1895,13 @@ const schoolsData = [
     "lat": 24.326679850000062,
     "lon": 54.64340464000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "504463963",
-    "email": "Abdullah.Yousif@ese.gov.ae"
+    "email": "Abdullah.Yousif@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Sariyah School",
@@ -1673,11 +1911,13 @@ const schoolsData = [
     "lat": 24.465972460000046,
     "lon": 55.34299870000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "SWEIHAN",
     "phone": "506636923",
-    "email": "Hamamma.Mazroui@ese.gov.ae"
+    "email": "Hamamma.Mazroui@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Quaa Boys School",
@@ -1687,11 +1927,13 @@ const schoolsData = [
     "lat": 23.41518005000006,
     "lon": 55.427588540000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL QOU'",
     "phone": "509766657",
-    "email": "Ahmed.Aldarei@ese.gov.ae"
+    "email": "Ahmed.Aldarei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jeel Al Jadeed Kindergarten",
@@ -1701,11 +1943,13 @@ const schoolsData = [
     "lat": 24.404116000000045,
     "lon": 54.58819646000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "506665525",
-    "email": "Ghariba.Alkhyeli@ese.gov.ae"
+    "email": "Ghariba.Alkhyeli@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rawdah Al Sharqiyah School",
@@ -1715,11 +1959,13 @@ const schoolsData = [
     "lat": 24.149007150000045,
     "lon": 55.64821076000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL RAWDAH AL SHARQIYAH",
     "phone": "507331228",
-    "email": "Amna-Mh.Alkaabi@ese.gov.ae"
+    "email": "Amna-Mh.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shabhana School Boys",
@@ -1729,11 +1975,13 @@ const schoolsData = [
     "lat": 24.063706100000047,
     "lon": 51.76395366000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "AL SILA'",
     "phone": "505164591",
-    "email": "Mohamed.Sayedahmed@ese.gov.ae"
+    "email": "Mohamed.Sayedahmed@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khalifah Bin Zayed Boys School",
@@ -1743,11 +1991,13 @@ const schoolsData = [
     "lat": 24.430123050000077,
     "lon": 54.40713589000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "506228814",
-    "email": "Khalid.Hosani@ese.gov.ae"
+    "email": "Khalid.Hosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zakhir Kindergarten",
@@ -1757,11 +2007,13 @@ const schoolsData = [
     "lat": 24.121866900000043,
     "lon": 55.692425110000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "506937000",
-    "email": "Hessa.Alshamisi@ese.gov.ae"
+    "email": "Hessa.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Refaah School",
@@ -1771,11 +2023,13 @@ const schoolsData = [
     "lat": 24.60367904000003,
     "lon": 55.75550890000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL HIYAR",
     "phone": "503620055",
-    "email": "Huda.Echtibi@ese.gov.ae"
+    "email": "Huda.Echtibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shiyam Girls School",
@@ -1785,11 +2039,13 @@ const schoolsData = [
     "lat": 24.099746320000065,
     "lon": 55.90598276000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "UM GHAFAH",
     "phone": "503334531",
-    "email": "Afra.Alshamsi@ese.gov.ae"
+    "email": "Afra.Alshamsi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhahera Boys School",
@@ -1799,11 +2055,13 @@ const schoolsData = [
     "lat": 24.000661450000052,
     "lon": 55.57033954000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL DHAHRAH",
     "phone": "507431223",
-    "email": "Amna-Am.Alshamisi@ese.gov.ae"
+    "email": "Amna-Am.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mesk Kindergarten",
@@ -1813,11 +2071,13 @@ const schoolsData = [
     "lat": 24.345047580000028,
     "lon": 55.79295461000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL FOU'AH",
     "phone": "506147998",
-    "email": "Mouza-S.Alkaabi@ese.gov.ae"
+    "email": "Mouza-S.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Aryam Kindergarten",
@@ -1827,11 +2087,13 @@ const schoolsData = [
     "lat": 24.40108697000005,
     "lon": 54.56091217000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "528811135",
-    "email": "Abeer.Shabana@ese.gov.ae"
+    "email": "Abeer.Shabana@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mabade School",
@@ -1841,11 +2103,13 @@ const schoolsData = [
     "lat": 24.160895980000078,
     "lon": 55.13065739000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHAZNAH",
     "phone": "506136565",
-    "email": "ruwaya.alsaedi@ese.gov.ae"
+    "email": "ruwaya.alsaedi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rudwan Kindergarten",
@@ -1855,11 +2119,13 @@ const schoolsData = [
     "lat": 24.427966810000044,
     "lon": 54.56612889000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "501291294",
-    "email": "Ayesha.Aljaberi@ese.gov.ae"
+    "email": "Ayesha.Aljaberi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jazeera Club Academy Boys",
@@ -1869,11 +2135,13 @@ const schoolsData = [
     "lat": -0.9999999999999432,
     "lon": -0.9999999999999432,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "N/A",
     "district": "N/A",
     "phone": "504414387",
-    "email": "Faisal.Thabit@ese.gov.ae"
+    "email": "Faisal.Thabit@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Muraijib Girls School",
@@ -1883,11 +2151,13 @@ const schoolsData = [
     "lat": 24.253107640000053,
     "lon": 55.72289315000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL JIMI",
     "phone": "0",
-    "email": "N/A"
+    "email": "N/A",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Atifal Al Maerefa Kindergarten",
@@ -1897,11 +2167,13 @@ const schoolsData = [
     "lat": 24.306097140000077,
     "lon": 54.63566722000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "555665882",
-    "email": "Mariam.Aloudhali@ese.gov.ae"
+    "email": "Mariam.Aloudhali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Al Emarat Girls School - Al Ain",
@@ -1911,11 +2183,13 @@ const schoolsData = [
     "lat": 24.274040650000074,
     "lon": 55.76463181000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "501371240",
-    "email": "Fatima-Sm.Alkaabi@ese.gov.ae"
+    "email": "Fatima-Sm.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khatem School",
@@ -1925,11 +2199,13 @@ const schoolsData = [
     "lat": 24.182347760000027,
     "lon": 54.993841650000036,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL KHATM",
     "phone": "508144125",
-    "email": "Salma-M.Almansoori@ese.gov.ae"
+    "email": "Salma-M.Almansoori@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dahmaa Boys School",
@@ -1939,11 +2215,13 @@ const schoolsData = [
     "lat": 24.215602880000063,
     "lon": 55.637769820000074,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL BATEEN",
     "phone": "504490340",
-    "email": "Hamed.Alkaabi@ese.gov.ae"
+    "email": "Hamed.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mawaheb School",
@@ -1953,11 +2231,13 @@ const schoolsData = [
     "lat": 24.462660390000053,
     "lon": 54.34787792000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "502666771",
-    "email": "Shamsa.Alshamisi@ese.gov.ae"
+    "email": "Shamsa.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Yahar Kindergarten",
@@ -1967,11 +2247,13 @@ const schoolsData = [
     "lat": 24.231293710000045,
     "lon": 55.568285150000065,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "504103051",
-    "email": "Eiman.Alkhlaifi@ese.gov.ae"
+    "email": "Eiman.Alkhlaifi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maqam Boys School",
@@ -1981,11 +2263,13 @@ const schoolsData = [
     "lat": 24.19002782000007,
     "lon": 55.62503267000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "506494550",
-    "email": "Talal.Naqbi@ese.gov.ae"
+    "email": "Talal.Naqbi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Moza Bint Buti Girls School",
@@ -1995,11 +2279,13 @@ const schoolsData = [
     "lat": 24.557521290000068,
     "lon": 54.67697670000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "506675177",
-    "email": "Fatima.Almarzouqei@ese.gov.ae"
+    "email": "Fatima.Almarzouqei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Zayediyyah Boys School",
@@ -2009,11 +2295,13 @@ const schoolsData = [
     "lat": 24.134598870000048,
     "lon": 55.698079230000076,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "505766995",
-    "email": "Mohamed.Abubakr@ese.gov.ae"
+    "email": "Mohamed.Abubakr@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abdul Jalil Al Fahim Boys School",
@@ -2023,11 +2311,13 @@ const schoolsData = [
     "lat": 24.44202063000006,
     "lon": 54.43606618000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "506636444",
-    "email": "mohammed-k.alzaabi@ese.gov.ae"
+    "email": "mohammed-k.alzaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khair Girls School",
@@ -2037,11 +2327,13 @@ const schoolsData = [
     "lat": 24.19484724000006,
     "lon": 55.53157518000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "508307606",
-    "email": "aysha.alghafli@ese.gov.ae"
+    "email": "aysha.alghafli@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed Al Khair Boys School",
@@ -2051,11 +2343,13 @@ const schoolsData = [
     "lat": 24.521706360000053,
     "lon": 54.67503420000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SHAHAMAH",
     "phone": "506265242",
-    "email": "Hassan.Abidli@ese.gov.ae"
+    "email": "Hassan.Abidli@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khalifah Bin Zayed Boys School - Al Ain",
@@ -2065,11 +2359,13 @@ const schoolsData = [
     "lat": 24.26515980000005,
     "lon": 55.731786560000046,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL JIMI",
     "phone": "506198761",
-    "email": "Abdulaziz.Shahdad@ese.gov.ae"
+    "email": "Abdulaziz.Shahdad@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Atfal Al Hilal Kindergarten",
@@ -2079,11 +2375,13 @@ const schoolsData = [
     "lat": 24.51235033000006,
     "lon": 55.49477367000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "NAHIL",
     "phone": "504474428",
-    "email": "Aysha-Ms.Almuhairi@ese.gov.ae"
+    "email": "Aysha-Ms.Almuhairi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhafra School  Boys",
@@ -2093,11 +2391,13 @@ const schoolsData = [
     "lat": 23.665055850000044,
     "lon": 53.703467200000034,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "508124812",
-    "email": "Raya.Almazroei@ese.gov.ae"
+    "email": "Raya.Almazroei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Aamerah Kindergarten",
@@ -2107,11 +2407,13 @@ const schoolsData = [
     "lat": 24.227136440000038,
     "lon": 55.54477583000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "507533922",
-    "email": "Shaikha-Sh.Aldhaheri@ese.gov.ae"
+    "email": "Shaikha-Sh.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bani Yas City School Girls",
@@ -2121,11 +2423,13 @@ const schoolsData = [
     "lat": 24.284517640000047,
     "lon": 54.64762848000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "506166114",
-    "email": "Rehab.Alhashimi@ese.gov.ae"
+    "email": "Rehab.Alhashimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Aasimah School Boys",
@@ -2135,11 +2439,13 @@ const schoolsData = [
     "lat": 24.392574500000023,
     "lon": 54.73708019000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "506157349",
-    "email": "Taleb.Alattas@ese.gov.ae"
+    "email": "Taleb.Alattas@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Taqaddom School",
@@ -2149,11 +2455,13 @@ const schoolsData = [
     "lat": 24.392574500000023,
     "lon": 54.73708019000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "506668802",
-    "email": "Ahmed.Alsubhi@ese.gov.ae"
+    "email": "Ahmed.Alsubhi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hamza Bin Abdul Muttalib School Boys",
@@ -2163,11 +2471,13 @@ const schoolsData = [
     "lat": 24.293929830000025,
     "lon": 54.640766660000054,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "558008052",
-    "email": "Reda.Atas@ese.gov.ae"
+    "email": "Reda.Atas@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Saada - Abu Dhabi School",
@@ -2177,11 +2487,13 @@ const schoolsData = [
     "lat": 23.419982230000073,
     "lon": 55.41271726000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL QOU'",
     "phone": "507133090",
-    "email": "Hadna.Aldarei@ese.gov.ae"
+    "email": "Hadna.Aldarei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Qatr Al Nada School Girls",
@@ -2191,11 +2503,13 @@ const schoolsData = [
     "lat": 23.648374250000074,
     "lon": 53.71033599000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "506615451",
-    "email": "Salama-Ko.Almazrouei@ese.gov.ae"
+    "email": "Salama-Ko.Almazrouei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shatha Kindergarten",
@@ -2205,11 +2519,13 @@ const schoolsData = [
     "lat": 23.635310530000027,
     "lon": 53.70368231000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "508322261",
-    "email": "Shama.Almarar@ese.gov.ae"
+    "email": "Shama.Almarar@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Marfaa School",
@@ -2219,11 +2535,13 @@ const schoolsData = [
     "lat": 24.077834770000038,
     "lon": 53.47770162000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "504111341",
-    "email": "Noura-Am.Alhammadi@ese.gov.ae"
+    "email": "Noura-Am.Alhammadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Hosn Scientific School  ",
@@ -2233,11 +2551,13 @@ const schoolsData = [
     "lat": 24.463602080000044,
     "lon": 52.31466883000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "DELMA",
     "phone": "502255537",
-    "email": "Mohamed-Ah.Alhammadi@ese.gov.ae"
+    "email": "Mohamed-Ah.Alhammadi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Badiyah Girls School",
@@ -2247,11 +2567,13 @@ const schoolsData = [
     "lat": 23.631174050000027,
     "lon": 55.55327508000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL WIQAN",
     "phone": "507533310",
-    "email": "Latifa.Alameri@ese.gov.ae"
+    "email": "Latifa.Alameri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bayah School Girls",
@@ -2261,11 +2583,13 @@ const schoolsData = [
     "lat": 24.07866099000006,
     "lon": 51.76275120000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Dhafra Region",
     "district": "AL SILA'",
     "phone": "568133881",
-    "email": "Yelwa.Almansoori@ese.gov.ae"
+    "email": "Yelwa.Almansoori@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Seddique School Boys ",
@@ -2275,11 +2599,13 @@ const schoolsData = [
     "lat": 23.121524290000025,
     "lon": 53.92228188000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "EASTERN MAHADIR",
     "phone": "506718533",
-    "email": "Mohammad.Jawarneh@ese.gov.ae"
+    "email": "Mohammad.Jawarneh@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khatem Boys School",
@@ -2289,11 +2615,13 @@ const schoolsData = [
     "lat": 24.18175111000005,
     "lon": 55.00492134000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL KHATM",
     "phone": "506134330",
-    "email": "musallam.alkatheeri@ese.gov.ae"
+    "email": "musallam.alkatheeri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Wathbah School Girls",
@@ -2303,11 +2631,13 @@ const schoolsData = [
     "lat": 24.244140220000077,
     "lon": 54.70956194000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL WATHBAH",
     "phone": "504458169",
-    "email": "Badreya-Mm.Aljunaibi@ese.gov.ae"
+    "email": "Badreya-Mm.Aljunaibi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tamayyoz Boys School",
@@ -2317,11 +2647,13 @@ const schoolsData = [
     "lat": 24.194681280000054,
     "lon": 55.735520070000064,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "509410001",
-    "email": "Aisha.Qaydi@ese.gov.ae"
+    "email": "Aisha.Qaydi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Farooq School Boys ",
@@ -2331,11 +2663,13 @@ const schoolsData = [
     "lat": 23.114947740000048,
     "lon": 53.601853910000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "WESTERN MAHADIR",
     "phone": "506660172",
-    "email": "Basima.H@ese.gov.ae"
+    "email": "Basima.H@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Salamah Bint Buti School Girls",
@@ -2345,11 +2679,13 @@ const schoolsData = [
     "lat": 24.29889725000004,
     "lon": 54.63432990000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "508330382",
-    "email": "Muna.Falouqa@ese.gov.ae"
+    "email": "Muna.Falouqa@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ezzah School",
@@ -2359,11 +2695,13 @@ const schoolsData = [
     "lat": 24.319778670000062,
     "lon": 54.61896929000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "501461666",
-    "email": "Khadeija.Zeyoudi@ese.gov.ae"
+    "email": "Khadeija.Zeyoudi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhannah School",
@@ -2373,11 +2711,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "504420242",
-    "email": "Masbouba.Mansouri@ese.gov.ae"
+    "email": "Masbouba.Mansouri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hazza Bin Zayed Al Awal School",
@@ -2387,11 +2727,13 @@ const schoolsData = [
     "lat": 24.460558020000065,
     "lon": 54.35848583000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL KHALIDIYAH",
     "phone": "508110433",
-    "email": "Eiman-Gs.Alkatheeri@ese.gov.ae"
+    "email": "Eiman-Gs.Alkatheeri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Madinat Al Riyad Schools Girls ",
@@ -2401,11 +2743,13 @@ const schoolsData = [
     "lat": 24.32686713000004,
     "lon": 54.765352300000075,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "MADINAT AL RIYAD",
     "phone": "506620109",
-    "email": "Arwa.Naser@ese.gov.ae"
+    "email": "Arwa.Naser@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Tifel Al Emarat Kindergarten",
@@ -2415,11 +2759,13 @@ const schoolsData = [
     "lat": 24.075739180000028,
     "lon": 55.84304779000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL DHAHIR",
     "phone": "508171880",
-    "email": "Shaikha.Alkalbany@ese.gov.ae"
+    "email": "Shaikha.Alkalbany@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Taawun School Boys",
@@ -2429,11 +2775,13 @@ const schoolsData = [
     "lat": 24.375888490000023,
     "lon": 54.714510000000075,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "505225020",
-    "email": "abdelrahman.menhali@ese.gov.ae"
+    "email": "abdelrahman.menhali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Nahyan Al Awal Kindergarten",
@@ -2443,11 +2791,13 @@ const schoolsData = [
     "lat": 24.146738630000073,
     "lon": 55.69331908000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "37812399",
-    "email": "Shaikha.Aldarei@ese.gov.ae"
+    "email": "Shaikha.Aldarei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahdha School Boys",
@@ -2457,11 +2807,13 @@ const schoolsData = [
     "lat": 24.284732580000025,
     "lon": 54.652880080000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "506161719",
-    "email": "Abdullah.Attas@ese.gov.ae"
+    "email": "Abdullah.Attas@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Shakhbout Bin Sultan Boys School",
@@ -2471,11 +2823,13 @@ const schoolsData = [
     "lat": 24.22909941000006,
     "lon": 55.55284970000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "505069545",
-    "email": "Zeyad.Aldabashi@ese.gov.ae"
+    "email": "Zeyad.Aldabashi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Marfa School Girls",
@@ -2485,11 +2839,13 @@ const schoolsData = [
     "lat": 24.090495270000076,
     "lon": 53.47121706000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "543444669",
-    "email": "Shaikha.Almarzoogi@ese.gov.ae"
+    "email": "Shaikha.Almarzoogi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jahili Girls School",
@@ -2499,11 +2855,13 @@ const schoolsData = [
     "lat": 24.208928550000053,
     "lon": 55.748217210000064,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL JAHILI",
     "phone": "503336691",
-    "email": "Fatima.Alnaseri@ese.gov.ae"
+    "email": "Fatima.Alnaseri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shaheen School",
@@ -2513,11 +2871,13 @@ const schoolsData = [
     "lat": 24.34569521000003,
     "lon": 55.79118622000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL FOU'AH",
     "phone": "507135137",
-    "email": "Safeya.Alghaithi@ese.gov.ae"
+    "email": "Safeya.Alghaithi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Khanoor School",
@@ -2527,11 +2887,13 @@ const schoolsData = [
     "lat": 23.095236820000025,
     "lon": 53.60717389000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "WESTERN MAHADIR",
     "phone": "505161295",
-    "email": "Mariam.Alzayat@ese.gov.ae"
+    "email": "Mariam.Alzayat@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Reem Girls School",
@@ -2541,11 +2903,13 @@ const schoolsData = [
     "lat": 24.435489810000036,
     "lon": 54.43206937000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "506121237",
-    "email": "Safia.Alabdouli@ese.gov.ae"
+    "email": "Safia.Alabdouli@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed Al Awal Boys School",
@@ -2555,11 +2919,13 @@ const schoolsData = [
     "lat": 24.19319131000003,
     "lon": 55.63645542000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "506934662",
-    "email": "Mohamed.Saeed@ese.gov.ae"
+    "email": "Mohamed.Saeed@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah School  Boys",
@@ -2569,11 +2935,13 @@ const schoolsData = [
     "lat": 23.664360760000022,
     "lon": 53.70160666000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "505729045",
-    "email": "Mohammed.Mohammed@ese.gov.ae"
+    "email": "Mohammed.Mohammed@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Atifal Al Emarat Kindergarten  ",
@@ -2583,11 +2951,13 @@ const schoolsData = [
     "lat": 24.304331740000066,
     "lon": 54.655186410000056,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "506229360",
-    "email": "Khulood.Aljafri@ese.gov.ae"
+    "email": "Khulood.Aljafri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sultan Bin Zayed Boys School",
@@ -2597,11 +2967,13 @@ const schoolsData = [
     "lat": 24.219876260000035,
     "lon": 55.735949840000046,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL MU'TARID",
     "phone": "506434200",
-    "email": "Rashed.Albaloushi@ese.gov.ae"
+    "email": "Rashed.Albaloushi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shahama Girls School",
@@ -2611,11 +2983,13 @@ const schoolsData = [
     "lat": 24.540078420000043,
     "lon": 54.677405140000076,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "505194301",
-    "email": "Olayinka.Olayiwola@ese.gov.ae"
+    "email": "Olayinka.Olayiwola@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sweihan Boys School",
@@ -2625,11 +2999,13 @@ const schoolsData = [
     "lat": 24.465373730000067,
     "lon": 55.329453390000026,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "SWEIHAN",
     "phone": "504441848",
-    "email": "Yousef.Alshehhi@ese.gov.ae"
+    "email": "Yousef.Alshehhi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ruwaad School Boys",
@@ -2639,11 +3015,13 @@ const schoolsData = [
     "lat": 24.240423840000062,
     "lon": 54.72458682000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL WATHBAH",
     "phone": "556165232",
-    "email": "Obaid.Marzooq@ese.gov.ae"
+    "email": "Obaid.Marzooq@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Raqiah School",
@@ -2653,11 +3031,13 @@ const schoolsData = [
     "lat": 24.270105100000023,
     "lon": 55.71304335000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "505337786",
-    "email": "Latifa.Alnuimi@ese.gov.ae"
+    "email": "Latifa.Alnuimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zayed City School - Al Dhfra",
@@ -2667,11 +3047,13 @@ const schoolsData = [
     "lat": 23.647764470000027,
     "lon": 53.70870721000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "506668553",
-    "email": "Hamda.Almansouri@ese.gov.ae"
+    "email": "Hamda.Almansouri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Hessa Bint Mohammad Girls School",
@@ -2681,11 +3063,13 @@ const schoolsData = [
     "lat": 24.13781977000008,
     "lon": 55.70634721000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "507232325",
-    "email": "Heba.Tarsh@ese.gov.ae"
+    "email": "Heba.Tarsh@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Neima Boys School",
@@ -2695,11 +3079,13 @@ const schoolsData = [
     "lat": 24.10863463000004,
     "lon": 55.70471701000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "NI'MAH",
     "phone": "509318555",
-    "email": "Mohad-Sa.Alshamisi@ese.gov.ae"
+    "email": "Mohad-Sa.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qoua Kindergarten",
@@ -2709,11 +3095,13 @@ const schoolsData = [
     "lat": 23.411296020000066,
     "lon": 55.42424687000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL QOU'",
     "phone": "506638788",
-    "email": "Thamna-Sh.Aldarei@ese.gov.ae"
+    "email": "Thamna-Sh.Aldarei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Halima Al Saadiah School",
@@ -2723,11 +3111,13 @@ const schoolsData = [
     "lat": 24.550077980000026,
     "lon": 54.688120670000046,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "25847715",
-    "email": "Alhammadi.Fatima@ese.gov.ae"
+    "email": "Alhammadi.Fatima@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Fateh School",
@@ -2737,11 +3127,13 @@ const schoolsData = [
     "lat": 24.34983451000005,
     "lon": 54.649427280000054,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "506423762",
-    "email": "Mohamed.Almarzooqi@ese.gov.ae"
+    "email": "Mohamed.Almarzooqi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Soqoor Boys School",
@@ -2751,11 +3143,13 @@ const schoolsData = [
     "lat": 24.526772220000055,
     "lon": 54.672848240000064,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "255664714",
-    "email": "Yassir.Ghalabi@ese.gov.ae"
+    "email": "Yassir.Ghalabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhabianiah School",
@@ -2765,11 +3159,13 @@ const schoolsData = [
     "lat": 24.43310156000007,
     "lon": 54.39693068000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "504107808",
-    "email": "Reem.Alquwaitaei@ese.gov.ae"
+    "email": "Reem.Alquwaitaei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Huiteen School  ",
@@ -2779,11 +3175,13 @@ const schoolsData = [
     "lat": 23.119344090000027,
     "lon": 53.92560785000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "EASTERN MAHADIR",
     "phone": "505665742",
-    "email": "Fawkia.Hilal@ese.gov.ae"
+    "email": "Fawkia.Hilal@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Atfal Ad Kindergarten",
@@ -2793,11 +3191,13 @@ const schoolsData = [
     "lat": 24.463869190000025,
     "lon": 54.36700323000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "506621128",
-    "email": "Mona.Alrefai@ese.gov.ae"
+    "email": "Mona.Alrefai@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhaher School",
@@ -2807,11 +3207,13 @@ const schoolsData = [
     "lat": 24.077760390000037,
     "lon": 55.85714222000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL DHAHIR",
     "phone": "508221144",
-    "email": "Amna.Mousa@ese.gov.ae"
+    "email": "Amna.Mousa@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Um Ghafa Boys School",
@@ -2821,11 +3223,13 @@ const schoolsData = [
     "lat": 24.09128880000003,
     "lon": 55.89710469000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "UM GHAFAH",
     "phone": "506433545",
-    "email": "Mubarak.Alsaedi@ese.gov.ae"
+    "email": "Mubarak.Alsaedi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Showaib Boys School",
@@ -2835,11 +3239,13 @@ const schoolsData = [
     "lat": 24.74137193000007,
     "lon": 55.787413650000076,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL SHIWAYB",
     "phone": "507997953",
-    "email": "Younis.Alhosany@ese.gov.ae"
+    "email": "Younis.Alhosany@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Thuraya Kindergarten",
@@ -2849,11 +3255,13 @@ const schoolsData = [
     "lat": 24.542402840000022,
     "lon": 54.63169086000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "507321488",
-    "email": "Amna.Aladawi@ese.gov.ae"
+    "email": "Amna.Aladawi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jimi Kindergarten",
@@ -2863,11 +3271,13 @@ const schoolsData = [
     "lat": 24.258715820000077,
     "lon": 55.740796860000046,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL JIMI",
     "phone": "504712317",
-    "email": "Shamsa.Aldhaheri@ese.gov.ae"
+    "email": "Shamsa.Aldhaheri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Erteqaa School Girls",
@@ -2877,11 +3287,13 @@ const schoolsData = [
     "lat": 24.404816710000034,
     "lon": 54.73231739000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "506924478",
-    "email": "Amal.Shehab@ese.gov.ae"
+    "email": "Amal.Shehab@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Fatimah Bint Mubarak School",
@@ -2891,11 +3303,13 @@ const schoolsData = [
     "lat": 24.482958790000055,
     "lon": 54.38050312000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "505636646",
-    "email": "Koloud.Algahwashi@ese.gov.ae"
+    "email": "Koloud.Algahwashi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Wajan School",
@@ -2905,11 +3319,13 @@ const schoolsData = [
     "lat": 23.637695260000044,
     "lon": 55.53868349000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL WIQAN",
     "phone": "504496602",
-    "email": "Kanna-Mm.Alameri@ese.gov.ae"
+    "email": "Kanna-Mm.Alameri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Diwan Kindergarten",
@@ -2919,11 +3335,13 @@ const schoolsData = [
     "lat": 24.225036230000057,
     "lon": 55.72286022000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "506616618",
-    "email": "Sghaira.Alkhaili@ese.gov.ae"
+    "email": "Sghaira.Alkhaili@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah City School",
@@ -2933,11 +3351,13 @@ const schoolsData = [
     "lat": -0.9999999999999432,
     "lon": -0.9999999999999432,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "N/A",
     "district": "N/A",
     "phone": "558885439",
-    "email": "Najwa.Almarzouqi@ese.gov.ae"
+    "email": "Najwa.Almarzouqi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Waleed Bin Abdul Malek School Boys",
@@ -2947,11 +3367,13 @@ const schoolsData = [
     "lat": 24.261870500000043,
     "lon": 54.705821480000054,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL NAHDAH",
     "phone": "506117949",
-    "email": "Hassan.Araifee@ese.gov.ae"
+    "email": "Hassan.Araifee@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sheikha Bint Suroor School",
@@ -2961,11 +3383,13 @@ const schoolsData = [
     "lat": 24.230007580000063,
     "lon": 55.555019050000055,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "507636356",
-    "email": "Noura.Alshemmari@ese.gov.ae"
+    "email": "Noura.Alshemmari@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mazyad School",
@@ -2975,11 +3399,13 @@ const schoolsData = [
     "lat": 24.053970960000072,
     "lon": 55.84319462000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "MAZYAD",
     "phone": "566088222",
-    "email": "Zainab.Alyahyaei@ese.gov.ae"
+    "email": "Zainab.Alyahyaei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shamkha Kindergarten",
@@ -2989,11 +3415,13 @@ const schoolsData = [
     "lat": 24.406378860000075,
     "lon": 54.723588920000054,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "504160670",
-    "email": "Wadha.Almansouri@ese.gov.ae"
+    "email": "Wadha.Almansouri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Hayar Boys School",
@@ -3003,11 +3431,13 @@ const schoolsData = [
     "lat": 24.602279990000056,
     "lon": 55.76066053000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "AL HIYAR",
     "phone": "506336393",
-    "email": "Aref.Alali@ese.gov.ae"
+    "email": "Aref.Alali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Baheya School",
@@ -3017,11 +3447,13 @@ const schoolsData = [
     "lat": 24.53953389000003,
     "lon": 54.67460796000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "503166757",
-    "email": "Alsaad.Aljaberi@ese.gov.ae"
+    "email": "Alsaad.Aljaberi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Dalma School ",
@@ -3031,11 +3463,13 @@ const schoolsData = [
     "lat": 24.495027680000078,
     "lon": 52.32663561000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "DELMA",
     "phone": "588888896",
-    "email": "Fatima-Hk.Alhosani@ese.gov.ae"
+    "email": "Fatima-Hk.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jeel Kindergarten",
@@ -3045,11 +3479,13 @@ const schoolsData = [
     "lat": 24.39209205000003,
     "lon": 54.69998195000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "504111314",
-    "email": "Khadeeja.Khalfan@ese.gov.ae"
+    "email": "Khadeeja.Khalfan@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Zallaqah School Girls",
@@ -3059,11 +3495,13 @@ const schoolsData = [
     "lat": 24.30637979000005,
     "lon": 54.65311458000008,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "503304020",
-    "email": "Salama.Alnuaimi@ese.gov.ae"
+    "email": "Salama.Alnuaimi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ain Al Faydah School",
@@ -3073,11 +3511,13 @@ const schoolsData = [
     "lat": 24.08968881000004,
     "lon": 55.70329711000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AIN AL FAYDAH",
     "phone": "507035554",
-    "email": "Shamim.Bazakeer@ese.gov.ae"
+    "email": "Shamim.Bazakeer@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahdha Kindergarten",
@@ -3087,11 +3527,13 @@ const schoolsData = [
     "lat": 24.271602460000054,
     "lon": 54.68733972000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHDAH",
     "phone": "508500999",
-    "email": "Fareeda.Ismail@ese.gov.ae"
+    "email": "Fareeda.Ismail@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Oula Kindergarten - Abu Dhabi",
@@ -3101,11 +3543,13 @@ const schoolsData = [
     "lat": 24.329230820000078,
     "lon": 54.64285441000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAWAMEKH",
     "phone": "501233302",
-    "email": "rayya.alhanaei@ese.gov.ae"
+    "email": "rayya.alhanaei@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Selaa School  ",
@@ -3115,11 +3559,13 @@ const schoolsData = [
     "lat": 24.07925572000005,
     "lon": 51.75804289000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL SILA'",
     "phone": "505667868",
-    "email": "BakheetaS.Almansoori@ese.gov.ae"
+    "email": "BakheetaS.Almansoori@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ghaith School",
@@ -3129,11 +3575,13 @@ const schoolsData = [
     "lat": 24.18811063000004,
     "lon": 55.62589970000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "555311055",
-    "email": "Arwa.Babahar@ese.gov.ae"
+    "email": "Arwa.Babahar@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Taweelah School",
@@ -3143,11 +3591,13 @@ const schoolsData = [
     "lat": 24.67062722000003,
     "lon": 54.755367860000035,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAMHAH",
     "phone": "556129787",
-    "email": "Mona.Almahri@ese.gov.ae"
+    "email": "Mona.Almahri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ebtekar School Boys",
@@ -3157,11 +3607,13 @@ const schoolsData = [
     "lat": 23.830209720000028,
     "lon": 52.811961920000044,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Dhafra Region",
     "district": "GHAYATHI",
     "phone": "504118261",
-    "email": "Mohammed.Solman@ese.gov.ae"
+    "email": "Mohammed.Solman@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Tahnoon Bin Mohammad Boys School",
@@ -3171,11 +3623,13 @@ const schoolsData = [
     "lat": 24.135768460000065,
     "lon": 55.69729809000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "ZAKHIR",
     "phone": "507124224",
-    "email": "Mohammed.Alali@ese.gov.ae"
+    "email": "Mohammed.Alali@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qudra School Boys",
@@ -3185,11 +3639,13 @@ const schoolsData = [
     "lat": 24.426313320000077,
     "lon": 54.72932835000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL FALAH",
     "phone": "506141646",
-    "email": "Khaled.Alsaeedi@ese.gov.ae"
+    "email": "Khaled.Alsaeedi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mleih Girls School",
@@ -3199,11 +3655,13 @@ const schoolsData = [
     "lat": 24.406328830000064,
     "lon": 54.50298809000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "RABDAN",
     "phone": "556174005",
-    "email": "Wadha.Alkalbani@ese.gov.ae"
+    "email": "Wadha.Alkalbani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bedayah Kindergarten",
@@ -3213,11 +3671,13 @@ const schoolsData = [
     "lat": 24.38602940000004,
     "lon": 54.73188082000007,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "504436414",
-    "email": "Ghaya.Almaskeri@ese.gov.ae"
+    "email": "Ghaya.Almaskeri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ahmed Khalifa Al Suwaidi Boys School",
@@ -3227,11 +3687,13 @@ const schoolsData = [
     "lat": 24.549795220000078,
     "lon": 54.680965600000036,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "502016622",
-    "email": "Salah.Sawad@ese.gov.ae"
+    "email": "Salah.Sawad@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Mozdalefa School ",
@@ -3241,11 +3703,13 @@ const schoolsData = [
     "lat": 24.264655620000042,
     "lon": 54.70118542000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHDAH",
     "phone": "507316333",
-    "email": "Shamma.Almansouri@ese.gov.ae"
+    "email": "Shamma.Almansouri@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bawadi School Boys",
@@ -3255,11 +3719,13 @@ const schoolsData = [
     "lat": 24.31435618000006,
     "lon": 54.629596640000045,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "504460256",
-    "email": "Abdulla-Jm.Alhosani@ese.gov.ae"
+    "email": "Abdulla-Jm.Alhosani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Qemma School ",
@@ -3269,11 +3735,13 @@ const schoolsData = [
     "lat": 24.364046660000042,
     "lon": 54.692521330000034,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "502629988",
-    "email": "Salma.Alharethi@ese.gov.ae"
+    "email": "Salma.Alharethi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Jood School",
@@ -3283,11 +3751,13 @@ const schoolsData = [
     "lat": 24.20962712000005,
     "lon": 55.58398285000004,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SALAMAT",
     "phone": "562124630",
-    "email": "Darcy.Aubrey@ese.gov.ae"
+    "email": "Darcy.Aubrey@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Fouaah Girls School",
@@ -3297,11 +3767,13 @@ const schoolsData = [
     "lat": 24.341978690000076,
     "lon": 55.799837790000026,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL FOU'AH",
     "phone": "506638316",
-    "email": "Maitha-Bm.Alshamisi@ese.gov.ae"
+    "email": "Maitha-Bm.Alshamisi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tafawwoq School",
@@ -3311,11 +3783,13 @@ const schoolsData = [
     "lat": 24.397629880000068,
     "lon": 54.733420840000065,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "544799003",
-    "email": "Mark.pollitt@ese.gov.ae"
+    "email": "Mark.pollitt@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tiwayya Kindergarten",
@@ -3325,11 +3799,13 @@ const schoolsData = [
     "lat": 24.261450770000067,
     "lon": 55.705432690000066,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "507088856",
-    "email": "Mouza-Am.Alhassani@ese.gov.ae"
+    "email": "Mouza-Am.Alhassani@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Neima School",
@@ -3339,11 +3815,13 @@ const schoolsData = [
     "lat": 24.111099030000048,
     "lon": 55.70839053000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "NI'MAH",
     "phone": "507536260",
-    "email": "Salma.Alkaabi@ese.gov.ae"
+    "email": "Salma.Alkaabi@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Budoor Kindergarten",
@@ -3353,11 +3831,13 @@ const schoolsData = [
     "lat": 24.335388540000054,
     "lon": 54.545675790000075,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "505878767",
-    "email": "Suad.Almukhaini@ese.gov.ae"
+    "email": "Suad.Almukhaini@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bateen School",
@@ -3367,11 +3847,13 @@ const schoolsData = [
     "lat": 24.460715180000022,
     "lon": 54.344481220000034,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "506617636",
-    "email": "Hamda-Mk.Almazroui@ese.gov.ae"
+    "email": "Hamda-Mk.Almazroui@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maseera School",
@@ -3381,11 +3863,13 @@ const schoolsData = [
     "lat": 24.730298480000044,
     "lon": 55.77617300000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SHIWAYB",
     "phone": "504629362",
-    "email": "Amnah.Allay@ese.gov.ae"
+    "email": "Amnah.Allay@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Fayhaa Kindergarten",
@@ -3395,11 +3879,13 @@ const schoolsData = [
     "lat": 24.46523306000006,
     "lon": 54.34583118000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "559867664",
-    "email": "Asma.Sumaida@ese.gov.ae"
+    "email": "Asma.Sumaida@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Hosn School  Boys",
@@ -3409,11 +3895,13 @@ const schoolsData = [
     "lat": 24.394492150000076,
     "lon": 54.73412374000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "506299741",
-    "email": "Ali.AlDarmaki@ese.gov.ae"
+    "email": "Ali.AlDarmaki@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bu Koreyya Boys School",
@@ -3423,11 +3911,13 @@ const schoolsData = [
     "lat": 23.882067780000057,
     "lon": 55.40251437000006,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Al Ain",
     "district": "BU KIRAYYAH",
     "phone": "505351000",
-    "email": "Fareed.Alwahide@ese.gov.ae"
+    "email": "Fareed.Alwahide@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Danat Girls School",
@@ -3437,11 +3927,13 @@ const schoolsData = [
     "lat": 23.417907150000076,
     "lon": 55.41984718000003,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL QOU'",
     "phone": "508188221",
-    "email": "jamilah.daraai@ese.gov.ae"
+    "email": "jamilah.daraai@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Aishah Bint Abi Baker School",
@@ -3451,11 +3943,13 @@ const schoolsData = [
     "lat": 24.441788760000065,
     "lon": 54.40397406000005,
     "tuition_fee": 0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Abu Dhabi",
     "district": "HADBAT AL ZA`FARANAH",
     "phone": "526000169",
-    "email": "Bushra.Alfardan@ese.gov.ae"
+    "email": "Bushra.Alfardan@ese.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Liwa International  School - Qattarah",
@@ -3465,11 +3959,13 @@ const schoolsData = [
     "lat": 24.269303250000064,
     "lon": 55.747842870000056,
     "tuition_fee": 27821.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL QATTARAH",
     "phone": "37046555",
-    "email": "9338@adek.gov.ae"
+    "email": "9338@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Minhaj Private School",
@@ -3479,11 +3975,13 @@ const schoolsData = [
     "lat": 24.489110700000026,
     "lon": 54.365542180000034,
     "tuition_fee": 12826.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "24482414",
-    "email": "9055@adek.gov.ae"
+    "email": "9055@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bright Riders School",
@@ -3493,11 +3991,13 @@ const schoolsData = [
     "lat": 24.344310110000038,
     "lon": 54.54126285000007,
     "tuition_fee": 15942.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "26922000",
-    "email": "9225@adek.gov.ae"
+    "email": "9225@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Marfaa International",
@@ -3507,11 +4007,13 @@ const schoolsData = [
     "lat": 24.061253450000038,
     "lon": 53.45899791000005,
     "tuition_fee": 3932.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "28833522",
-    "email": "almarfaaint.pvt@adek.gov.ae"
+    "email": "almarfaaint.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Indian School",
@@ -3521,11 +4023,13 @@ const schoolsData = [
     "lat": 24.29404076000003,
     "lon": 54.61918903000003,
     "tuition_fee": 15988.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25854499",
-    "email": "9277@adek.gov.ae"
+    "email": "9277@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private School - Baniyas",
@@ -3535,11 +4039,13 @@ const schoolsData = [
     "lat": 24.293486660000042,
     "lon": 54.63407312000004,
     "tuition_fee": 5419.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25832888",
-    "email": "9107@adek.gov.ae"
+    "email": "9107@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Awael Private School",
@@ -3549,11 +4055,13 @@ const schoolsData = [
     "lat": 24.20017265000007,
     "lon": 55.724657480000076,
     "tuition_fee": 8076.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37806070",
-    "email": "9136@adek.gov.ae"
+    "email": "9136@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Community Schools - Khalifa",
@@ -3563,11 +4071,13 @@ const schoolsData = [
     "lat": 24.411727980000023,
     "lon": 54.60530643000004,
     "tuition_fee": 29929.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "N/A",
-    "email": "9330@adek.gov.ae"
+    "email": "9330@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Cranleigh School Abu Dhabi -",
@@ -3577,11 +4087,13 @@ const schoolsData = [
     "lat": 24.538759480000067,
     "lon": 54.42403530000007,
     "tuition_fee": 72353.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAADIYAT ISLAND",
     "phone": "28132111",
-    "email": "9348@adek.gov.ae"
+    "email": "9348@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "United Private School - Baniyas",
@@ -3591,11 +4103,13 @@ const schoolsData = [
     "lat": 24.285697120000066,
     "lon": 54.63960038000005,
     "tuition_fee": 29979.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25845366",
-    "email": "9217@adek.gov.ae"
+    "email": "9217@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Rowad Al Dhafra Private School",
@@ -3605,11 +4119,13 @@ const schoolsData = [
     "lat": 23.651343850000046,
     "lon": 53.71424851000006,
     "tuition_fee": 9700.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "28841500",
-    "email": "7320@adek.gov.ae"
+    "email": "7320@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National Schools - Al Nahyan",
@@ -3619,11 +4135,13 @@ const schoolsData = [
     "lat": 24.470356500000037,
     "lon": 54.38474555000005,
     "tuition_fee": 42313.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "24993700",
-    "email": "9106@adek.gov.ae"
+    "email": "9106@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Lycee Louis Massignon",
@@ -3633,11 +4151,13 @@ const schoolsData = [
     "lat": 24.431025730000044,
     "lon": 54.43123405000006,
     "tuition_fee": 38794.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24448085",
-    "email": "9038@adek.gov.ae"
+    "email": "9038@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahda National School For Girls",
@@ -3647,11 +4167,13 @@ const schoolsData = [
     "lat": 24.43697755000005,
     "lon": 54.40011915000008,
     "tuition_fee": 21851.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "22041800",
-    "email": "9025@adek.gov.ae"
+    "email": "9025@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The American International School",
@@ -3661,11 +4183,13 @@ const schoolsData = [
     "lat": 24.42964407000005,
     "lon": 54.43137082000004,
     "tuition_fee": 49740.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24444333",
-    "email": "9117@adek.gov.ae"
+    "email": "9117@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Eman Private School",
@@ -3675,11 +4199,13 @@ const schoolsData = [
     "lat": 24.46903356000007,
     "lon": 54.37025236000005,
     "tuition_fee": 7253.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "24436723",
-    "email": "9092@adek.gov.ae"
+    "email": "9092@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Falcon International Private School",
@@ -3689,11 +4215,13 @@ const schoolsData = [
     "lat": 24.189752670000075,
     "lon": 55.70420552000007,
     "tuition_fee": 22771.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37806668",
-    "email": "9153@adek.gov.ae"
+    "email": "9153@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Virginia International Private School",
@@ -3703,11 +4231,13 @@ const schoolsData = [
     "lat": 24.38978093000003,
     "lon": 54.65541877000004,
     "tuition_fee": 35740.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "24490334",
-    "email": "9262@adek.gov.ae"
+    "email": "9262@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International School Of Choueifat - Muwaiji",
@@ -3717,11 +4247,13 @@ const schoolsData = [
     "lat": 24.201290990000075,
     "lon": 55.71270529000003,
     "tuition_fee": 28177.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678444",
-    "email": "9162@adek.gov.ae"
+    "email": "9162@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Future International Academy",
@@ -3731,11 +4263,13 @@ const schoolsData = [
     "lat": 24.33551630000005,
     "lon": 54.53239867000008,
     "tuition_fee": 11984.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25525188",
-    "email": "9054@adek.gov.ae"
+    "email": "9054@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Manara Private School - Mbz",
@@ -3745,11 +4279,13 @@ const schoolsData = [
     "lat": 24.33944715000007,
     "lon": 54.53398467000005,
     "tuition_fee": 14873.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25858670",
-    "email": "9291@adek.gov.ae"
+    "email": "9291@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah Academy - Al Danah",
@@ -3759,11 +4295,13 @@ const schoolsData = [
     "lat": 24.488007090000053,
     "lon": 54.374369450000074,
     "tuition_fee": 4000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26945999",
-    "email": "9077@adek.gov.ae"
+    "email": "9077@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Noya British School",
@@ -3773,11 +4311,13 @@ const schoolsData = [
     "lat": 24.502453020000075,
     "lon": 54.59111752000007,
     "tuition_fee": 38400.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "YAS ISLAND",
     "phone": "28132111",
-    "email": "9001@adek.gov.ae"
+    "email": "9001@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Indian School - Al Ain",
@@ -3787,11 +4327,13 @@ const schoolsData = [
     "lat": 24.19583300000005,
     "lon": 55.709412230000055,
     "tuition_fee": 6897.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678915",
-    "email": "9161@adek.gov.ae"
+    "email": "9161@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Seddique Private School",
@@ -3801,11 +4343,13 @@ const schoolsData = [
     "lat": 24.229899760000023,
     "lon": 55.756764030000056,
     "tuition_fee": 6013.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "CENTRAL DISTRICT",
     "phone": "37643969",
-    "email": "9148@adek.gov.ae"
+    "email": "9148@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ittihad National Private School - Falaj Hazza",
@@ -3815,11 +4359,13 @@ const schoolsData = [
     "lat": 24.19132940000003,
     "lon": 55.71024522000005,
     "tuition_fee": 23563.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37811164",
-    "email": "9124@adek.gov.ae"
+    "email": "9124@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Maplewood Canadian International School ",
@@ -3829,11 +4375,13 @@ const schoolsData = [
     "lat": 24.342469230000063,
     "lon": 54.533109730000035,
     "tuition_fee": 41143.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25524223",
-    "email": "9255@adek.gov.ae"
+    "email": "9255@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Lycee Francais International Theodore Monod - Sadiyaat",
@@ -3843,11 +4391,13 @@ const schoolsData = [
     "lat": 24.555352740000046,
     "lon": 54.45240705000003,
     "tuition_fee": 45829.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAADIYAT ISLAND",
     "phone": "24434447",
-    "email": "9325@adek.gov.ae"
+    "email": "9325@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Italian International School",
@@ -3857,11 +4407,13 @@ const schoolsData = [
     "lat": 24.43074271000006,
     "lon": 54.58184492000004,
     "tuition_fee": 54527.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "N/A",
-    "email": "9340@adek.gov.ae"
+    "email": "9340@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Yasmina British Academy",
@@ -3871,11 +4423,13 @@ const schoolsData = [
     "lat": 24.42639199000007,
     "lon": 54.54663356000003,
     "tuition_fee": 55153.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25014888",
-    "email": "9096@adek.gov.ae"
+    "email": "9096@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ajyal International School - Falah",
@@ -3885,11 +4439,13 @@ const schoolsData = [
     "lat": 24.445684980000067,
     "lon": 54.72051933000006,
     "tuition_fee": 34774.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL FALAH",
     "phone": "22034500",
-    "email": "9284@adek.gov.ae"
+    "email": "9284@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Education Academy",
@@ -3899,11 +4455,13 @@ const schoolsData = [
     "lat": 23.660291950000044,
     "lon": 53.69813821000008,
     "tuition_fee": 6586.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "28870887",
-    "email": "9221@adek.gov.ae"
+    "email": "9221@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Merryland International School",
@@ -3913,11 +4471,13 @@ const schoolsData = [
     "lat": 24.346527270000024,
     "lon": 54.535539810000046,
     "tuition_fee": 32822.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25519626",
-    "email": "9201@adek.gov.ae"
+    "email": "9201@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ain Al Khaleej Private",
@@ -3927,11 +4487,13 @@ const schoolsData = [
     "lat": 24.19377897000004,
     "lon": 55.712834100000066,
     "tuition_fee": 15859.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37811232",
-    "email": "9129@adek.gov.ae"
+    "email": "9129@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private School - Muroor",
@@ -3941,11 +4503,13 @@ const schoolsData = [
     "lat": 24.440846260000058,
     "lon": 54.43586579000004,
     "tuition_fee": 13981.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24448863",
-    "email": "emiratesad.pvt@adek.gov.ae"
+    "email": "emiratesad.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ashabal Al Quds Secondary Private School",
@@ -3955,11 +4519,13 @@ const schoolsData = [
     "lat": 24.360348550000026,
     "lon": 54.62791723000004,
     "tuition_fee": 11755.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25861440",
-    "email": "9019@adek.gov.ae"
+    "email": "9019@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Baniyas International Private School",
@@ -3969,11 +4535,13 @@ const schoolsData = [
     "lat": 24.323848130000044,
     "lon": 54.63314996000008,
     "tuition_fee": 22824.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25827555",
-    "email": "9098@adek.gov.ae"
+    "email": "9098@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zakher Private School",
@@ -3983,11 +4551,13 @@ const schoolsData = [
     "lat": 24.193390200000067,
     "lon": 55.71198967000004,
     "tuition_fee": 7124.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37811810",
-    "email": "zakher.pvt@adek.gov.ae"
+    "email": "zakher.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Future Leaders International Private School - Rabdan",
@@ -3997,11 +4567,13 @@ const schoolsData = [
     "lat": 24.406382660000077,
     "lon": 54.51678090000007,
     "tuition_fee": 26400.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "RABDAN",
     "phone": "N/A",
-    "email": "9013@adek.gov.ae"
+    "email": "9013@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "New Indian Model School",
@@ -4011,11 +4583,13 @@ const schoolsData = [
     "lat": 24.193025770000077,
     "lon": 55.713246240000046,
     "tuition_fee": 6084.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37811882",
-    "email": "9167@adek.gov.ae"
+    "email": "9167@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Sheikh Zayed Private Academy For Girls",
@@ -4025,11 +4599,13 @@ const schoolsData = [
     "lat": 24.453109160000054,
     "lon": 54.37142611000007,
     "tuition_fee": 54145.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "26195555",
-    "email": "9118@adek.gov.ae"
+    "email": "9118@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah Academy - Mbz",
@@ -4039,11 +4615,13 @@ const schoolsData = [
     "lat": 24.31581994000004,
     "lon": 54.533316600000035,
     "tuition_fee": 4000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25467776",
-    "email": "9042@adek.gov.ae"
+    "email": "9042@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "United Private School - Yahar",
@@ -4053,11 +4631,13 @@ const schoolsData = [
     "lat": 24.227893090000066,
     "lon": 55.56058182000004,
     "tuition_fee": 23149.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "37819799",
-    "email": "9216@adek.gov.ae"
+    "email": "9216@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Gulf International Private Academy",
@@ -4067,11 +4647,13 @@ const schoolsData = [
     "lat": 24.193144580000023,
     "lon": 55.70464129000004,
     "tuition_fee": 18423.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37676905",
-    "email": "9159@adek.gov.ae"
+    "email": "9159@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Future Leaders International Private School - Madinat Zayed",
@@ -4081,11 +4663,13 @@ const schoolsData = [
     "lat": 24.482176740000057,
     "lon": 54.36916134000006,
     "tuition_fee": 26826.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26323033",
-    "email": "9308@adek.gov.ae"
+    "email": "9308@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Baraem Al Ain Private School",
@@ -4095,11 +4679,13 @@ const schoolsData = [
     "lat": 24.281428180000034,
     "lon": 54.65551565000004,
     "tuition_fee": 19311.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25831818",
-    "email": "9099@adek.gov.ae"
+    "email": "9099@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Academic School ",
@@ -4109,11 +4695,13 @@ const schoolsData = [
     "lat": 24.36346401000003,
     "lon": 54.63722258000007,
     "tuition_fee": 34693.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "22050400",
-    "email": "9285@adek.gov.ae"
+    "email": "9285@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National School ",
@@ -4123,11 +4711,13 @@ const schoolsData = [
     "lat": 24.25946035000004,
     "lon": 55.69137269000004,
     "tuition_fee": 54985.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "37070548",
-    "email": "9154@adek.gov.ae"
+    "email": "9154@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bateen Scientific Private School",
@@ -4137,11 +4727,13 @@ const schoolsData = [
     "lat": 24.46824691000006,
     "lon": 54.37845255000008,
     "tuition_fee": 20999.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "26667911",
-    "email": "9090@adek.gov.ae"
+    "email": "9090@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Horizon Private School - Branch",
@@ -4151,11 +4743,13 @@ const schoolsData = [
     "lat": 24.419244810000066,
     "lon": 54.59834513000004,
     "tuition_fee": 34382.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25560811",
-    "email": "9006@adek.gov.ae"
+    "email": "9006@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sabis International School - Al Bateen - L.L.C - S.P.C",
@@ -4165,11 +4759,13 @@ const schoolsData = [
     "lat": -0.9999999999999432,
     "lon": -0.9999999999999432,
     "tuition_fee": 59467.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "N/A",
     "district": "N/A",
     "phone": "25650065",
-    "email": "9079@adek.gov.ae"
+    "email": "9079@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Saint Joseph Private School ",
@@ -4179,11 +4775,13 @@ const schoolsData = [
     "lat": 24.448851770000033,
     "lon": 54.38550782000004,
     "tuition_fee": 7849.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "24463646",
-    "email": "9115@adek.gov.ae"
+    "email": "9115@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Universal Private School",
@@ -4193,11 +4791,13 @@ const schoolsData = [
     "lat": 24.198095100000046,
     "lon": 55.712834920000034,
     "tuition_fee": 10934.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678884",
-    "email": "universal.pvt@adek.gov.ae"
+    "email": "universal.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Tawam Private Model School",
@@ -4207,11 +4807,13 @@ const schoolsData = [
     "lat": 24.197406280000052,
     "lon": 55.718474850000064,
     "tuition_fee": 8097.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810912",
-    "email": "9172@adek.gov.ae"
+    "email": "9172@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Raha International School - Gardens",
@@ -4221,11 +4823,13 @@ const schoolsData = [
     "lat": 24.434384790000024,
     "lon": 54.57484176000003,
     "tuition_fee": 56541.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25561567",
-    "email": "9113@adek.gov.ae"
+    "email": "9113@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bateen School-Al Mushrif",
@@ -4235,11 +4839,13 @@ const schoolsData = [
     "lat": 24.45784290000006,
     "lon": 54.361287220000065,
     "tuition_fee": 63428.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "28132000",
-    "email": "albateensec.pvt@adek.gov.ae"
+    "email": "albateensec.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Bashair Private School",
@@ -4249,11 +4855,13 @@ const schoolsData = [
     "lat": 24.31994173000004,
     "lon": 54.534160720000045,
     "tuition_fee": 20591.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25531666",
-    "email": "9089@adek.gov.ae"
+    "email": "9089@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahda National - Boys",
@@ -4263,11 +4871,13 @@ const schoolsData = [
     "lat": 24.45862556000003,
     "lon": 54.38689485000003,
     "tuition_fee": 22806.0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "22041600",
-    "email": "9003@adek.gov.ae"
+    "email": "9003@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mayoor Private School ",
@@ -4277,11 +4887,13 @@ const schoolsData = [
     "lat": 24.270723790000034,
     "lon": 54.651016980000065,
     "tuition_fee": 20737.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL WATHBAH",
     "phone": "25100800",
-    "email": "9247@adek.gov.ae"
+    "email": "9247@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Najah Private School",
@@ -4291,11 +4903,13 @@ const schoolsData = [
     "lat": 24.33958029000007,
     "lon": 54.53716920000005,
     "tuition_fee": 21332.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25530935",
-    "email": "alnajahad.pvt@adek.gov.ae"
+    "email": "alnajahad.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Dar Al Uloom Private School - Falaj Hazza",
@@ -4305,11 +4919,13 @@ const schoolsData = [
     "lat": 24.199016560000075,
     "lon": 55.71452438000006,
     "tuition_fee": 6474.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37676514",
-    "email": "9186@adek.gov.ae"
+    "email": "9186@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Repton Foundation School ",
@@ -4319,11 +4935,13 @@ const schoolsData = [
     "lat": 24.507336250000037,
     "lon": 54.407024910000075,
     "tuition_fee": 65500.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL REEM ISLAND",
     "phone": "25074800",
-    "email": "9236@adek.gov.ae"
+    "email": "9236@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Rosary Private School ",
@@ -4333,11 +4951,13 @@ const schoolsData = [
     "lat": 24.457085410000047,
     "lon": 54.38535702000007,
     "tuition_fee": 11676.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "24452500",
-    "email": "9114@adek.gov.ae"
+    "email": "9114@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sheikh Khalifa Bin Zayed Arab Pakistani School",
@@ -4347,11 +4967,13 @@ const schoolsData = [
     "lat": 24.44418052000003,
     "lon": 54.40145103000003,
     "tuition_fee": 4169.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "HADBAT AL ZA`FARANAH",
     "phone": "24487160",
-    "email": "9028@adek.gov.ae"
+    "email": "9028@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Shohub Private School",
@@ -4361,11 +4983,13 @@ const schoolsData = [
     "lat": 24.432605360000025,
     "lon": 54.583980120000035,
     "tuition_fee": 36488.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25559995",
-    "email": "9292@adek.gov.ae"
+    "email": "9292@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tharawat National Private School",
@@ -4375,11 +4999,13 @@ const schoolsData = [
     "lat": 24.289585190000025,
     "lon": 54.64411521000005,
     "tuition_fee": 10866.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25822533",
-    "email": "9254@adek.gov.ae"
+    "email": "9254@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ajyal International School - Mbz",
@@ -4389,11 +5015,13 @@ const schoolsData = [
     "lat": 24.339173170000038,
     "lon": 54.55699468000006,
     "tuition_fee": 43089.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25522668",
-    "email": "9249@adek.gov.ae"
+    "email": "9249@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Japanese School",
@@ -4403,11 +5031,13 @@ const schoolsData = [
     "lat": 24.456718050000063,
     "lon": 54.343324290000055,
     "tuition_fee": 32967.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "24446104",
-    "email": "9110@adek.gov.ae"
+    "email": "9110@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Muneera Private School ",
@@ -4417,11 +5047,13 @@ const schoolsData = [
     "lat": 24.32131024000006,
     "lon": 54.63644635000003,
     "tuition_fee": 18611.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25827005",
-    "email": "9279@adek.gov.ae"
+    "email": "9279@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Manar Al Ilm School",
@@ -4431,11 +5063,13 @@ const schoolsData = [
     "lat": 23.658984110000063,
     "lon": 53.70091101000003,
     "tuition_fee": 17420.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "28847290",
-    "email": "9176@adek.gov.ae"
+    "email": "9176@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Marfa International School",
@@ -4445,11 +5079,13 @@ const schoolsData = [
     "lat": 24.061253450000038,
     "lon": 53.45899791000005,
     "tuition_fee": 6286.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL MARFA",
     "phone": "28836022",
-    "email": "almarfaaint.pvt@adek.gov.ae"
+    "email": "almarfaaint.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The British International Ad ",
@@ -4459,11 +5095,13 @@ const schoolsData = [
     "lat": 24.36900944000007,
     "lon": 54.56361791000006,
     "tuition_fee": 74980.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "ZAYED CITY",
     "phone": "25100100",
-    "email": "britishint.pvt@adek.gov.ae"
+    "email": "britishint.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abdulla Bin Al Zubair Private School ",
@@ -4473,11 +5111,13 @@ const schoolsData = [
     "lat": 24.186928210000076,
     "lon": 55.62739431000006,
     "tuition_fee": 35350.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MAQAM",
     "phone": "37680551",
-    "email": "9223@adek.gov.ae"
+    "email": "9223@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Adnoc Schools - Sas Al Nakhl",
@@ -4487,11 +5127,13 @@ const schoolsData = [
     "lat": 24.415769600000033,
     "lon": 54.513469660000055,
     "tuition_fee": 39554.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25992557",
-    "email": "9267@adek.gov.ae"
+    "email": "9267@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems American Academy",
@@ -4501,11 +5143,13 @@ const schoolsData = [
     "lat": 24.42907604000004,
     "lon": 54.565165370000045,
     "tuition_fee": 74106.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25574880",
-    "email": "9086@adek.gov.ae"
+    "email": "9086@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi International School",
@@ -4515,11 +5159,13 @@ const schoolsData = [
     "lat": 24.345903950000036,
     "lon": 54.54118388000006,
     "tuition_fee": 47970.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "22057999",
-    "email": "9265@adek.gov.ae"
+    "email": "9265@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private School - Muwaiji",
@@ -4529,11 +5175,13 @@ const schoolsData = [
     "lat": 24.19109134000007,
     "lon": 55.699685430000045,
     "tuition_fee": 10272.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37679322",
-    "email": "9155@adek.gov.ae"
+    "email": "9155@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Knowledge International School - L.L.C",
@@ -4543,11 +5191,13 @@ const schoolsData = [
     "lat": 24.163433690000033,
     "lon": 55.34488581000005,
     "tuition_fee": 25336.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "RIMAH",
     "phone": "37678914",
-    "email": "9076@adek.gov.ae"
+    "email": "9076@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Mohammed Bin Khalid Al Nahyan Generations School",
@@ -4557,11 +5207,13 @@ const schoolsData = [
     "lat": 24.187339250000036,
     "lon": 55.709914870000034,
     "tuition_fee": 15953.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37805554",
-    "email": "9246@adek.gov.ae"
+    "email": "9246@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Manor Hall International School",
@@ -4571,11 +5223,13 @@ const schoolsData = [
     "lat": 24.19916126000004,
     "lon": 55.72239698000004,
     "tuition_fee": 30149.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810891",
-    "email": "9165@adek.gov.ae"
+    "email": "9165@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Hamdaniya Grand Private School",
@@ -4585,11 +5239,13 @@ const schoolsData = [
     "lat": 24.175470750000045,
     "lon": 55.67657401000008,
     "tuition_fee": 9993.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL 'IQABIYYAH",
     "phone": "37813114",
-    "email": "9140@adek.gov.ae"
+    "email": "9140@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International School Of Choueifat - Mushrif",
@@ -4599,11 +5255,13 @@ const schoolsData = [
     "lat": 24.455137190000073,
     "lon": 54.38245210000008,
     "tuition_fee": 28912.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "24461444",
-    "email": "9059@adek.gov.ae"
+    "email": "9059@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Crescent International Private School",
@@ -4613,11 +5271,13 @@ const schoolsData = [
     "lat": 24.43115479000005,
     "lon": 54.582914720000076,
     "tuition_fee": 15273.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25572271",
-    "email": "9073@adek.gov.ae"
+    "email": "9073@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Baraaim Al Ain Private",
@@ -4627,11 +5287,13 @@ const schoolsData = [
     "lat": 24.202869000000078,
     "lon": 55.722112320000065,
     "tuition_fee": 6835.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678848",
-    "email": "baraaimalainaa.pvt@adek.gov.ae"
+    "email": "baraaimalainaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Tafawwuq Al Ilmi Private School",
@@ -4641,11 +5303,13 @@ const schoolsData = [
     "lat": 24.235085840000067,
     "lon": 55.69708416000003,
     "tuition_fee": 6719.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "37614455",
-    "email": "9171@adek.gov.ae"
+    "email": "9171@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah Academy  Bani Yas",
@@ -4655,11 +5319,13 @@ const schoolsData = [
     "lat": 24.296961070000066,
     "lon": 54.63248026000008,
     "tuition_fee": 4000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "26945999",
-    "email": "9052@adek.gov.ae"
+    "email": "9052@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Saad Indian School",
@@ -4669,11 +5335,13 @@ const schoolsData = [
     "lat": 24.200956390000044,
     "lon": 55.60951722000004,
     "tuition_fee": 11752.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL BATEEN",
     "phone": "37852232",
-    "email": "9248@adek.gov.ae"
+    "email": "9248@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Future International Academy",
@@ -4683,11 +5351,13 @@ const schoolsData = [
     "lat": 24.199609100000032,
     "lon": 55.80828179000008,
     "tuition_fee": 21629.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SAROUJ",
     "phone": "37646888",
-    "email": "9203@adek.gov.ae"
+    "email": "9203@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ekhlass Private School ",
@@ -4697,11 +5367,13 @@ const schoolsData = [
     "lat": 24.291912790000026,
     "lon": 54.63903096000007,
     "tuition_fee": 10173.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25853591",
-    "email": "9053@adek.gov.ae"
+    "email": "9053@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Community Schools - Falah",
@@ -4711,11 +5383,13 @@ const schoolsData = [
     "lat": 24.437914410000076,
     "lon": 54.73143952000004,
     "tuition_fee": 38499.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL FALAH",
     "phone": "26338181",
-    "email": "9313@adek.gov.ae"
+    "email": "9313@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ain Juniors Private School",
@@ -4725,11 +5399,13 @@ const schoolsData = [
     "lat": 24.199828730000036,
     "lon": 55.72388881000006,
     "tuition_fee": 11600.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810043",
-    "email": "9134@adek.gov.ae"
+    "email": "9134@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Muna British Academy",
@@ -4739,11 +5415,13 @@ const schoolsData = [
     "lat": 24.486914290000072,
     "lon": 54.362573490000045,
     "tuition_fee": 48274.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "25014777",
-    "email": "9191@adek.gov.ae"
+    "email": "9191@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "American National School",
@@ -4753,11 +5431,13 @@ const schoolsData = [
     "lat": 24.229958490000058,
     "lon": 55.70275639000005,
     "tuition_fee": 21442.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "37618987",
-    "email": "9314@adek.gov.ae"
+    "email": "9314@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Aspen Heights British School",
@@ -4767,11 +5447,13 @@ const schoolsData = [
     "lat": 24.545808790000024,
     "lon": 54.665546550000045,
     "tuition_fee": 60970.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BAHYAH",
     "phone": "25642229",
-    "email": "9289@adek.gov.ae"
+    "email": "9289@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Future International School",
@@ -4781,11 +5463,13 @@ const schoolsData = [
     "lat": 24.212198570000055,
     "lon": 55.78087818000006,
     "tuition_fee": 19146.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "CENTRAL DISTRICT",
     "phone": "37666771",
-    "email": "9157@adek.gov.ae"
+    "email": "9157@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi Grammar School ",
@@ -4795,11 +5479,13 @@ const schoolsData = [
     "lat": 24.492175410000073,
     "lon": 54.38068920000006,
     "tuition_fee": 33814.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL ZAHIYAH",
     "phone": "26444703",
-    "email": "9049@adek.gov.ae"
+    "email": "9049@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Yahar Private School And Kg",
@@ -4809,11 +5495,13 @@ const schoolsData = [
     "lat": 24.22865163000006,
     "lon": 55.56216569000003,
     "tuition_fee": 7474.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "37814454",
-    "email": "alyaher.pvt@adek.gov.ae"
+    "email": "alyaher.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ittihad National Private School - Shakhbout",
@@ -4823,11 +5511,13 @@ const schoolsData = [
     "lat": 24.391820250000023,
     "lon": 54.647216230000026,
     "tuition_fee": 35373.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25558333",
-    "email": "9300@adek.gov.ae"
+    "email": "9300@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Elite Private School",
@@ -4837,11 +5527,13 @@ const schoolsData = [
     "lat": 24.34612977000006,
     "lon": 54.53693995000003,
     "tuition_fee": 28459.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "24475800",
-    "email": "9271@adek.gov.ae"
+    "email": "9271@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Yasmina British Academy Br",
@@ -4851,11 +5543,13 @@ const schoolsData = [
     "lat": 24.42639199000007,
     "lon": 54.54663356000003,
     "tuition_fee": 55153.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "28132111",
-    "email": "9341@adek.gov.ae"
+    "email": "9341@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah Academy - Khibeesi ",
@@ -4865,11 +5559,13 @@ const schoolsData = [
     "lat": 24.23411819000006,
     "lon": 55.69474580000008,
     "tuition_fee": 4000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "25467776",
-    "email": "9031@adek.gov.ae"
+    "email": "9031@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems Founders School Ad",
@@ -4879,11 +5575,13 @@ const schoolsData = [
     "lat": 24.443025460000058,
     "lon": 54.60904615000004,
     "tuition_fee": 32900.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "26143400",
-    "email": "9050@adek.gov.ae"
+    "email": "9050@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Philippine Emirates Private School ",
@@ -4893,11 +5591,13 @@ const schoolsData = [
     "lat": 24.417995190000056,
     "lon": 54.565882560000034,
     "tuition_fee": 10519.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "26410918",
-    "email": "philippineemi.pvt@adek.gov.ae"
+    "email": "philippineemi.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Pinnacle American School",
@@ -4907,11 +5607,13 @@ const schoolsData = [
     "lat": 23.644041250000043,
     "lon": 53.70536215000004,
     "tuition_fee": 24220.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "504118420",
-    "email": "9319@adek.gov.ae"
+    "email": "9319@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Australian School Of Abu Dhabi",
@@ -4921,11 +5623,13 @@ const schoolsData = [
     "lat": 24.354418490000057,
     "lon": 54.63653423000005,
     "tuition_fee": 23955.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25866980",
-    "email": "9027@adek.gov.ae"
+    "email": "9027@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Garden City British School",
@@ -4935,11 +5639,13 @@ const schoolsData = [
     "lat": 24.19883157000004,
     "lon": 55.72166013000003,
     "tuition_fee": 26919.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37805775",
-    "email": "9286@adek.gov.ae"
+    "email": "9286@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Model Private School",
@@ -4949,11 +5655,13 @@ const schoolsData = [
     "lat": 24.321195440000054,
     "lon": 54.537709980000045,
     "tuition_fee": 5077.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25527200",
-    "email": "9122@adek.gov.ae"
+    "email": "9122@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Lebanon First School And Kg",
@@ -4963,11 +5671,13 @@ const schoolsData = [
     "lat": 24.19776261000004,
     "lon": 55.71927116000006,
     "tuition_fee": 7964.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37806780",
-    "email": "9156@adek.gov.ae"
+    "email": "9156@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sharjah American International School",
@@ -4977,11 +5687,13 @@ const schoolsData = [
     "lat": 24.360905200000047,
     "lon": 54.63313075000008,
     "tuition_fee": 34873.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25861222",
-    "email": "9327@adek.gov.ae"
+    "email": "9327@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Liwa International School For Girls",
@@ -4991,11 +5703,13 @@ const schoolsData = [
     "lat": 24.213163730000076,
     "lon": 55.63470140000004,
     "tuition_fee": 37393.0,
+    "enrollment": null,
     "gender": "Girls",
     "region": "Al Ain",
     "district": "AL BATEEN",
     "phone": "37800444",
-    "email": "9276@adek.gov.ae"
+    "email": "9276@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Khalil International Private School",
@@ -5005,11 +5719,13 @@ const schoolsData = [
     "lat": 24.17633957000004,
     "lon": 55.67814008000005,
     "tuition_fee": 9261.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL 'IQABIYYAH",
     "phone": "37820676",
-    "email": "9143@adek.gov.ae"
+    "email": "9143@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private School - Ad",
@@ -5019,11 +5735,13 @@ const schoolsData = [
     "lat": 24.440846260000058,
     "lon": 54.43586579000004,
     "tuition_fee": 17486.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24448863",
-    "email": "emiratesad.pvt@adek.gov.ae"
+    "email": "emiratesad.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Sanawbar School ",
@@ -5033,11 +5751,13 @@ const schoolsData = [
     "lat": 24.197256440000046,
     "lon": 55.71160580000003,
     "tuition_fee": 21625.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37679889",
-    "email": "9147@adek.gov.ae"
+    "email": "9147@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Global Indian International School",
@@ -5047,11 +5767,13 @@ const schoolsData = [
     "lat": 24.298005830000022,
     "lon": 54.63612922000004,
     "tuition_fee": 12367.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25079555",
-    "email": "9266@adek.gov.ae"
+    "email": "9266@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bhavans Pearl Wisdom School",
@@ -5061,11 +5783,13 @@ const schoolsData = [
     "lat": 24.185646140000074,
     "lon": 55.71151321000008,
     "tuition_fee": 11747.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37220905",
-    "email": "9303@adek.gov.ae"
+    "email": "9303@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Liwa International School - Falaj Hazaa",
@@ -5075,11 +5799,13 @@ const schoolsData = [
     "lat": 24.192226060000053,
     "lon": 55.710826300000065,
     "tuition_fee": 24742.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810444",
-    "email": "9163@adek.gov.ae"
+    "email": "9163@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dar Private School",
@@ -5089,11 +5815,13 @@ const schoolsData = [
     "lat": 24.318981020000024,
     "lon": 55.792885900000044,
     "tuition_fee": 8004.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "HILI",
     "phone": "37832215",
-    "email": "9138@adek.gov.ae"
+    "email": "9138@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ain Al Khaleej Private School",
@@ -5103,11 +5831,13 @@ const schoolsData = [
     "lat": 24.19377897000004,
     "lon": 55.712834100000066,
     "tuition_fee": 9942.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37811232",
-    "email": "9129@adek.gov.ae"
+    "email": "9129@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Israa Private School ",
@@ -5117,11 +5847,13 @@ const schoolsData = [
     "lat": 24.234436930000072,
     "lon": 55.69559313000008,
     "tuition_fee": 5844.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL KHIBEESI",
     "phone": "37612155",
-    "email": "9141@adek.gov.ae"
+    "email": "9141@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Universal Philippine School",
@@ -5131,11 +5863,13 @@ const schoolsData = [
     "lat": 24.193513250000024,
     "lon": 55.70540140000003,
     "tuition_fee": 9325.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "N/A",
-    "email": "9347@adek.gov.ae"
+    "email": "9347@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Raha International School - Khalifa ",
@@ -5145,11 +5879,13 @@ const schoolsData = [
     "lat": 24.40949560000007,
     "lon": 54.588680510000074,
     "tuition_fee": 56351.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "N/A",
-    "email": "9316@adek.gov.ae"
+    "email": "9316@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Asian International Private School - Madinat Zayed",
@@ -5159,11 +5895,13 @@ const schoolsData = [
     "lat": 23.654037870000025,
     "lon": 53.70871007000005,
     "tuition_fee": 5441.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "28847470",
-    "email": "9175@adek.gov.ae"
+    "email": "9175@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi Island International Private School",
@@ -5173,11 +5911,13 @@ const schoolsData = [
     "lat": 24.260506270000064,
     "lon": 55.70414720000008,
     "tuition_fee": 22105.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "37227666",
-    "email": "9239@adek.gov.ae"
+    "email": "9239@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bait Al Maqdes International Private School",
@@ -5187,11 +5927,13 @@ const schoolsData = [
     "lat": 24.32682151000006,
     "lon": 54.53282436000006,
     "tuition_fee": 7723.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25527500",
-    "email": "9100@adek.gov.ae"
+    "email": "9100@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Spanish School Of Abu Dhabi",
@@ -5201,11 +5943,13 @@ const schoolsData = [
     "lat": 24.45519936000005,
     "lon": 54.35000395000003,
     "tuition_fee": 38900.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "N/A",
-    "email": "9315@adek.gov.ae"
+    "email": "9315@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Bateen World Academy",
@@ -5215,11 +5959,13 @@ const schoolsData = [
     "lat": 24.45784290000006,
     "lon": 54.361287220000065,
     "tuition_fee": 68524.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "28132000",
-    "email": "albateensec.pvt@adek.gov.ae"
+    "email": "albateensec.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private British",
@@ -5229,11 +5975,13 @@ const schoolsData = [
     "lat": 24.19109134000007,
     "lon": 55.699685430000045,
     "tuition_fee": 9660.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37679322",
-    "email": "9155@adek.gov.ae"
+    "email": "9155@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Yas Academy School",
@@ -5243,11 +5991,13 @@ const schoolsData = [
     "lat": 24.480286170000056,
     "lon": 54.38017361000004,
     "tuition_fee": 9839.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26678900",
-    "email": "9220@adek.gov.ae"
+    "email": "9220@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems American Academy Llc",
@@ -5257,11 +6007,13 @@ const schoolsData = [
     "lat": 24.42907604000004,
     "lon": 54.565165370000045,
     "tuition_fee": 78540.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25574880",
-    "email": "9086@adek.gov.ae"
+    "email": "9086@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahda National School For Boys",
@@ -5271,11 +6023,13 @@ const schoolsData = [
     "lat": 24.45862556000003,
     "lon": 54.38689485000003,
     "tuition_fee": 24052.0,
+    "enrollment": null,
     "gender": "Boys",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "22041600",
-    "email": "9003@adek.gov.ae"
+    "email": "9003@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sunrise English Private School",
@@ -5285,11 +6039,13 @@ const schoolsData = [
     "lat": 24.338429030000043,
     "lon": 54.53084002000003,
     "tuition_fee": 8941.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25529989",
-    "email": "9120@adek.gov.ae"
+    "email": "9120@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Maharat Private School ",
@@ -5299,11 +6055,13 @@ const schoolsData = [
     "lat": 24.37420738000003,
     "lon": 54.645976750000045,
     "tuition_fee": 26107.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25576099",
-    "email": "9343@adek.gov.ae"
+    "email": "9343@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhafra Private Schools ",
@@ -5313,11 +6071,13 @@ const schoolsData = [
     "lat": 24.200610450000056,
     "lon": 55.71753052000008,
     "tuition_fee": 23093.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37671123",
-    "email": "aldhafraaa.pvt@adek.gov.ae"
+    "email": "aldhafraaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International School Of Choueifat - Khalifa",
@@ -5327,11 +6087,13 @@ const schoolsData = [
     "lat": 24.414539390000073,
     "lon": 54.567049600000075,
     "tuition_fee": 29023.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25562555",
-    "email": "9121@adek.gov.ae"
+    "email": "9121@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Rawafed Private School",
@@ -5341,11 +6103,13 @@ const schoolsData = [
     "lat": 24.428954060000024,
     "lon": 54.58433715000007,
     "tuition_fee": 29833.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "26662663",
-    "email": "9229@adek.gov.ae"
+    "email": "9229@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Pakistani Islamic Private School",
@@ -5355,11 +6119,13 @@ const schoolsData = [
     "lat": 24.194925020000028,
     "lon": 55.70761498000007,
     "tuition_fee": 3824.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37677878",
-    "email": "9169@adek.gov.ae"
+    "email": "9169@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Community Schools - Mushrif",
@@ -5369,11 +6135,13 @@ const schoolsData = [
     "lat": 24.43448556000004,
     "lon": 54.39806188000006,
     "tuition_fee": 35023.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "26330444",
-    "email": "6010@adek.gov.ae"
+    "email": "6010@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Islamiya English School",
@@ -5383,11 +6151,13 @@ const schoolsData = [
     "lat": 24.47614396000006,
     "lon": 54.37677025000005,
     "tuition_fee": 9641.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26417773",
-    "email": "9109@adek.gov.ae"
+    "email": "9109@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sunrise International School",
@@ -5397,11 +6167,13 @@ const schoolsData = [
     "lat": 24.46599243000003,
     "lon": 54.37049141000006,
     "tuition_fee": 10097.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "26677500",
-    "email": "9332@adek.gov.ae"
+    "email": "9332@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Manara Private School - Shamkhah",
@@ -5411,11 +6183,13 @@ const schoolsData = [
     "lat": 24.35186505000007,
     "lon": 54.682294340000055,
     "tuition_fee": 15326.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "25858621",
-    "email": "9004@adek.gov.ae"
+    "email": "9004@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Alia International Private School",
@@ -5425,11 +6199,13 @@ const schoolsData = [
     "lat": 24.099097500000028,
     "lon": 55.831818490000046,
     "tuition_fee": 16540.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL DHAHIR",
     "phone": "37848992",
-    "email": "9235@adek.gov.ae"
+    "email": "9235@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Baraem Al Ain Private Schools - Muwaiji",
@@ -5439,11 +6215,13 @@ const schoolsData = [
     "lat": 24.202869000000078,
     "lon": 55.722112320000065,
     "tuition_fee": 7707.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678848",
-    "email": "baraaimalainaa.pvt@adek.gov.ae"
+    "email": "baraaimalainaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Private School",
@@ -5453,11 +6231,13 @@ const schoolsData = [
     "lat": 24.204648620000057,
     "lon": 55.77477820000007,
     "tuition_fee": 8857.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL SAROUJ",
     "phone": "37674844",
-    "email": "9125@adek.gov.ae"
+    "email": "9125@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The American International Ad",
@@ -5467,11 +6247,13 @@ const schoolsData = [
     "lat": 24.42964407000005,
     "lon": 54.43137082000004,
     "tuition_fee": 59900.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24444333",
-    "email": "9117@adek.gov.ae"
+    "email": "9117@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Zakher Private British",
@@ -5481,11 +6263,13 @@ const schoolsData = [
     "lat": 24.193390200000067,
     "lon": 55.71198967000004,
     "tuition_fee": 11762.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810818",
-    "email": "zakher.pvt@adek.gov.ae"
+    "email": "zakher.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Yasat Private School",
@@ -5495,11 +6279,13 @@ const schoolsData = [
     "lat": 24.395174030000078,
     "lon": 54.71059825000003,
     "tuition_fee": 42013.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "26412300",
-    "email": "9244@adek.gov.ae"
+    "email": "9244@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sabis International School - Ruwais",
@@ -5509,11 +6295,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 36538.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "28075000",
-    "email": "9317@adek.gov.ae"
+    "email": "9317@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "American Community School",
@@ -5523,11 +6311,13 @@ const schoolsData = [
     "lat": 24.521106920000022,
     "lon": 54.43673637000006,
     "tuition_fee": 75992.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SAADIYAT ISLAND",
     "phone": "26815115",
-    "email": "9097@adek.gov.ae"
+    "email": "9097@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhafra Private Schools - Muwaiji ",
@@ -5537,11 +6327,13 @@ const schoolsData = [
     "lat": 24.200610450000056,
     "lon": 55.71753052000008,
     "tuition_fee": 18829.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37671123",
-    "email": "aldhafraaa.pvt@adek.gov.ae"
+    "email": "aldhafraaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Madar International School",
@@ -5551,11 +6343,13 @@ const schoolsData = [
     "lat": 24.24286249000005,
     "lon": 55.68692007000004,
     "tuition_fee": 25473.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "37611330",
-    "email": "9164@adek.gov.ae"
+    "email": "9164@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Adnoc Schools - Ghayathi",
@@ -5565,11 +6359,13 @@ const schoolsData = [
     "lat": 23.91124817000008,
     "lon": 52.79813062000005,
     "tuition_fee": 32064.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "GHAYATHI",
     "phone": "24964482",
-    "email": "9270@adek.gov.ae"
+    "email": "9270@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Dar Al Uloom Private School - Baniyas",
@@ -5579,11 +6375,13 @@ const schoolsData = [
     "lat": 24.28954636000003,
     "lon": 54.63117080000006,
     "tuition_fee": 7263.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25831777",
-    "email": "9104@adek.gov.ae"
+    "email": "9104@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ittihad National Private School - Khalifa",
@@ -5593,11 +6391,13 @@ const schoolsData = [
     "lat": 24.40365600000007,
     "lon": 54.58553561000008,
     "tuition_fee": 33311.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25562666",
-    "email": "9091@adek.gov.ae"
+    "email": "9091@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": " Ibn Khaldoun Private Science ",
@@ -5607,11 +6407,13 @@ const schoolsData = [
     "lat": 24.22635323000003,
     "lon": 55.56424199000003,
     "tuition_fee": 7239.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "37815614",
-    "email": "9195@adek.gov.ae"
+    "email": "9195@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Manhal International Private School",
@@ -5621,11 +6423,13 @@ const schoolsData = [
     "lat": 24.428785490000053,
     "lon": 54.41012136000006,
     "tuition_fee": 12201.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "24998777",
-    "email": "9093@adek.gov.ae"
+    "email": "9093@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Liwa International School - Mushrif",
@@ -5635,11 +6439,13 @@ const schoolsData = [
     "lat": 24.44643971000005,
     "lon": 54.38791849000006,
     "tuition_fee": 28983.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "24441301",
-    "email": "9305@adek.gov.ae"
+    "email": "9305@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Falah Academy  Al Jimi",
@@ -5649,11 +6455,13 @@ const schoolsData = [
     "lat": 24.260507310000037,
     "lon": 55.73736515000007,
     "tuition_fee": 4000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL JIMI",
     "phone": "37216421",
-    "email": "8886@adek.gov.ae"
+    "email": "8886@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National Schools - Mbz",
@@ -5663,11 +6471,13 @@ const schoolsData = [
     "lat": 24.361500870000043,
     "lon": 54.55014167000007,
     "tuition_fee": 36686.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25590000",
-    "email": "9105@adek.gov.ae"
+    "email": "9105@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Yahar Private School And Kg",
@@ -5677,11 +6487,13 @@ const schoolsData = [
     "lat": 24.22865163000006,
     "lon": 55.56216569000003,
     "tuition_fee": 19816.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL AAMERAH",
     "phone": "37816788",
-    "email": "alyaher.pvt@adek.gov.ae"
+    "email": "alyaher.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Murooj Scientific Private School",
@@ -5691,11 +6503,13 @@ const schoolsData = [
     "lat": 24.34646291000007,
     "lon": 54.53394731000003,
     "tuition_fee": 23384.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "26669229",
-    "email": "9272@adek.gov.ae"
+    "email": "9272@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Asian International Private School - Ruwais",
@@ -5705,11 +6519,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 8348.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "28778789",
-    "email": "9180@adek.gov.ae"
+    "email": "9180@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Vision Private School",
@@ -5719,11 +6535,13 @@ const schoolsData = [
     "lat": 24.431111200000032,
     "lon": 54.40435438000003,
     "tuition_fee": 10480.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "24477730",
-    "email": "9123@adek.gov.ae"
+    "email": "9123@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Adnoc Schools - Madinat Zayed",
@@ -5733,11 +6551,13 @@ const schoolsData = [
     "lat": 23.670431740000026,
     "lon": 53.70642118000006,
     "tuition_fee": 33948.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "24964501",
-    "email": "9269@adek.gov.ae"
+    "email": "9269@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "California American School",
@@ -5747,11 +6567,13 @@ const schoolsData = [
     "lat": 24.375518010000064,
     "lon": 54.63943136000006,
     "tuition_fee": 24606.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "SHAKHBOUT CITY",
     "phone": "25861133",
-    "email": "9310@adek.gov.ae"
+    "email": "9310@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Najah Private School",
@@ -5761,11 +6583,13 @@ const schoolsData = [
     "lat": 24.33958029000007,
     "lon": 54.53716920000005,
     "tuition_fee": 31205.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25530935",
-    "email": "alnajahad.pvt@adek.gov.ae"
+    "email": "alnajahad.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Ryan International School ",
@@ -5775,11 +6599,13 @@ const schoolsData = [
     "lat": 24.42186453000005,
     "lon": 54.621025030000055,
     "tuition_fee": 17694.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25527525",
-    "email": "9260@adek.gov.ae"
+    "email": "9260@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Canadian International School",
@@ -5789,11 +6615,13 @@ const schoolsData = [
     "lat": 24.419873170000074,
     "lon": 54.60023453000008,
     "tuition_fee": 44759.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25564206",
-    "email": "9102@adek.gov.ae"
+    "email": "9102@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates Private School - Ad",
@@ -5803,11 +6631,13 @@ const schoolsData = [
     "lat": 24.440846260000058,
     "lon": 54.43586579000004,
     "tuition_fee": 17486.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SA`ADAH",
     "phone": "24448863",
-    "email": "emiratesad.pvt@adek.gov.ae"
+    "email": "emiratesad.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Horizon Private School (Moe) - Khalifa",
@@ -5817,11 +6647,13 @@ const schoolsData = [
     "lat": 24.419244810000066,
     "lon": 54.59834513000004,
     "tuition_fee": 11923.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "KHALIFA CITY",
     "phone": "25560310",
-    "email": "9103@adek.gov.ae"
+    "email": "9103@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Community School",
@@ -5831,11 +6663,13 @@ const schoolsData = [
     "lat": 24.43448556000004,
     "lon": 54.39806188000006,
     "tuition_fee": 49420.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "N/A",
-    "email": "6010@adek.gov.ae"
+    "email": "6010@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Adnoc Schools - Ruwais - Branch 2",
@@ -5845,11 +6679,13 @@ const schoolsData = [
     "lat": 24.074408160000075,
     "lon": 52.65517771000003,
     "tuition_fee": 33145.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "AL DHANNAH CITY",
     "phone": "24964005",
-    "email": "9268@adek.gov.ae"
+    "email": "9268@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Russian School Of Abu Dhabi",
@@ -5859,11 +6695,13 @@ const schoolsData = [
     "lat": 24.459781340000063,
     "lon": 54.33755254000005,
     "tuition_fee": 37100.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL BATEEN",
     "phone": "22228416",
-    "email": "9339@adek.gov.ae"
+    "email": "9339@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Good Will Children Private School",
@@ -5873,11 +6711,13 @@ const schoolsData = [
     "lat": 24.330225040000073,
     "lon": 54.53767198000003,
     "tuition_fee": 28788.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25534277",
-    "email": "9023@adek.gov.ae"
+    "email": "9023@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Summit International School ",
@@ -5887,11 +6727,13 @@ const schoolsData = [
     "lat": 24.479323400000055,
     "lon": 54.36767455000006,
     "tuition_fee": 32561.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26222504",
-    "email": "9226@adek.gov.ae"
+    "email": "9226@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi Indian School - Wathba",
@@ -5901,11 +6743,13 @@ const schoolsData = [
     "lat": 24.26406804000004,
     "lon": 54.65865406000006,
     "tuition_fee": 14183.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL WATHBAH",
     "phone": "24488025",
-    "email": "9242@adek.gov.ae"
+    "email": "9242@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Global English School ",
@@ -5915,11 +6759,13 @@ const schoolsData = [
     "lat": 24.192778110000063,
     "lon": 55.70390608000008,
     "tuition_fee": 21567.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678844",
-    "email": "9158@adek.gov.ae"
+    "email": "9158@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Arzana Private School",
@@ -5929,11 +6775,13 @@ const schoolsData = [
     "lat": 24.293379480000056,
     "lon": 54.63740633000003,
     "tuition_fee": 28237.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "26662329",
-    "email": "9326@adek.gov.ae"
+    "email": "9326@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "British Oak Montessori Kg",
@@ -5943,11 +6791,13 @@ const schoolsData = [
     "lat": 24.841996350000045,
     "lon": 55.028562900000054,
     "tuition_fee": 34000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL LAYYAN",
     "phone": "26446266",
-    "email": "9345@adek.gov.ae"
+    "email": "9345@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Sheikh Zayed Private Academy For Boys",
@@ -5957,11 +6807,13 @@ const schoolsData = [
     "lat": 24.46419315000003,
     "lon": 54.34972435000003,
     "tuition_fee": 64891.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL KHALIDIYAH",
     "phone": "22033333",
-    "email": "9264@adek.gov.ae"
+    "email": "9264@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Philippine School",
@@ -5971,11 +6823,13 @@ const schoolsData = [
     "lat": 24.302607420000072,
     "lon": 54.64244161000005,
     "tuition_fee": 7058.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "25831044",
-    "email": "9252@adek.gov.ae"
+    "email": "9252@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ain American Private School",
@@ -5985,11 +6839,13 @@ const schoolsData = [
     "lat": 24.202784390000033,
     "lon": 55.65236482000006,
     "tuition_fee": 22508.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "'ASHARIJ",
     "phone": "37675030",
-    "email": "9131@adek.gov.ae"
+    "email": "9131@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi International Private School - Mbz",
@@ -5999,11 +6855,13 @@ const schoolsData = [
     "lat": 24.345903950000036,
     "lon": 54.54118388000006,
     "tuition_fee": 40703.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "24434433",
-    "email": "9265@adek.gov.ae"
+    "email": "9265@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Private International English School",
@@ -6013,11 +6871,13 @@ const schoolsData = [
     "lat": 24.33931842000004,
     "lon": 54.53079732000003,
     "tuition_fee": 15082.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25591777",
-    "email": "9198@adek.gov.ae"
+    "email": "9198@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Our Own English High School",
@@ -6027,11 +6887,13 @@ const schoolsData = [
     "lat": 24.196642300000065,
     "lon": 55.71042363000004,
     "tuition_fee": 11635.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37679747",
-    "email": "ourenglishaa.pvt@adek.gov.ae"
+    "email": "ourenglishaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems World Academy ",
@@ -6041,11 +6903,13 @@ const schoolsData = [
     "lat": 24.47892322000007,
     "lon": 54.41146104000006,
     "tuition_fee": 72000.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL REEM ISLAND",
     "phone": "26416333",
-    "email": "9344@adek.gov.ae"
+    "email": "9344@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abc Private School",
@@ -6055,11 +6919,13 @@ const schoolsData = [
     "lat": 24.35445303000006,
     "lon": 54.70653550000003,
     "tuition_fee": 22422.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "24445800",
-    "email": "abc.pvt@adek.gov.ae"
+    "email": "abc.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhabiania Private School",
@@ -6069,11 +6935,13 @@ const schoolsData = [
     "lat": 24.459491230000026,
     "lon": 54.35663574000006,
     "tuition_fee": 13592.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL KHALIDIYAH",
     "phone": "26678282",
-    "email": "9182@adek.gov.ae"
+    "email": "9182@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Excel International School",
@@ -6083,11 +6951,13 @@ const schoolsData = [
     "lat": 24.184898770000075,
     "lon": 55.71199204000004,
     "tuition_fee": 22951.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37805025",
-    "email": "9335@adek.gov.ae"
+    "email": "9335@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Adhwa Private School",
@@ -6097,11 +6967,13 @@ const schoolsData = [
     "lat": 24.200528950000034,
     "lon": 55.72545384000006,
     "tuition_fee": 15299.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37828870",
-    "email": "9130@adek.gov.ae"
+    "email": "9130@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi Indian School - Muroor",
@@ -6111,11 +6983,13 @@ const schoolsData = [
     "lat": 24.44499759000007,
     "lon": 54.41059985000004,
     "tuition_fee": 7139.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "HADBAT AL ZA`FARANAH",
     "phone": "24488025",
-    "email": "9087@adek.gov.ae"
+    "email": "9087@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Shaikh Khalifa Bin Zayed Bangladesh Islamia Private School",
@@ -6125,11 +6999,13 @@ const schoolsData = [
     "lat": 24.43613535000003,
     "lon": 54.43966413000004,
     "tuition_fee": 4037.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUNTAZAH",
     "phone": "24446904",
-    "email": "9116@adek.gov.ae"
+    "email": "9116@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Rabeeh School",
@@ -6139,11 +7015,13 @@ const schoolsData = [
     "lat": 24.442385950000073,
     "lon": 54.40025080000004,
     "tuition_fee": 31462.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "HADBAT AL ZA`FARANAH",
     "phone": "24482856",
-    "email": "9295@adek.gov.ae"
+    "email": "9295@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Manahel Private School",
@@ -6153,11 +7031,13 @@ const schoolsData = [
     "lat": 24.201467600000058,
     "lon": 55.71926322000007,
     "tuition_fee": 7991.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37672030",
-    "email": "9144@adek.gov.ae"
+    "email": "9144@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National Schools- Br2",
@@ -6167,11 +7047,13 @@ const schoolsData = [
     "lat": 24.470356500000037,
     "lon": 54.38474555000005,
     "tuition_fee": 55350.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL NAHYAN",
     "phone": "24993700",
-    "email": "9106@adek.gov.ae"
+    "email": "9106@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Philippine Global School",
@@ -6181,11 +7063,13 @@ const schoolsData = [
     "lat": 24.443250900000066,
     "lon": 54.40245149000003,
     "tuition_fee": 7258.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "HADBAT AL ZA`FARANAH",
     "phone": "24473366",
-    "email": "9274@adek.gov.ae"
+    "email": "9274@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Pearl British Academy",
@@ -6195,11 +7079,13 @@ const schoolsData = [
     "lat": 24.475396260000025,
     "lon": 54.37569109000003,
     "tuition_fee": 44661.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26418887",
-    "email": "9029@adek.gov.ae"
+    "email": "9029@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhafra Private Academy",
@@ -6209,11 +7095,13 @@ const schoolsData = [
     "lat": 24.269952630000034,
     "lon": 55.71437305000006,
     "tuition_fee": 14559.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "37046600",
-    "email": "9334@adek.gov.ae"
+    "email": "9334@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Universal Private British",
@@ -6223,11 +7111,13 @@ const schoolsData = [
     "lat": 24.198095100000046,
     "lon": 55.712834920000034,
     "tuition_fee": 10934.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37678884",
-    "email": "universal.pvt@adek.gov.ae"
+    "email": "universal.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Andalus Private Academy",
@@ -6237,11 +7127,13 @@ const schoolsData = [
     "lat": 24.200885250000056,
     "lon": 55.726250220000054,
     "tuition_fee": 10328.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37829980",
-    "email": "9135@adek.gov.ae"
+    "email": "9135@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi International Private School - Karamah",
@@ -6251,11 +7143,13 @@ const schoolsData = [
     "lat": 24.462310590000072,
     "lon": 54.365639170000065,
     "tuition_fee": 26280.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "24434433",
-    "email": "9060@adek.gov.ae"
+    "email": "9060@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "German International School ",
@@ -6265,11 +7159,13 @@ const schoolsData = [
     "lat": 24.466596440000046,
     "lon": 54.360600900000065,
     "tuition_fee": 46690.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "26668668",
-    "email": "9048@adek.gov.ae"
+    "email": "9048@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Wales International School",
@@ -6279,11 +7175,13 @@ const schoolsData = [
     "lat": 24.356111860000055,
     "lon": 54.70413606000005,
     "tuition_fee": 30127.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL SHAMKHAH",
     "phone": "26664883",
-    "email": "9293@adek.gov.ae"
+    "email": "9293@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Grace Valley Indian School ",
@@ -6293,11 +7191,13 @@ const schoolsData = [
     "lat": 24.186393520000024,
     "lon": 55.71103437000005,
     "tuition_fee": 10427.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37805511",
-    "email": "9208@adek.gov.ae"
+    "email": "9208@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "International Jubilee Private School",
@@ -6307,11 +7207,13 @@ const schoolsData = [
     "lat": 24.47919883000003,
     "lon": 54.36541856000008,
     "tuition_fee": 24398.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "26335150",
-    "email": "9111@adek.gov.ae"
+    "email": "9111@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Oasis International School",
@@ -6321,11 +7223,13 @@ const schoolsData = [
     "lat": 24.253286810000077,
     "lon": 55.72647768000007,
     "tuition_fee": 9667.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL JIMI",
     "phone": "37821001",
-    "email": "9127@adek.gov.ae"
+    "email": "9127@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Darul Huda Islamic School",
@@ -6335,11 +7239,13 @@ const schoolsData = [
     "lat": 24.201972400000045,
     "lon": 55.72029492000007,
     "tuition_fee": 7083.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37677883",
-    "email": "9152@adek.gov.ae"
+    "email": "9152@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National",
@@ -6349,11 +7255,13 @@ const schoolsData = [
     "lat": 24.361500870000043,
     "lon": 54.55014167000007,
     "tuition_fee": 56135.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25590000",
-    "email": "9105@adek.gov.ae"
+    "email": "9105@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Aldar Academies-West Yas School",
@@ -6363,11 +7271,13 @@ const schoolsData = [
     "lat": 24.494906940000078,
     "lon": 54.58908044000003,
     "tuition_fee": 60723.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "YAS ISLAND",
     "phone": "28132111",
-    "email": "9281@adek.gov.ae"
+    "email": "9281@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Royal American School",
@@ -6377,11 +7287,13 @@ const schoolsData = [
     "lat": 24.31656724000004,
     "lon": 54.53272514000008,
     "tuition_fee": 15912.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25591000",
-    "email": "9312@adek.gov.ae"
+    "email": "9312@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Dhafra Private Schools - Mbz",
@@ -6391,11 +7303,13 @@ const schoolsData = [
     "lat": 24.34548583000003,
     "lon": 54.53224805000008,
     "tuition_fee": 37503.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "26108400",
-    "email": "9017@adek.gov.ae"
+    "email": "9017@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Ain Juniors School",
@@ -6405,11 +7319,13 @@ const schoolsData = [
     "lat": 24.199828730000036,
     "lon": 55.72388881000006,
     "tuition_fee": 9126.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "FALAJ HAZZA'",
     "phone": "37810077",
-    "email": "9134@adek.gov.ae"
+    "email": "9134@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Future Leaders International Private School - Baniyas",
@@ -6419,11 +7335,13 @@ const schoolsData = [
     "lat": 24.283222300000034,
     "lon": 54.648695660000044,
     "tuition_fee": 32779.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "26322213",
-    "email": "9296@adek.gov.ae"
+    "email": "9296@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Rowad Al Dhafra British",
@@ -6433,11 +7351,13 @@ const schoolsData = [
     "lat": 23.651343850000046,
     "lon": 53.71424851000006,
     "tuition_fee": 14726.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Dhafra Region",
     "district": "MADINAT ZAYED",
     "phone": "28841500",
-    "email": "7320@adek.gov.ae"
+    "email": "7320@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Our Own English High School",
@@ -6447,11 +7367,13 @@ const schoolsData = [
     "lat": 24.196642300000065,
     "lon": 55.71042363000004,
     "tuition_fee": 14025.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL MUWAIJ'I",
     "phone": "37679747",
-    "email": "ourenglishaa.pvt@adek.gov.ae"
+    "email": "ourenglishaa.pvt@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Pakistan Community Welfare School",
@@ -6461,11 +7383,13 @@ const schoolsData = [
     "lat": 24.320975630000078,
     "lon": 54.53207344000003,
     "tuition_fee": 4236.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25530532",
-    "email": "9021@adek.gov.ae"
+    "email": "9021@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National Schools - Manhal",
@@ -6475,11 +7399,13 @@ const schoolsData = [
     "lat": 24.45627256000006,
     "lon": 54.35934228000008,
     "tuition_fee": 28736.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "26425993",
-    "email": "9224@adek.gov.ae"
+    "email": "9224@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "The Model Private ",
@@ -6489,11 +7415,13 @@ const schoolsData = [
     "lat": 24.321195440000054,
     "lon": 54.537709980000045,
     "tuition_fee": 5077.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25527200",
-    "email": "9122@adek.gov.ae"
+    "email": "9122@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Dunes International School",
@@ -6503,11 +7431,13 @@ const schoolsData = [
     "lat": 24.33938082000003,
     "lon": 54.532392680000044,
     "tuition_fee": 17104.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25527527",
-    "email": "9294@adek.gov.ae"
+    "email": "9294@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Shining Star International School",
@@ -6517,11 +7447,13 @@ const schoolsData = [
     "lat": 24.321051960000034,
     "lon": 54.53394048000007,
     "tuition_fee": 12724.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "MOHAMED BIN ZAYED CITY",
     "phone": "25596444",
-    "email": "9241@adek.gov.ae"
+    "email": "9241@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems United Indian School",
@@ -6531,11 +7463,13 @@ const schoolsData = [
     "lat": 24.294977430000074,
     "lon": 54.61734192000006,
     "tuition_fee": 13893.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "BANI YAS",
     "phone": "22059710",
-    "email": "9259@adek.gov.ae"
+    "email": "9259@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Al Nahda National  - Girls",
@@ -6545,11 +7479,13 @@ const schoolsData = [
     "lat": 24.43697755000005,
     "lon": 54.40011915000008,
     "tuition_fee": 21541.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MUSHRIF",
     "phone": "22041800",
-    "email": "9025@adek.gov.ae"
+    "email": "9025@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Emirates National Schools - Al Ain",
@@ -6559,11 +7495,13 @@ const schoolsData = [
     "lat": 24.25946035000004,
     "lon": 55.69137269000004,
     "tuition_fee": 35901.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Al Ain",
     "district": "AL TIWAYYA",
     "phone": "37070548",
-    "email": "9154@adek.gov.ae"
+    "email": "9154@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Gems Winchester School",
@@ -6573,11 +7511,13 @@ const schoolsData = [
     "lat": 24.481302620000065,
     "lon": 54.370515520000026,
     "tuition_fee": 25066.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL DANAH",
     "phone": "24035499",
-    "email": "9230@adek.gov.ae"
+    "email": "9230@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Abu Dhabi International Pvt",
@@ -6587,11 +7527,13 @@ const schoolsData = [
     "lat": 24.462310590000072,
     "lon": 54.365639170000065,
     "tuition_fee": 26230.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "AL MANHAL",
     "phone": "24434433",
-    "email": "9060@adek.gov.ae"
+    "email": "9060@adek.gov.ae",
+    "emirate": "Abu Dhabi"
   },
   {
     "name": "Sabis International School - Yas",
@@ -6601,10 +7543,4062 @@ const schoolsData = [
     "lat": 24.50811249000003,
     "lon": 54.599895340000046,
     "tuition_fee": 50180.0,
+    "enrollment": null,
     "gender": "Mixed",
     "region": "Abu Dhabi",
     "district": "YAS ISLAND",
     "phone": "25650065",
-    "email": "9275@adek.gov.ae"
+    "email": "9275@adek.gov.ae",
+    "emirate": "Abu Dhabi"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian - International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.276381,
+    "lon": 55.368653,
+    "tuition_fee": 14297.42857,
+    "enrollment": 160,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian",
+    "address": "N/A",
+    "lat": 25.276431,
+    "lon": 55.369036,
+    "tuition_fee": 14007.57143,
+    "enrollment": 167,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.108514,
+    "lon": 55.189206,
+    "tuition_fee": 11955.92857,
+    "enrollment": 958,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1990"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.231106,
+    "lon": 55.522533,
+    "tuition_fee": 8009.0,
+    "enrollment": 115,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-KG2",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 24.798719,
+    "lon": 56.124897,
+    "tuition_fee": 5540.0,
+    "enrollment": 125,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-KG2",
+    "year_established": "2004"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.290128,
+    "lon": 55.374764,
+    "tuition_fee": 12008.06667,
+    "enrollment": 1716,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.230481,
+    "lon": 55.389272,
+    "tuition_fee": 7385.727273,
+    "enrollment": 308,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G9",
+    "year_established": "1973"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.02992058,
+    "lon": 55.11357117,
+    "tuition_fee": 45150.0,
+    "enrollment": 59,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1- Y8",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.29988861,
+    "lon": 55.34435272,
+    "tuition_fee": 25283.46667,
+    "enrollment": 1542,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1975"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.18071365,
+    "lon": 55.24103165,
+    "tuition_fee": 31895.26667,
+    "enrollment": 2581,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1998"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.28619194,
+    "lon": 55.36785889,
+    "tuition_fee": 19262.21429,
+    "enrollment": 1195,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1987"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.104503,
+    "lon": 55.201706,
+    "tuition_fee": 18329.42857,
+    "enrollment": 3357,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1998"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.234675,
+    "lon": 55.358314,
+    "tuition_fee": 18329.42857,
+    "enrollment": 2308,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1995"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.23575974,
+    "lon": 55.43930817,
+    "tuition_fee": 50912.66667,
+    "enrollment": 1205,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.000017,
+    "lon": 55.171757,
+    "tuition_fee": 36274.42857,
+    "enrollment": 1525,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.2369525,
+    "lon": 55.3180053,
+    "tuition_fee": 12508.78571,
+    "enrollment": 2708,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1983"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.265897,
+    "lon": 55.385764,
+    "tuition_fee": 5925.153846,
+    "enrollment": 2188,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS2-Y11",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.25951958,
+    "lon": 55.38159943,
+    "tuition_fee": 31914.86667,
+    "enrollment": 1945,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2019"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.28867531,
+    "lon": 55.36948013,
+    "tuition_fee": 17536.83333,
+    "enrollment": 1253,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y9",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.213097,
+    "lon": 55.2553,
+    "tuition_fee": 9603.5,
+    "enrollment": 1934,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1986"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.14459038,
+    "lon": 55.24818039,
+    "tuition_fee": 67631.71429,
+    "enrollment": 1474,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre primary-G10",
+    "year_established": "2019"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.245899,
+    "lon": 55.288406,
+    "tuition_fee": 29833.73333,
+    "enrollment": 1408,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre primary-G12",
+    "year_established": "2010"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.238386,
+    "lon": 55.428675,
+    "tuition_fee": 57856.33333,
+    "enrollment": 548,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.283458,
+    "lon": 55.368764,
+    "tuition_fee": 16168.64286,
+    "enrollment": 2744,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.10029,
+    "lon": 55.182186,
+    "tuition_fee": 82491.4,
+    "enrollment": 2061,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1973"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.14905186,
+    "lon": 55.37769844,
+    "tuition_fee": 49321.42857,
+    "enrollment": 720,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G9",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.27979088,
+    "lon": 55.36653137,
+    "tuition_fee": 0.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.27979088,
+    "lon": 55.36653137,
+    "tuition_fee": 25811.46667,
+    "enrollment": 1311,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G9",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.27915036,
+    "lon": 55.37502078,
+    "tuition_fee": 12454.73333,
+    "enrollment": 4937,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1994"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.236325,
+    "lon": 55.429928,
+    "tuition_fee": 7608.266667,
+    "enrollment": 3504,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS2-Y13",
+    "year_established": "1975"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.04596412,
+    "lon": 55.18262764,
+    "tuition_fee": 79994.42857,
+    "enrollment": 1067,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.02940876,
+    "lon": 55.15100326,
+    "tuition_fee": 47200.0,
+    "enrollment": 625,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1 - Y6",
+    "year_established": "2023"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Australian",
+    "address": "N/A",
+    "lat": 25.0611496,
+    "lon": 55.23125839,
+    "tuition_fee": 64333.33333,
+    "enrollment": 421,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G8",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.15234192,
+    "lon": 55.20640452,
+    "tuition_fee": 0.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Y1-Y7",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.15252113,
+    "lon": 55.29824066,
+    "tuition_fee": 75823.5,
+    "enrollment": 551,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G10",
+    "year_established": "2012"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.07893434,
+    "lon": 55.2342521,
+    "tuition_fee": 65642.85714,
+    "enrollment": 684,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G10",
+    "year_established": "2022"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.22205925,
+    "lon": 55.39583969,
+    "tuition_fee": 28327.11111,
+    "enrollment": 221,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G6",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 24.99975014,
+    "lon": 55.17388916,
+    "tuition_fee": 24433.33333,
+    "enrollment": 1142,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G8",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.07917023,
+    "lon": 55.23278046,
+    "tuition_fee": 99215.2,
+    "enrollment": 976,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.240664,
+    "lon": 55.407408,
+    "tuition_fee": 12193.0,
+    "enrollment": 1053,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G12",
+    "year_established": "1986"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.2645677,
+    "lon": 55.3751226,
+    "tuition_fee": 29730.73333,
+    "enrollment": 2779,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2004"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.284464,
+    "lon": 55.371974,
+    "tuition_fee": 54028.57143,
+    "enrollment": 800,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y10",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.19017982,
+    "lon": 55.39775848,
+    "tuition_fee": 32503.63636,
+    "enrollment": 328,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Chinese",
+    "address": "N/A",
+    "lat": 25.22723007,
+    "lon": 55.43109131,
+    "tuition_fee": 29921.66667,
+    "enrollment": 503,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G8",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.20948625,
+    "lon": 55.26668721,
+    "tuition_fee": 64000.0,
+    "enrollment": 536,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2022"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.16609001,
+    "lon": 55.257061,
+    "tuition_fee": 74787.63636,
+    "enrollment": 293,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G7",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American - International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.150553,
+    "lon": 55.207817,
+    "tuition_fee": 54050.8,
+    "enrollment": 745,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.15271568,
+    "lon": 55.24940491,
+    "tuition_fee": 22481.33333,
+    "enrollment": 2074,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G12",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.281628,
+    "lon": 55.367415,
+    "tuition_fee": 4003.571429,
+    "enrollment": 1550,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1984"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.2492872,
+    "lon": 55.4811599,
+    "tuition_fee": 78531.8,
+    "enrollment": 1215,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK - UK/IB",
+    "address": "N/A",
+    "lat": 25.21274757,
+    "lon": 55.37374878,
+    "tuition_fee": 63471.06667,
+    "enrollment": 1879,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.24252129,
+    "lon": 55.39839935,
+    "tuition_fee": 31249.4,
+    "enrollment": 818,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2009"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.039236,
+    "lon": 55.121742,
+    "tuition_fee": 12888.28571,
+    "enrollment": 3848,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education/BTEC",
+    "address": "N/A",
+    "lat": 25.2437191,
+    "lon": 55.28084946,
+    "tuition_fee": 0.0,
+    "enrollment": 142,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G10-G12",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.14981985,
+    "lon": 55.24773266,
+    "tuition_fee": 15681.55556,
+    "enrollment": 704,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre KG- G5",
+    "year_established": "2023"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.06097189,
+    "lon": 55.23969502,
+    "tuition_fee": 20400.0,
+    "enrollment": 115,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre KG- G5",
+    "year_established": "2023"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 24.997031,
+    "lon": 55.155937,
+    "tuition_fee": 49615.38462,
+    "enrollment": 661,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y9",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.0552063,
+    "lon": 55.17015076,
+    "tuition_fee": 63409.66667,
+    "enrollment": 1189,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.18934767,
+    "lon": 55.24955415,
+    "tuition_fee": 56791.55556,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "ECC (2-3) - Y7",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.0436149,
+    "lon": 55.1582229,
+    "tuition_fee": 89028.86667,
+    "enrollment": 2103,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2015"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.296431,
+    "lon": 55.379344,
+    "tuition_fee": 10798.21429,
+    "enrollment": 684,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.110194,
+    "lon": 55.169042,
+    "tuition_fee": 96744.28571,
+    "enrollment": 1093,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Y7-Y13",
+    "year_established": "1978"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.10543069,
+    "lon": 55.39907016,
+    "tuition_fee": 82814.85714,
+    "enrollment": 1852,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Y7-Y13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.238244,
+    "lon": 55.317725,
+    "tuition_fee": 50038.75,
+    "enrollment": 1017,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "1973"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.235942,
+    "lon": 55.316167,
+    "tuition_fee": 17411.0,
+    "enrollment": 1058,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1983"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK - UK/IB",
+    "address": "N/A",
+    "lat": 25.0788002,
+    "lon": 55.22507858,
+    "tuition_fee": 64733.19231,
+    "enrollment": 321,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y9",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.11421967,
+    "lon": 55.20737839,
+    "tuition_fee": 73060.66667,
+    "enrollment": 1631,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.077917,
+    "lon": 55.179,
+    "tuition_fee": 61022.6,
+    "enrollment": 2760,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.248367,
+    "lon": 55.341864,
+    "tuition_fee": 17011.64286,
+    "enrollment": 1024,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1985"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.1686916,
+    "lon": 55.264079,
+    "tuition_fee": 18057.14286,
+    "enrollment": 1816,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1999"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education - American",
+    "address": "N/A",
+    "lat": 25.238822,
+    "lon": 55.427392,
+    "tuition_fee": 13739.71429,
+    "enrollment": 1983,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1996"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.10691071,
+    "lon": 55.192436,
+    "tuition_fee": 29204.06667,
+    "enrollment": 2427,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1988"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.278803,
+    "lon": 55.368489,
+    "tuition_fee": 28709.93333,
+    "enrollment": 1159,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.280228,
+    "lon": 55.364739,
+    "tuition_fee": 20064.53333,
+    "enrollment": 2327,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1994"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.22179282,
+    "lon": 55.42576343,
+    "tuition_fee": 36429.44444,
+    "enrollment": 879,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G6",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.08221439,
+    "lon": 55.217592,
+    "tuition_fee": 36429.44444,
+    "enrollment": 1232,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G6",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.13829994,
+    "lon": 55.36859894,
+    "tuition_fee": 36367.77778,
+    "enrollment": 464,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G6",
+    "year_established": "2022"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.09076,
+    "lon": 55.306367,
+    "tuition_fee": 81583.33333,
+    "enrollment": 674,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 24.99785995,
+    "lon": 55.15504837,
+    "tuition_fee": 76000.0,
+    "enrollment": 275,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y9",
+    "year_established": "2022"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.03480989,
+    "lon": 55.22822952,
+    "tuition_fee": 89578.66667,
+    "enrollment": 563,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.288842,
+    "lon": 55.340475,
+    "tuition_fee": 6146.857143,
+    "enrollment": 2144,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1993"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate (13Y)",
+    "address": "N/A",
+    "lat": 25.064758,
+    "lon": 55.156161,
+    "tuition_fee": 52548.75,
+    "enrollment": 1878,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2006"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.1357457,
+    "lon": 55.2100999,
+    "tuition_fee": 55244.66667,
+    "enrollment": 2274,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1991"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.22757541,
+    "lon": 55.53289235,
+    "tuition_fee": 37000.0,
+    "enrollment": 474,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G7",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.24135256,
+    "lon": 55.31815925,
+    "tuition_fee": 7378.714286,
+    "enrollment": 1964,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS2-Y13",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.02680016,
+    "lon": 55.27711868,
+    "tuition_fee": 76898.66667,
+    "enrollment": 1014,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.1901989,
+    "lon": 55.42930984,
+    "tuition_fee": 42540.2,
+    "enrollment": 2665,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.07948112,
+    "lon": 55.23039246,
+    "tuition_fee": 58122.93333,
+    "enrollment": 992,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.10457875,
+    "lon": 55.1810667,
+    "tuition_fee": 87373.28571,
+    "enrollment": 3066,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1997"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.0885582,
+    "lon": 55.37654877,
+    "tuition_fee": 58909.93333,
+    "enrollment": 1884,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.0799005,
+    "lon": 55.227909,
+    "tuition_fee": 31069.73333,
+    "enrollment": 6129,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 24.94584159,
+    "lon": 55.20832349,
+    "tuition_fee": 43610.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.24337006,
+    "lon": 55.4512291,
+    "tuition_fee": 31210.2,
+    "enrollment": 4001,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.122517,
+    "lon": 55.255383,
+    "tuition_fee": 64516.8,
+    "enrollment": 2150,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2013"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.175947,
+    "lon": 55.238661,
+    "tuition_fee": 53028.75,
+    "enrollment": 1466,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "1994"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.24796486,
+    "lon": 55.33935165,
+    "tuition_fee": 12286.81818,
+    "enrollment": 6325,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G8",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.042225,
+    "lon": 55.244515,
+    "tuition_fee": 46302.0,
+    "enrollment": 3928,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.0340821,
+    "lon": 55.28196792,
+    "tuition_fee": 45454.54545,
+    "enrollment": 725,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1 - Y8",
+    "year_established": "2023"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian/IB",
+    "address": "N/A",
+    "lat": 25.1536026,
+    "lon": 55.37615204,
+    "tuition_fee": 46337.86667,
+    "enrollment": 3840,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary - G12",
+    "year_established": "1986"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian - UK",
+    "address": "N/A",
+    "lat": 25.122056,
+    "lon": 55.253912,
+    "tuition_fee": 28512.26316,
+    "enrollment": 2476,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2013"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.193408,
+    "lon": 55.42551,
+    "tuition_fee": 10920.87857,
+    "enrollment": 10399,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1972"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.171781,
+    "lon": 55.260647,
+    "tuition_fee": 9531.928571,
+    "enrollment": 3666,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1991"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.23730278,
+    "lon": 55.43858719,
+    "tuition_fee": 51271.55556,
+    "enrollment": 829,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-Y6",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.124333,
+    "lon": 55.254867,
+    "tuition_fee": 88109.4,
+    "enrollment": 2532,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2013"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.118243,
+    "lon": 55.388303,
+    "tuition_fee": 63952.66667,
+    "enrollment": 4202,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.112042,
+    "lon": 55.183447,
+    "tuition_fee": 72088.6,
+    "enrollment": 2903,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.08046341,
+    "lon": 55.33153915,
+    "tuition_fee": 27993.73333,
+    "enrollment": 4123,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.082225,
+    "lon": 55.219567,
+    "tuition_fee": 95674.06667,
+    "enrollment": 2026,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "German",
+    "address": "N/A",
+    "lat": 25.1079,
+    "lon": 55.4014,
+    "tuition_fee": 54724.73333,
+    "enrollment": 923,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2004"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.23497881,
+    "lon": 55.31599002,
+    "tuition_fee": 48933.33333,
+    "enrollment": 118,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1 - Y6",
+    "year_established": "2023"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.17348413,
+    "lon": 55.25854148,
+    "tuition_fee": 31333.66667,
+    "enrollment": 1021,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.235469,
+    "lon": 55.351983,
+    "tuition_fee": 5794.266667,
+    "enrollment": 1319,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS2-Y13",
+    "year_established": "1974"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 24.98301888,
+    "lon": 55.18383789,
+    "tuition_fee": 63351.73333,
+    "enrollment": 1557,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2007"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.244239,
+    "lon": 55.4183,
+    "tuition_fee": 25282.28571,
+    "enrollment": 1262,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.23705673,
+    "lon": 55.34976578,
+    "tuition_fee": 6279.571429,
+    "enrollment": 2373,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1979"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.27805519,
+    "lon": 55.40703964,
+    "tuition_fee": 5109.285714,
+    "enrollment": 4214,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Pakistani",
+    "address": "N/A",
+    "lat": 25.28512764,
+    "lon": 55.36993408,
+    "tuition_fee": 5164.285714,
+    "enrollment": 1357,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1995"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.24528298,
+    "lon": 55.39435185,
+    "tuition_fee": 21962.5,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1 - Y6",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.17733955,
+    "lon": 55.30524063,
+    "tuition_fee": 66925.47059,
+    "enrollment": 1619,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2015"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.25142559,
+    "lon": 55.30515097,
+    "tuition_fee": 0.0,
+    "enrollment": 198,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-KG2",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.28344828,
+    "lon": 55.34351984,
+    "tuition_fee": 0.0,
+    "enrollment": 1031,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G1-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.24817385,
+    "lon": 55.30641913,
+    "tuition_fee": 0.0,
+    "enrollment": 1057,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G1-G12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.13282585,
+    "lon": 55.20487976,
+    "tuition_fee": 54782.2,
+    "enrollment": 1393,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.189889,
+    "lon": 55.250028,
+    "tuition_fee": 40026.0,
+    "enrollment": 1313,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.101772,
+    "lon": 55.160615,
+    "tuition_fee": 21759.46154,
+    "enrollment": 877,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG2-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.19057083,
+    "lon": 55.41072845,
+    "tuition_fee": 36000.0,
+    "enrollment": 1003,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G9",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.186381,
+    "lon": 55.403486,
+    "tuition_fee": 19007.64286,
+    "enrollment": 1256,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2006"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.07999992,
+    "lon": 55.22460175,
+    "tuition_fee": 47600.0,
+    "enrollment": 1686,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y12",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian",
+    "address": "N/A",
+    "lat": 25.252825,
+    "lon": 55.307217,
+    "tuition_fee": 4611.714286,
+    "enrollment": 325,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian",
+    "address": "N/A",
+    "lat": 25.280592,
+    "lon": 55.370039,
+    "tuition_fee": 3235.916667,
+    "enrollment": 469,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G1-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian - International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.17411041,
+    "lon": 55.25699234,
+    "tuition_fee": 13165.39286,
+    "enrollment": 873,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Iranian",
+    "address": "N/A",
+    "lat": 25.25298309,
+    "lon": 55.3068428,
+    "tuition_fee": 10040.92857,
+    "enrollment": 224,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG2-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.252208,
+    "lon": 55.416992,
+    "tuition_fee": 12606.14286,
+    "enrollment": 619,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1982"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Japanese",
+    "address": "N/A",
+    "lat": 25.192697,
+    "lon": 55.254131,
+    "tuition_fee": 34350.0,
+    "enrollment": 171,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G9",
+    "year_established": "1980"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.209117,
+    "lon": 55.282415,
+    "tuition_fee": 68347.13333,
+    "enrollment": 1977,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1978"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.06615639,
+    "lon": 55.20269012,
+    "tuition_fee": 26047.4,
+    "enrollment": 3001,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2010"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.191845,
+    "lon": 55.252894,
+    "tuition_fee": 16414.8,
+    "enrollment": 2083,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.218637,
+    "lon": 55.259723,
+    "tuition_fee": 79452.6,
+    "enrollment": 1495,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2010"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.176394,
+    "lon": 55.235789,
+    "tuition_fee": 85396.71429,
+    "enrollment": 1309,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Y7-Y13",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.179742,
+    "lon": 55.243147,
+    "tuition_fee": 58303.375,
+    "enrollment": 750,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "1976"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK - International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.056689,
+    "lon": 55.272661,
+    "tuition_fee": 73982.4,
+    "enrollment": 1790,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-G13",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.07185936,
+    "lon": 55.21253967,
+    "tuition_fee": 83564.8,
+    "enrollment": 1304,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.100523,
+    "lon": 55.253677,
+    "tuition_fee": 80321.26667,
+    "enrollment": 3015,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.135958,
+    "lon": 55.196242,
+    "tuition_fee": 58124.5,
+    "enrollment": 1144,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2004"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.152161,
+    "lon": 55.379977,
+    "tuition_fee": 73316.92308,
+    "enrollment": 1060,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y10",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.282439,
+    "lon": 55.336397,
+    "tuition_fee": 3821.75,
+    "enrollment": 928,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G6",
+    "year_established": "1984"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.241403,
+    "lon": 55.312731,
+    "tuition_fee": 40542.66667,
+    "enrollment": 2992,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.104978,
+    "lon": 55.395858,
+    "tuition_fee": 42621.66667,
+    "enrollment": 1997,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G1-G12",
+    "year_established": "1998"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.233711,
+    "lon": 55.316025,
+    "tuition_fee": 30558.0,
+    "enrollment": 365,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-KG2",
+    "year_established": "1998"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.17499924,
+    "lon": 55.25167084,
+    "tuition_fee": 51716.21429,
+    "enrollment": 1408,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G10",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "French",
+    "address": "N/A",
+    "lat": 25.12789917,
+    "lon": 55.35214996,
+    "tuition_fee": 49111.2,
+    "enrollment": 1309,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G12",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.290983,
+    "lon": 55.378581,
+    "tuition_fee": 14193.2,
+    "enrollment": 1281,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.237383,
+    "lon": 55.437061,
+    "tuition_fee": 31706.58333,
+    "enrollment": 670,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G8",
+    "year_established": "1995"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.244356,
+    "lon": 55.41603088,
+    "tuition_fee": 22166.07143,
+    "enrollment": 1670,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2006"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 55.34181976,
+    "lon": 25.27388,
+    "tuition_fee": 4774.0,
+    "enrollment": 711,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G1-G4",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.250636,
+    "lon": 55.284283,
+    "tuition_fee": 14124.14286,
+    "enrollment": 1353,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1990"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.27571786,
+    "lon": 55.41062327,
+    "tuition_fee": 23000.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1 - Y6",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.237008,
+    "lon": 55.347017,
+    "tuition_fee": 5552.571429,
+    "enrollment": 7259,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1980"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.17997932,
+    "lon": 55.39904022,
+    "tuition_fee": 28879.57143,
+    "enrollment": 1001,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.09828949,
+    "lon": 55.18967056,
+    "tuition_fee": 37933.14286,
+    "enrollment": 1223,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G10",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK - UK/IB",
+    "address": "N/A",
+    "lat": 25.061521,
+    "lon": 55.227338,
+    "tuition_fee": 87183.8,
+    "enrollment": 2440,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.236083,
+    "lon": 55.432139,
+    "tuition_fee": 36122.0,
+    "enrollment": 817,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2007"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.17856026,
+    "lon": 55.30667877,
+    "tuition_fee": 114538.0667,
+    "enrollment": 1549,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2017"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.14920044,
+    "lon": 55.2476387,
+    "tuition_fee": 20937.5,
+    "enrollment": 609,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.190892,
+    "lon": 55.400567,
+    "tuition_fee": 10646.57143,
+    "enrollment": 4657,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.28122711,
+    "lon": 55.40219116,
+    "tuition_fee": 14862.2,
+    "enrollment": 2186,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1988"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.2297309,
+    "lon": 55.3831988,
+    "tuition_fee": 23105.72727,
+    "enrollment": 900,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Pakistani",
+    "address": "N/A",
+    "lat": 25.241917,
+    "lon": 55.316989,
+    "tuition_fee": 6963.428571,
+    "enrollment": 1558,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1983"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.27815056,
+    "lon": 55.34455872,
+    "tuition_fee": 17638.45455,
+    "enrollment": 815,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G8",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.278906,
+    "lon": 55.402194,
+    "tuition_fee": 27037.2,
+    "enrollment": 990,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2006"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.186925,
+    "lon": 55.402725,
+    "tuition_fee": 17799.13333,
+    "enrollment": 1451,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.293458,
+    "lon": 55.375039,
+    "tuition_fee": 18490.93333,
+    "enrollment": 2001,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK (12 Y - Grades)",
+    "address": "N/A",
+    "lat": 25.283108,
+    "lon": 55.348792,
+    "tuition_fee": 18997.21429,
+    "enrollment": 684,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1998"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.136467,
+    "lon": 55.194503,
+    "tuition_fee": 60495.93333,
+    "enrollment": 1362,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.14021286,
+    "lon": 55.19649657,
+    "tuition_fee": 60653.2,
+    "enrollment": 1999,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.02964973,
+    "lon": 55.27085114,
+    "tuition_fee": 57490.5,
+    "enrollment": 935,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2015"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.15119461,
+    "lon": 55.3134266,
+    "tuition_fee": 0.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.088125,
+    "lon": 55.173753,
+    "tuition_fee": 68744.26667,
+    "enrollment": 1516,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.04025078,
+    "lon": 55.22462082,
+    "tuition_fee": 46106.36364,
+    "enrollment": 590,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G7",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.07964706,
+    "lon": 55.24266052,
+    "tuition_fee": 74654.0,
+    "enrollment": 1331,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2013"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.145306,
+    "lon": 55.378833,
+    "tuition_fee": 77072.53333,
+    "enrollment": 2329,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2007"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.03363991,
+    "lon": 55.2314682,
+    "tuition_fee": 96529.5,
+    "enrollment": 1272,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y8",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Russian",
+    "address": "N/A",
+    "lat": 25.282619,
+    "lon": 55.404694,
+    "tuition_fee": 21511.23077,
+    "enrollment": 502,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G11",
+    "year_established": "2006"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.29003,
+    "lon": 55.341101,
+    "tuition_fee": 17039.35714,
+    "enrollment": 777,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G10",
+    "year_established": "2013"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.17795386,
+    "lon": 55.24101601,
+    "tuition_fee": 58575.85714,
+    "enrollment": 1464,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y10",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK/IB",
+    "address": "N/A",
+    "lat": 25.06108856,
+    "lon": 55.24808121,
+    "tuition_fee": 67182.26667,
+    "enrollment": 2362,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.185614,
+    "lon": 55.403222,
+    "tuition_fee": 28135.57143,
+    "enrollment": 2073,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.103064,
+    "lon": 55.410163,
+    "tuition_fee": 0.0,
+    "enrollment": 209,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G5-G12",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.1082069,
+    "lon": 55.2118224,
+    "tuition_fee": 57966.8,
+    "enrollment": 425,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y7",
+    "year_established": "2014"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.00497055,
+    "lon": 55.24433136,
+    "tuition_fee": 53966.13333,
+    "enrollment": 1166,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y12",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian - UK",
+    "address": "N/A",
+    "lat": 25.15000916,
+    "lon": 55.2533989,
+    "tuition_fee": 28618.17647,
+    "enrollment": 1358,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.1741804,
+    "lon": 55.53736598,
+    "tuition_fee": 28450.0,
+    "enrollment": null,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2024"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.2403698,
+    "lon": 55.31762695,
+    "tuition_fee": 9929.153846,
+    "enrollment": 1074,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Y1-Y13",
+    "year_established": "1968"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.28038025,
+    "lon": 55.4082489,
+    "tuition_fee": 16119.28571,
+    "enrollment": 1991,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2015"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.259086,
+    "lon": 55.385236,
+    "tuition_fee": 39626.53333,
+    "enrollment": 643,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.223019,
+    "lon": 55.417214,
+    "tuition_fee": 51694.6,
+    "enrollment": 1044,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.04754066,
+    "lon": 55.19372177,
+    "tuition_fee": 82494.73333,
+    "enrollment": 1962,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2016"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.2085495,
+    "lon": 55.331629,
+    "tuition_fee": 100294.8,
+    "enrollment": 2155,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2015"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.2444706,
+    "lon": 55.30113983,
+    "tuition_fee": 21070.72727,
+    "enrollment": 1025,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y9",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.08654022,
+    "lon": 55.38628006,
+    "tuition_fee": 60160.92857,
+    "enrollment": 1131,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.02363968,
+    "lon": 55.13750076,
+    "tuition_fee": 78312.57143,
+    "enrollment": 1240,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y11",
+    "year_established": "2018"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.29253769,
+    "lon": 55.37539673,
+    "tuition_fee": 5234.857143,
+    "enrollment": 3598,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1981"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.193606,
+    "lon": 55.388731,
+    "tuition_fee": 19740.46667,
+    "enrollment": 1006,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1989"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.16905,
+    "lon": 55.237469,
+    "tuition_fee": 56891.6,
+    "enrollment": 1335,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.25753403,
+    "lon": 55.38636017,
+    "tuition_fee": 17630.73333,
+    "enrollment": 1571,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary -G12",
+    "year_established": "2012"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.240542,
+    "lon": 55.315133,
+    "tuition_fee": 7911.125,
+    "enrollment": 5303,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G5-G12",
+    "year_established": "1972"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.24843597,
+    "lon": 55.34057999,
+    "tuition_fee": 7664.571429,
+    "enrollment": 4178,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G4",
+    "year_established": "1988"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.11587334,
+    "lon": 55.37596512,
+    "tuition_fee": 12570.07143,
+    "enrollment": 3143,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G10",
+    "year_established": "2011"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "SABIS (UK/US)",
+    "address": "N/A",
+    "lat": 25.10718155,
+    "lon": 55.17162323,
+    "tuition_fee": 29850.71429,
+    "enrollment": 3954,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "1994"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "SABIS (UK/US)",
+    "address": "N/A",
+    "lat": 24.983802,
+    "lon": 55.15553,
+    "tuition_fee": 35676.14286,
+    "enrollment": 2985,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2012"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.286631,
+    "lon": 55.367103,
+    "tuition_fee": 22352.53333,
+    "enrollment": 2756,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2000"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 55.34629059,
+    "lon": 25.23852921,
+    "tuition_fee": 6695.125,
+    "enrollment": 1478,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G5-G12",
+    "year_established": "2021"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Ministry of Education",
+    "address": "N/A",
+    "lat": 25.23852158,
+    "lon": 55.34583282,
+    "tuition_fee": 6054.75,
+    "enrollment": 1461,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G5-G12",
+    "year_established": "1984"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Philippine",
+    "address": "N/A",
+    "lat": 25.26163852,
+    "lon": 55.41830298,
+    "tuition_fee": 9276.714286,
+    "enrollment": 2498,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "2008"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.20030022,
+    "lon": 55.43939972,
+    "tuition_fee": 62076.5,
+    "enrollment": 814,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "G9-G12",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.20108218,
+    "lon": 55.43928898,
+    "tuition_fee": 51827.93333,
+    "enrollment": 3259,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.293372,
+    "lon": 55.385719,
+    "tuition_fee": 31153.06667,
+    "enrollment": 1166,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2004"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.283053,
+    "lon": 55.370633,
+    "tuition_fee": 12486.8,
+    "enrollment": 5222,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "1988"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.040094,
+    "lon": 55.120922,
+    "tuition_fee": 21292.6,
+    "enrollment": 4308,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y13",
+    "year_established": "2003"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Philippine",
+    "address": "N/A",
+    "lat": 25.27739716,
+    "lon": 55.40872955,
+    "tuition_fee": 7873.928571,
+    "enrollment": 1824,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "KG1-G12",
+    "year_established": "1992"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "US/IB",
+    "address": "N/A",
+    "lat": 25.2214222,
+    "lon": 55.36548996,
+    "tuition_fee": 65733.53333,
+    "enrollment": 1233,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2005"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "International Baccalaureate",
+    "address": "N/A",
+    "lat": 25.217987,
+    "lon": 55.423622,
+    "tuition_fee": 78149.6,
+    "enrollment": 1368,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary-G12",
+    "year_established": "2012"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "American",
+    "address": "N/A",
+    "lat": 25.12363052,
+    "lon": 55.40246964,
+    "tuition_fee": 37701.75,
+    "enrollment": 250,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre Primary -G5",
+    "year_established": "2020"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "UK",
+    "address": "N/A",
+    "lat": 25.035175,
+    "lon": 55.222477,
+    "tuition_fee": 47682.75,
+    "enrollment": 1020,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "FS1-Y6",
+    "year_established": "2012"
+  },
+  {
+    "name": "Unknown School",
+    "school_type": "Private",
+    "curriculum_type": "Indian",
+    "address": "N/A",
+    "lat": 25.282245,
+    "lon": 55.370429,
+    "tuition_fee": 18060.0,
+    "enrollment": 2727,
+    "gender": "N/A",
+    "region": "Dubai",
+    "district": "N/A",
+    "phone": "N/A",
+    "email": "N/A",
+    "emirate": "Dubai",
+    "grades": "Pre-primary-G10",
+    "year_established": "2014"
   }
 ];
